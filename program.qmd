@@ -64,7 +64,7 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 | **09:00 - 10:30** | **Talks: UQ** | Murray Room |
 | **10:30 - 11:00** | ☕ Morning Tea | Murray Room |
 | **11:00 - 13:00** | **Workshop 2a** <br> *Efficient Trial Design with Speed* | Murray Room |
-| | **Workshop 2b** <br> *Bioinformatics in AAGI: Projects, Tools and Workflows* | Murray Room |
+| | **Workshop 2b** <br> *Bioinformatics across AAGI: Research, Tools and Challenges* | Murray Room |
 | **13:00 - 14:00** | 🥪 Lunch | Murray Room |
 | **14:00 - 15:30** | **Talks: AAGI partners** | Murray Room |
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |

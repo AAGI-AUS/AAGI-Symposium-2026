@@ -1,0 +1,116 @@
+---
+title: "Resources"
+---
+
+Symposium materials, practical information, and follow-up links for attendees.
+
+## Quick Links
+
+<div class="card-grid card-grid-two">
+
+<a class="nav-card" href="program.qmd">
+<img src="images/program_1.jpg" class="card-img" alt="Program">
+<h3>Program</h3>
+<p>View the full symposium schedule and session timing.</p>
+</a>
+<a class="nav-card" href="workshops.qmd">
+<img src="images/workshops_1.jpg" class="card-img" alt="Workshops">
+<h3>Workshops</h3>
+<p>Explore workshop pages and supporting materials.</p>
+</a>
+<a class="nav-card" href="posters.qmd">
+<img src="images/posters_1.jpg" class="card-img" alt="Posters">
+<h3>Posters</h3>
+<p>Browse the poster showcase and theme pages.</p>
+</a>
+<a class="nav-card" href="contact.qmd">
+<img src="images/participants_1.jpg" class="card-img" alt="Contact">
+<h3>Contact</h3>
+<p>Find organising committee and admin contacts.</p>
+</a></div>
+
+## Talks
+
+Slides and recordings will be added after the symposium, subject to presenter approval.
+
+
+### Talks Index (to populate)
+
+| Talk | Presenter | Slide Deck | Recording |
+|:---|:---|:---|:---|
+| Talk 1 title | Presenter name | Add Box link | Add Box link |
+| Talk 2 title | Presenter name | Add Box link | Add Box link |
+| Talk 3 title | Presenter name | Add Box link | Add Box link |
+
+## Venue and Attendee Resources
+
+### Venue map
+
+- QT Perth: [133 Murray Street, Perth WA](https://maps.google.com/?q=QT+Perth+133+Murray+Street+Perth)
+
+### Wi-Fi details
+
+- Wi-Fi network and password will be available at the venue and shared with attendees during the symposium.
+
+### Accessibility and transport (Perth Domestic Airport to QT Perth)
+
+- Taxi or rideshare: approximately 20 to 30 minutes, depending on traffic.
+- Public transport: typically 45 to 60 minutes (bus + train + short walk).
+- Recommended drop-off point: QT Perth main entrance on Murray Street.
+
+
+### Local logistics
+
+- Parking: use nearby CBD public parking stations (rates and availability vary).
+- Nearby food: multiple cafes and restaurants within short walking distance on Murray Street and Hay Street.
+- Emergency contacts:
+	- Emergency services (Police, Fire, Ambulance): 000
+	- Police assistance (non-urgent): 131 444
+	- Healthdirect: 1800 022 222
+
+## Templates
+
+- Poster template: **TBA - add download link**
+- Presentation template: **TBA - add download link**
+
+
+### Code of conduct and media
+
+All symposium presentations, discussions, posters, recordings, and shared materials are considered confidential to symposium participants unless explicit permission is given by the presenter, author, or organising committee.
+
+Photography, screenshots, and redistribution of content outside the symposium should only occur with prior consent.
+
+## Post-Symposium Archive
+
+- Final program PDF: **TBA - add link**
+- Consolidated proceedings/resources pack: **TBA - add link**
+- Follow-up links:
+	- Mailing list: **TBA - add link**
+	- Next event: **TBA - add link**
+	- Feedback form: **TBA - add link**
+
+<!-- 
+::: {.callout-note collapse="true" title="How to update this page (editor note)"}
+1. Add the main Box folder link:
+Replace this line under Talks:
+`- Box folder (all talks and recordings): **TBA - add folder link here**`
+with:
+`- Box folder (all talks and recordings): [AAGI Talks Folder](https://your-box-folder-link)`
+
+2. Add each talk as a new row in the Talks Index table:
+Copy and paste this pattern, one row per talk:
+
+`| Talk title | Presenter name | [Slides](https://box-link-to-slides) | [Recording](https://box-link-to-recording) |`
+
+3. If only slides or recording are available:
+Use `TBA` in the missing column, for example:
+
+`| Talk title | Presenter name | [Slides](https://box-link-to-slides) | TBA |`
+
+4. Update templates and archive links:
+Replace each `**TBA - add link**` item with a markdown link, for example:
+`[Poster Template (PPTX)](https://box-link-to-template)`
+
+5. Keep link text consistent:
+Use short labels such as `Slides`, `Recording`, `Poster Template`, `Final Program PDF`, and `Feedback Form`.
+::: -->

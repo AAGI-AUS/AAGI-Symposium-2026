@@ -137,7 +137,35 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Contact information for the 2026 AAGI Symposium."
+    "text": "Contact information for the 2026 AAGI Symposium.\nIf you have a question about the symposium, the organising committee is the best first point of contact. For venue, program or general event enquiries, please use the contacts below."
+  },
+  {
+    "objectID": "contact.html#curtin-university",
+    "href": "contact.html#curtin-university",
+    "title": "Contact",
+    "section": "Curtin University",
+    "text": "Curtin University\nCurtin University is the organising node and the host venue for the symposium.\nSandra Tanz sandra.tanz@curtin.edu.au\nBraden Thorne braden.thorne@curtin.edu.au"
+  },
+  {
+    "objectID": "contact.html#administration",
+    "href": "contact.html#administration",
+    "title": "Contact",
+    "section": "Administration",
+    "text": "Administration\nFor admin-related questions, please contact:\nFiona Henley fiona.henley@curtin.edu.au\nNicole Downs nicole.downs@curtin.edu.au"
+  },
+  {
+    "objectID": "contact.html#adelaide-university",
+    "href": "contact.html#adelaide-university",
+    "title": "Contact",
+    "section": "Adelaide University",
+    "text": "Adelaide University\nRussell Andrew Edson russell.edson@adelaide.edu.au\nYanina Giordano yanina.giordano@adelaide.edu.au\nJulian Taylor julian.taylor@adelaide.edu.au"
+  },
+  {
+    "objectID": "contact.html#university-of-queensland",
+    "href": "contact.html#university-of-queensland",
+    "title": "Contact",
+    "section": "University of Queensland",
+    "text": "University of Queensland\nRobert Armstrong r.armstrong1@uq.edu.au\nSebastian Lopez Marcano s.lopezmarcano@uq.edu.au\nSophy Wang xiaoyi.wang@uq.edu.au\nDinesha Jayawardana dinesha.jayawardana@uq.edu.au\nVanessa Lopez Corona a.lopezcorona@uq.edu.au\nBruno Rafael de Almeida Moreira b.moreira@uq.edu.au\nKaiyu Guo kaiyu.guo@uq.edu.au\nIf you are unsure who to contact, email the Curtin organising team and your message will be directed to the appropriate person."
   },
   {
     "objectID": "workshop-3.html",
@@ -208,6 +236,48 @@
     "title": "Posters Theme 2",
     "section": "",
     "text": "&lt;p&gt;No posters have been submitted for this theme yet.&lt;/p&gt;"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Symposium materials, practical information, and follow-up links for attendees."
+  },
+  {
+    "objectID": "resources.html#quick-links",
+    "href": "resources.html#quick-links",
+    "title": "Resources",
+    "section": "Quick Links",
+    "text": "Quick Links\n\n \n\nProgram\n\n\nView the full symposium schedule and session timing.\n\n  \n\nWorkshops\n\n\nExplore workshop pages and supporting materials.\n\n  \n\nPosters\n\n\nBrowse the poster showcase and theme pages.\n\n  \n\nContact\n\n\nFind organising committee and admin contacts."
+  },
+  {
+    "objectID": "resources.html#talks",
+    "href": "resources.html#talks",
+    "title": "Resources",
+    "section": "Talks",
+    "text": "Talks\nSlides and recordings will be added after the symposium, subject to presenter approval.\n\nTalks Index (to populate)\n\n\n\nTalk\nPresenter\nSlide Deck\nRecording\n\n\n\n\nTalk 1 title\nPresenter name\nAdd Box link\nAdd Box link\n\n\nTalk 2 title\nPresenter name\nAdd Box link\nAdd Box link\n\n\nTalk 3 title\nPresenter name\nAdd Box link\nAdd Box link"
+  },
+  {
+    "objectID": "resources.html#venue-and-attendee-resources",
+    "href": "resources.html#venue-and-attendee-resources",
+    "title": "Resources",
+    "section": "Venue and Attendee Resources",
+    "text": "Venue and Attendee Resources\n\nVenue map\n\nQT Perth: 133 Murray Street, Perth WA\n\n\n\nWi-Fi details\n\nWi-Fi network and password will be available at the venue and shared with attendees during the symposium.\n\n\n\nAccessibility and transport (Perth Domestic Airport to QT Perth)\n\nTaxi or rideshare: approximately 20 to 30 minutes, depending on traffic.\nPublic transport: typically 45 to 60 minutes (bus + train + short walk).\nRecommended drop-off point: QT Perth main entrance on Murray Street.\n\n\n\nLocal logistics\n\nParking: use nearby CBD public parking stations (rates and availability vary).\nNearby food: multiple cafes and restaurants within short walking distance on Murray Street and Hay Street.\nEmergency contacts:\n\nEmergency services (Police, Fire, Ambulance): 000\nPolice assistance (non-urgent): 131 444\nHealthdirect: 1800 022 222"
+  },
+  {
+    "objectID": "resources.html#templates",
+    "href": "resources.html#templates",
+    "title": "Resources",
+    "section": "Templates",
+    "text": "Templates\n\nPoster template: TBA - add download link\nPresentation template: TBA - add download link\n\n\nCode of conduct and media\nAll symposium presentations, discussions, posters, recordings, and shared materials are considered confidential to symposium participants unless explicit permission is given by the presenter, author, or organising committee.\nPhotography, screenshots, and redistribution of content outside the symposium should only occur with prior consent."
+  },
+  {
+    "objectID": "resources.html#post-symposium-archive",
+    "href": "resources.html#post-symposium-archive",
+    "title": "Resources",
+    "section": "Post-Symposium Archive",
+    "text": "Post-Symposium Archive\n\nFinal program PDF: TBA - add link\nConsolidated proceedings/resources pack: TBA - add link\nFollow-up links:\n\nMailing list: TBA - add link\nNext event: TBA - add link\nFeedback form: TBA - add link"
   },
   {
     "objectID": "posters-theme-4.html",

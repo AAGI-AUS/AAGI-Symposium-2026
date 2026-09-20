@@ -1,8 +1,16 @@
 ---
-title: "Workshop 1"
+title: "Workshop 1<br>AI in AAGI: From Tools to Workflows"
 ---
 
-Workshop 1 details will be published soon.
+**Date:** Tuesday, 10 November 2026  
+**Time:** 11:00 - 13:00  
+**Venue:** QT Perth, Murray Room
+
+
+## Summary
+This workshop will explore the application of AI in AAGI, focusing on the transition from individual tools to integrated workflows.
+
+More details will be published soon.
 
 ## Resources
 

@@ -1,8 +1,15 @@
 ---
-title: "Workshop 3"
+title: "Workshop 3<br>Bioinformatics across AAGI: Research, Tools and Challenges"
 ---
 
-Workshop 3 details will be published soon.
+**Date:** Wednesday, 11 November 2026  
+**Time:** 11:00 - 13:00  
+**Venue:** QT Perth, Murray Room
+
+## Summary
+This workshop will explore bioinformatics across AAGI, including research, tools and challenges.
+
+More details will be published soon.
 
 ## Resources
 

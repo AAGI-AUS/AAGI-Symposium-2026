@@ -23,17 +23,58 @@ css: styles.css
 
 # 2026 AAGI Symposium
 
-**10–12 November 2026**
-
-**QT Hotel Perth • 133 Murray Street • Perth CBD**
-
-
---- 
-
 
 Welcome to the official website of the **2026 Australian Analytics for the Australian Grains Industry (AAGI) Symposium**.
 
 The annual AAGI Symposium brings together researchers, students and industry collaborators from across Australia to share research, develop new collaborations, and explore the latest advances in data analytics for the grains industry. The symposium provides an opportunity to showcase innovative research, exchange ideas, learn new tools and methods, and strengthen the AAGI community. This year's program also includes the inaugural AAGI Awards, recognising outstanding contributions from AAGI members.
+
+---
+
+<!-- banner section -->
+```{=html}
+<div class="symposium-overview">
+  <div class="symposium-details" aria-label="Symposium details">
+    <div class="detail-row">
+      <span class="detail-icon" aria-hidden="true"><i class="bi bi-calendar-event"></i></span>
+      <div class="detail-text">
+        <p class="detail-label">Date</p>
+        <p class="detail-value">10-12 November 2026</p>
+      </div>
+    </div>
+    <div class="detail-spacer" aria-hidden="true"></div>
+    <div class="detail-row">
+      <span class="detail-icon" aria-hidden="true"><i class="bi bi-geo-alt"></i></span>
+      <div class="detail-text">
+        <p class="detail-label">Location</p>
+        <p class="detail-value">Perth, Australia</p>
+      </div>
+    </div>
+    <div class="detail-spacer" aria-hidden="true"></div>
+    <div class="detail-row">
+      <span class="detail-icon" aria-hidden="true"><i class="bi bi-building"></i></span>
+      <div class="detail-text">
+        <p class="detail-label">Venue</p>
+        <p class="detail-value">QT Hotel</p>
+      </div>
+    </div>
+    <div class="detail-spacer" aria-hidden="true"></div>
+    <div class="detail-row">
+      <span class="detail-icon" aria-hidden="true"><i class="bi bi-signpost-2"></i></span>
+      <div class="detail-text">
+        <p class="detail-label">Address</p>
+        <p class="detail-value">133 Murray Street, Perth CBD</p>
+      </div>
+    </div>
+  </div>
+  <div class="symposium-image-wrap">
+    <img src="images/QTPerth.jpg" alt="QT Hotel Perth" class="symposium-image">
+  </div>
+</div>
+```
+
+--- 
+
+
 
 
 

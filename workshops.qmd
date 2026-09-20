@@ -10,20 +10,24 @@ Explore the four symposium workshops below.
 <a class="nav-card" href="workshop-1.qmd">
 <img src="images/workshops_1.jpg" class="card-img" alt="Workshop 1">
 <h3>Workshop 1</h3>
-<p>Workshop details, materials, and resources.</p>
+<h3>AI in AAGI: From Tools to Workflows</h3>
+<p>This workshop will explore the application of AI in AAGI, focusing on the transition from individual tools to integrated workflows.</p>
 </a>
 <a class="nav-card" href="workshop-2.qmd">
 <img src="images/workshops_1.jpg" class="card-img" alt="Workshop 2">
 <h3>Workshop 2</h3>
-<p>Workshop details, materials, and resources.</p>
+<h3>Efficient Trial Design with Speed</h3>
+<p>This workshop will explore efficient trial design with Speed.</p>
 </a>
 <a class="nav-card" href="workshop-3.qmd">
 <img src="images/workshops_1.jpg" class="card-img" alt="Workshop 3">
 <h3>Workshop 3</h3>
-<p>Workshop details, materials, and resources.</p>
+<h3>Bioinformatics across AAGI: Research, Tools and Challenges</h3>
+<p>This workshop will explore bioinformatics across AAGI, including research, tools and challenges.</p>
 </a>
 <a class="nav-card" href="workshop-4.qmd">
 <img src="images/workshops_1.jpg" class="card-img" alt="Workshop 4">
 <h3>Workshop 4</h3>
-<p>Workshop details, materials, and resources.</p>
+<h3>AAGI 2.0: Preparing for the Future</h3>
+<p>This workshop will explore AAGI 2.0 and preparations for the future.</p>
 </a> </div>

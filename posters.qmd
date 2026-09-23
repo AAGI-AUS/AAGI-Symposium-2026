@@ -28,7 +28,7 @@ We encourage all AAGI Symposium participants to prepare a poster showcasing thei
 
 ### Poster submission 
 
-**Submission deadline: 2 October 2026**
+**Submission deadline: 20 October 2026**
 
 This deadline allows sufficient time for posters to be printed in Perth and ensures they are ready for display at the symposium.
 
@@ -103,7 +103,7 @@ Posters will be displayed on double-sided poster boards, with two A0 portrait po
 
 ### QR code
 Please include a **QR code placeholder** on your poster. This will be used to link to the digital version of your poster on the symposium website.
-A minimum size of **2 × 2 cm** is recommended to ensure the QR code can be scanned easily.
+A minimum size of **8 × 8 cm** is recommended to ensure the QR code can be scanned easily.
 
 
 ### Short poster presentations

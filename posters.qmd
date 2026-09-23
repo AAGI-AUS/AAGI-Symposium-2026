@@ -11,7 +11,7 @@ title: "Posters"
 Are you presenting a poster at the symposium? Submit your poster details via the Google Form and upload your PDF poster to the relevant Box folder. 
 
 
-**Deadline:** 20 October 2026.
+**Deadline: 20 October 2026**
 <br>
 
 <!-- [Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-primary .btn-lg role="button" target="_blank"} -->
@@ -23,8 +23,53 @@ Are you presenting a poster at the symposium? Submit your poster details via the
 :::
 
 
+
 ## Poster Guidelines
+
 We encourage all AAGI Symposium participants to prepare a poster showcasing their research, project, tools, or area of work. The poster session provides an opportunity to share ideas, highlight your work, and foster discussion and collaboration across the AAGI community.
+
+
+### Poster Templates
+The AAGI poster templates can be downloaded from this Box folder: 
+
+[AAGI Poster Templates ↗](https://https://app.box.com/folder/419916371189){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+
+
+### Poster content
+Posters should clearly communicate:
+
+- The research, project, tool, or area of work being presented.
+- The problem, question, or objective being addressed.
+- The methods, approach, or workflow used.
+- Key findings, outcomes, or expected impacts (where available).
+- Contact details to enable follow-up discussions and collaboration.
+
+
+### Poster format
+- **Size:** A0 (841 × 1189 mm)
+- **Orientation:** Portrait
+
+Posters will be displayed on double-sided poster boards, with two A0 portrait posters displayed on each side.
+
+
+### QR code
+Please include a **QR code placeholder** on your poster. This will be used to link to the digital version of your poster on the symposium website.
+A minimum size of **8 × 8 cm** is recommended to ensure the QR code can be scanned easily.
+
+
+### File requirements
+- **Format:** PDF 
+
+- **File name:** Please use the following format: [Poster_SurnameFirstName.pdf]{style="color: navy;"}
+    - Example: [Poster_SmithJohn.pdf]{style="color: navy;"}
+
+- **Number of posters:** One poster per participant. Collaborative group posters are encouraged where a project has multiple contributors. 
+
+
+<!-- - Example: `2026AAGISymposium_poster_Smith_J.pdf` -->
+
+<!-- - Example: [2026AAGISymposium_poster_Smith_J.pdf]{style="color: navy;"} --> 
+
 
 ### Poster submission 
 
@@ -68,42 +113,6 @@ Please make sure you upload your poster to the folder corresponding to the theme
 [Poster Theme 6 - Upload ↗](https://adelaideuniversity.box.com/s/imnvh58ug8wqa5v82dbjyp9ftkdn8tkz){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 </div> -->
 
-
-
-### File requirements
-- **Format:** PDF 
-
-- **File name:** Please use the following format: [Poster_SurnameFirstName.pdf]{style="color: navy;"}
-    - Example: [Poster_SmithJohn.pdf]{style="color: navy;"}
-
-- **Number of posters:** One poster per participant. Collaborative group posters are encouraged where a project has multiple contributors. 
-
-
-<!-- - Example: `2026AAGISymposium_poster_Smith_J.pdf` -->
-
-<!-- - Example: [2026AAGISymposium_poster_Smith_J.pdf]{style="color: navy;"} --> 
-
-
-
-### Poster content
-Posters should clearly communicate:
-
-- The research, project, tool, or area of work being presented.
-- The problem, question, or objective being addressed.
-- The methods, approach, or workflow used.
-- Key findings, outcomes, or expected impacts (where available).
-- Contact details to enable follow-up discussions and collaboration.
-
-### Poster format
-
-- **Size:** A0 (841 × 1189 mm)
-- **Orientation:** Portrait
-
-Posters will be displayed on double-sided poster boards, with two A0 portrait posters displayed on each side.
-
-### QR code
-Please include a **QR code placeholder** on your poster. This will be used to link to the digital version of your poster on the symposium website.
-A minimum size of **8 × 8 cm** is recommended to ensure the QR code can be scanned easily.
 
 
 ### Short poster presentations

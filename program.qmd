@@ -11,20 +11,20 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 
 ## Schedule at a Glance
 
-| Time Block | Mon 9/11 (Day 0) | Tue 10/11 (Day 1) | Wed 11/11 (Day 2) | Thu 12/11 (Day 3) |
-|:---|:---|:---|:---|:---|
-| **08:30 - 09:00** | | **Opening by GRDC** | | |
-| **09:00 - 10:30** | **Workshop (UQ/WUR)** | **Talks: CU** | **Talks: UQ** | **Talks: AU** |
-| **10:30 - 11:00** | ☕ Morning Tea | ☕ Morning Tea | ☕ Morning Tea | ☕ Morning Tea |
-| **11:00 - 13:00** | **Workshop (UQ/WUR)** | **Workshop 1** | **Workshop 2** | **Workshop 4** |
-| | | | **Workshop 3** | |
-| **13:00 - 14:00** | 🥪 Lunch | 🥪 Lunch | 🥪 Lunch | 🏆 **Closing & Awards** |
-| **14:00 - 15:30** | **Workshop (UQ/WUR)** | **Industry, Government and Growers (IGG) Session** | **Talks: AAGI partners** | 🥡 Take-away Lunch |
-| **15:30 - 16:00** | ☕ Afternoon Tea | ☕ Afternoon Tea | ☕ Afternoon Tea | |
-| **16:00 - 16:30** | _Free time_ | _Free time_ | 👭 **HDR Networking Session** | |
-| **16:30 - 17:30** | _Free time_ | 📊 **Poster Session** | 👭 **HDR Networking Session** | |
-| **17:30 - 18:30** | _Free time_ | 📊 **Poster Session** | _Free time_ | |
-| **18:30 - 20:30** | 🥂 **Welcome Mixer** | | 🍽️ **Symposium Dinner** | |
+| Time Block | Mon 9/11 (Day 0) <br> Workshop (UQ/WUR) | Mon 9/11 (Day 0) <br> 🧬 Bioinformatics at AAGI (CU/UWA) | Tue 10/11 (Day 1) | Wed 11/11 (Day 2) | Thu 12/11 (Day 3) |
+|:---|:---|:---|:---|:---|:---|
+| **08:30 - 09:00** | | | **Opening by GRDC** | | |
+| **09:00 - 10:30** | **Workshop (UQ/WUR)** | | **Talks: CU** | **Talks: UQ** | **Talks: AU** |
+| **10:30 - 11:00** | ☕ Morning Tea | | ☕ Morning Tea | ☕ Morning Tea | ☕ Morning Tea |
+| **11:00 - 13:00** | **Workshop (UQ/WUR)** | | **Workshop 1** | **Workshop 2** | **Workshop 4** |
+| | | | | **Workshop 3** | |
+| **13:00 - 14:00** | 🥪 Lunch | 🧬 **Bioinformatics at AAGI (CU/UWA)** | 🥪 Lunch | 🥪 Lunch | 🏆 **Closing & Awards** |
+| **14:00 - 15:30** | **Workshop (UQ/WUR)** | 🧬 **Bioinformatics at AAGI (CU/UWA)** | **Industry, Government and Growers (IGG) Session** | **Talks: AAGI partners** | 🥡 Take-away Lunch |
+| **15:30 - 16:00** | ☕ Afternoon Tea | 🧬 **Bioinformatics at AAGI (CU/UWA)** | ☕ Afternoon Tea | ☕ Afternoon Tea | |
+| **16:00 - 16:30** | _Free time_ | 🧬 **Bioinformatics at AAGI (CU/UWA)** | _Free time_ | 👭 **HDR Networking Session** | |
+| **16:30 - 17:30** | _Free time_ | 🧬 **Bioinformatics at AAGI (CU/UWA)** | 📊 **Poster Session** | 👭 **HDR Networking Session** | |
+| **17:30 - 18:30** | _Free time_ | 🧬 **Bioinformatics at AAGI (CU/UWA)** | 📊 **Poster Session** | _Free time_ | |
+| **18:30 - 20:30** | 🥂 **Welcome Mixer** | | | 🍽️ **Symposium Dinner** | |
 
 ## Daily Schedule
 
@@ -42,6 +42,14 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |
 | **16:00 - 18:30** | *Free time* | |
 | **18:30 - 20:30** | 🥂 **Welcome Mixer** <br> *Networking Social Evening* | QT Rooftop Bar |
+
+#### 🧬 Bioinformatics at AAGI (CU/UWA)
+
+| Time | Session | Location |
+|:---|:---|:---|
+| **13:00 - 15:00** | **Presentations** | Room 208 (level 2) <br> Curtin Law School <br> 57 Murray Street, Perth WA 6000 |
+| **15:00 - 15:30** | ☕ Break | Room 208 (level 2) |
+| **15:30 - 18:00** | **Presentations** | Room 208 (level 2) |
 
 ### Day 1: Tuesday 10/11
 

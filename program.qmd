@@ -18,7 +18,7 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 | **10:30 - 11:00** | ☕ Morning Tea | | ☕ Morning Tea | ☕ Morning Tea | ☕ Morning Tea |
 | **11:00 - 13:00** | **Workshop (UQ/WUR)** | | **Workshop 1** | **Workshop 2** | **Workshop 4** |
 | | | | | **Workshop 3** | |
-| **13:00 - 14:00** | 🥪 Lunch | 🧬 **Bioinformatics at AAGI (CU/UWA)** | 🥪 Lunch | 🥪 Lunch | 🏆 **Closing & Awards** |
+| **13:00 - 14:00** | 🥪 Lunch | | 🥪 Lunch | 🥪 Lunch | 🏆 **Closing & Awards** |
 | **14:00 - 15:30** | **Workshop (UQ/WUR)** | 🧬 **Bioinformatics at AAGI (CU/UWA)** | **Industry, Government and Growers (IGG) Session** | **Talks: AAGI partners** | 🥡 Take-away Lunch |
 | **15:30 - 16:00** | ☕ Afternoon Tea | 🧬 **Bioinformatics at AAGI (CU/UWA)** | ☕ Afternoon Tea | ☕ Afternoon Tea | |
 | **16:00 - 16:30** | _Free time_ | 🧬 **Bioinformatics at AAGI (CU/UWA)** | _Free time_ | 👭 **HDR Networking Session** | |
@@ -47,9 +47,9 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 
 | Time | Session | Location |
 |:---|:---|:---|
-| **13:00 - 15:00** | **Presentations** | Room 208 (level 2) <br> Curtin Law School <br> 57 Murray Street, Perth WA 6000 |
-| **15:00 - 15:30** | ☕ Break | Room 208 (level 2) |
-| **15:30 - 18:00** | **Presentations** | Room 208 (level 2) |
+| **14:00 - 15:30** | **Presentations** | Room P05.208 <br> Curtin Business School <br> 78 Murray Street, Perth WA 6000 |
+| **15:30 - 16:00** | ☕ Break | Room P05.208 |
+| **16:00 - 18:00** | **Presentations** | Room P05.208 |
 
 ### Day 1: Tuesday 10/11
 

@@ -5,7 +5,7 @@ page-layout: full
 
 ***
 ### 🏨 Venue Information
-The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the heart of Perth CBD. Most sessions take place inside the **Murray Room**.
+The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the heart of Perth CBD. Most sessions take place inside the **Murray Room**. The Bioinformatics symposium will take place at Curtin Business School, 78 Murray Street, Room 212 (Level 2)
 
 <!-- 🏨 **Venue Note:** The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the heart of Perth CBD. Most sessions take place inside the **Murray Room**. -->
 ***

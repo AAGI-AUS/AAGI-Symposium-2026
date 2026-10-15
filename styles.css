@@ -148,6 +148,12 @@
   color: #374151;
   font-weight: 700;
   padding: 0.85rem 0.75rem;
+  text-align: center;
+}
+
+.panel-tabset .nav-tabs .nav-item {
+  flex: 1 1 0;
+  min-width: 0;
 }
 
 .panel-tabset .nav-tabs .nav-link.active {

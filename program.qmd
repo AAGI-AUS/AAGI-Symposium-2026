@@ -28,13 +28,13 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 | **11:00 - 13:00** | **Workshop (UQ/WUR)** | **Workshop 1** | **Workshop 2** | **Workshop 4** |
 | | | | **Workshop 3** | |
 | **13:00 - 14:00** | 🥪 Lunch | 🥪 Lunch | 🥪 Lunch | 🏆 **Closing & Awards** |
-| **14:00 - 15:30** | **Workshop (UQ/WUR)** | **Industry, Government and Growers (IGG) Session** | **Talks: AAGI partners** | 🥡 Take-away Lunch |
+| **14:00 - 15:30** | **Workshop (UQ/WUR)** | **Industry, Government and Growers (IGG)** | **Talks: AAGI partners** | 🥡 Take-away Lunch |
 | | **Bioinformatics Satellite (CU/UWA)** | | | |
 | **15:30 - 16:00** | ☕ Afternoon Tea | ☕ Afternoon Tea | ☕ Afternoon Tea | |
-| **16:00 - 16:30** | **Bioinformatics Satellite (CU/UWA)** | _Free time_ | 👭 **HDR Networking Session** | |
-| **16:30 - 17:30** | **Bioinformatics Satellite (CU/UWA)** | 📊 **Poster Session** | 👭 **HDR Networking Session** | |
-| **17:30 - 18:00** | **Bioinformatics Satellite (CU/UWA)** | 📊 **Poster Session** | _Free time_ | |
-| **18:00 - 18:30** | _Free time_ | 📊 **Poster Session** | _Free time_ | |
+| **16:00 - 16:30** | **Bioinformatics Satellite (CU/UWA)** | _Free time_ | 👭 **HDR Networking** | |
+| **16:30 - 17:30** | **Bioinformatics Satellite (CU/UWA)** | 📊 **Poster Showcase** | 👭 **HDR Networking** | |
+| **17:30 - 18:00** | **Bioinformatics Satellite (CU/UWA)** | 📊 **Poster Showcase** | _Free time_ | |
+| **18:00 - 18:30** | _Free time_ | 📊 **Poster Showcase** | _Free time_ | |
 | **18:30 - 20:30** | 🥂 **Welcome Mixer** | | 🍽️ **Symposium Dinner** | |
 
 :::
@@ -67,10 +67,10 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 | **10:30 - 11:00** | ☕ Morning Tea | Murray Room |
 | **11:00 - 13:00** | **Workshop 1** <br> *AI in AAGI: From Tools to Workflows* | Murray Room |
 | **13:00 - 14:00** | 🥪 Lunch | Murray Room |
-| **14:00 - 15:30** | **Industry, Government and Growers (IGG) Session** | Murray Room |
+| **14:00 - 15:30** | **Industry, Government and Growers (IGG)** | Murray Room |
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |
 | **16:00 - 16:30** | *Free time* | |
-| **16:30 - 18:30** | 📊 **Poster Session** | Murray Room |
+| **16:30 - 18:30** | 📊 **Poster Showcase** | Murray Room |
 
 ### Day 2: Wednesday 11/11
 
@@ -78,12 +78,12 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 |:---|:---|:---|
 | **09:00 - 10:30** | **Talks: UQ** | Murray Room |
 | **10:30 - 11:00** | ☕ Morning Tea | Murray Room |
-| **11:00 - 13:00** | **Workshop 2** <br> *Efficient Trial Design with Speed* | Murray Room |
+| **11:00 - 13:00** | **Workshop 2** <br> *Efficient Trial Design with *speed* | Murray Room |
 | | **Workshop 3** <br> *Bioinformatics across AAGI: Research, Tools and Challenges* | Gallery, Curtin 137 St Georges Terrace |
 | **13:00 - 14:00** | 🥪 Lunch | Murray Room |
 | **14:00 - 15:30** | **Talks: AAGI partners** | Murray Room |
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |
-| **16:00 - 17:30** | 👭 **HDR Networking Session** | Murray Room |
+| **16:00 - 17:30** | 👭 **HDR Networking** | Murray Room |
 | **17:30 - 18:30** | *Free time* | |
 | **18:30 - 20:30** | 🍽️ **Symposium Dinner** | *TBA (Offsite Venue)* |
 

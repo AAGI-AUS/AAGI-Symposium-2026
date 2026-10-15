@@ -1,5 +1,5 @@
 ---
-title: "Bioinformatics Satellite Meeting<br>Applied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research"
+title: '<span class="workshop-title-text">Bioinformatics Satellite Meeting<br>Applied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research</span><img src="images/workshop_bioinfo_satellite_image@2x.jpg" class="workshop-hero-image" alt="Illustration of bioinformatics tools and data-driven crop research">'
 
 ---
 
@@ -28,7 +28,7 @@ Advances in bioinformatics, genomics and machine learning are transforming how w
 | Thomas Bergmann (UWA) | A machine learning-based framework for advanced variant filtering in crop genomics |
 | Shameela Mohamedikbal (UWA) | Integrating SNPs, functional InDel features, and machine learning to identify genetic variants associated with common bacterial blight resistance in common bean |
 | Felipe Albornoz (UWA) | Characterising structural variation in the Brassica host and blackleg pathogen genomes |
-| Yutathkarn (Daniel) Coles (CU/CCDM/AAGI) and Fatima Naim (CU/CCDM/AAGI) | From isoforms to Starships: multi-omic insights into barley and Pyrenophora teres f. teres interactions |
+| Yutathkarn (Daniel) Coles (CU/CCDM/AAGI) and Fatima Naim (CU/CCDM) | From isoforms to Starships: multi-omic insights into barley and Pyrenophora teres f. teres interactions |
 | Pavel Misiun (CU/AAGI) and Kristina Gagalova (CU/AAGI) | Benchmarking structural predictors and pLM binary classifiers for predicting cross-kingdom protein-protein interactions in crop disease pathosystems |
 | Jack Bruton (UWA) | Automated literature mining and LLM-based database curation for crop science |
 | Tessa MacNish (UWA) | How can haplotypes and machine learning improve genomic selection in Brassica napus |

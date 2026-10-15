@@ -112,6 +112,20 @@
   object-fit: cover;
 }
 
+.workshop-hero-image {
+  width: 25%;
+  margin-left: 2rem;
+  border-radius: 14px;
+  box-shadow: 0 10px 28px rgba(15, 23, 42, 0.16);
+}
+
+.quarto-title h1:has(.workshop-hero-image) {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
 /* Make the navbar logo slightly larger while keeping mobile spacing tidy. */
 .navbar-brand img {
   max-height: 56px;
@@ -223,6 +237,16 @@
 }
 
 @media (max-width: 600px) {
+  .quarto-title h1:has(.workshop-hero-image) {
+    align-items: flex-start;
+  }
+
+  .quarto-title h1 .workshop-hero-image {
+    width: 100%;
+    max-width: 120px;
+    margin-left: 1rem;
+  }
+
   .card-grid {
     grid-template-columns: 1fr;
   }
@@ -245,4 +269,3 @@
     padding: 0.75rem;
   }
 }
-

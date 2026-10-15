@@ -4,7 +4,7 @@ title: "Workshop 3<br>Bioinformatics across AAGI: Research, Tools and Challenges
 
 **Date:** Wednesday, 11 November 2026  
 **Time:** 11:00 - 13:00  
-**Venue:** QT Perth, Murray Room
+**Venue:** Curtin, 137 St Georges Terrace, Room: TBA
 
 ## Summary
 This workshop will explore bioinformatics across AAGI, including research, tools and challenges.

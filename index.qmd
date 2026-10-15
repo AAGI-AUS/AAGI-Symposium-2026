@@ -127,6 +127,11 @@ Access additional symposium materials, links and downloads shared throughout the
 <h3>Program</h3>
 <p>View the symposium schedule, including research talks, workshops, poster sessions, networking events and social activities.</p>
 </a>
+<a class="nav-card" href="talks-panels.qmd">
+<img src="images/hdr_1.jpg" class="card-img" alt="Talks & Panels">
+<h3>Talks &amp; Panels</h3>
+<p>Explore research talks and panel discussions featuring perspectives from across the Australian grains sector.</p>
+</a>
 <a class="nav-card" href="workshops.qmd">
 <img src="images/workshops_1.jpg" class="card-img" alt="Workshops">
 <h3>Workshops</h3>
@@ -136,11 +141,6 @@ Access additional symposium materials, links and downloads shared throughout the
 <img src="images/posters_1.jpg" class="card-img" alt="Poster Showcase">
 <h3>Poster Showcase</h3>
 <p>Explore digital versions of posters presented during the symposium and connect with presenters.</p>
-</a>
-<a class="nav-card" href="hdr.qmd">
-<img src="images/hdr_1.jpg" class="card-img" alt="HDR Networking">
-<h3>HDR Networking</h3>
-<p>Find information and resources for the Higher Degree by Research Networking Session, including mentoring and career development activities.</p>
 </a>
 <a class="nav-card" href="participants.qmd">
 <img src="images/participants_1.jpg" class="card-img" alt="Participants">

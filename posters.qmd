@@ -32,7 +32,7 @@ We encourage all AAGI Symposium participants to prepare a poster showcasing thei
 ### Poster Templates
 The AAGI poster templates can be downloaded from this Box folder: 
 
-[AAGI Poster Templates ↗](https://https://app.box.com/folder/419916371189){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+[AAGI Poster Templates ↗](https://app.box.com/folder/419916371189){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
 
 ### Poster content

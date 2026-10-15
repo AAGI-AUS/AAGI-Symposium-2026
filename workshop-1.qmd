@@ -8,12 +8,24 @@ title: "Workshop 1<br>AI in AAGI: From Tools to Workflows"
 
 
 ## Summary
-This workshop will explore the application of AI in AAGI, focusing on the transition from individual tools to integrated workflows.
+Artificial intelligence (AI) is rapidly transforming scientific research, creating new opportunities for knowledge discovery, data analysis, and computational tool development. This workshop will showcase major trends shaping the current AI landscape, exploring how emerging technologies are changing research practices and how they can be adopted effectively and responsibly. Through a series of presentations, we will examine AI-assisted literature exploration and research gap identification, AI-driven tool development, and the growing role of locally deployed AI models in supporting research workflows. Attention will be given to responsible AI practices, including the generation and use of synthetic data, management of sensitive research datasets, data privacy, and research integrity. Bringing together practical applications, emerging technologies and responsible data management strategies, the workshop aims to provide researchers with a broader understanding of AI's evolving role in science, encourage knowledge sharing across AAGI, and identify opportunities for collaboration and innovation in the Australian grains research community.
 
-More details will be published soon.
+
+## Speakers and Topics
+
+| Speaker | Topic |
+|:---|:---|
+| Kristina Gagalova | Welcome and event intro |
+| Julian Taylor | AI guidelines at AAGI |
+| Kristina Gagalova | Current AI landscape: general intro |
+| Javier Fernandez | Local AI Overview and relevance to sensitive teaching and research data |
+| Peiye Li | Literature review and research gap search with AI |
+| Sebastian Lopez Marcano | AI driven tool development and responsible AI |
+| Max Moldovan | Synthetic data usage for responsible AI: generation, use, and best practices |
+| Xin Yu | Real data for usage for responsible AI: local AI and Sensitive Data Management |
+
+The talks will be followed by a 15-minute **Q&A session** to discuss the topics raised.
 
 ## Resources
 
 - Slides: Coming soon
-- Code: Coming soon
-- Data: Coming soon

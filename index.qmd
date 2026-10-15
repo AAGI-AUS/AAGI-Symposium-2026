@@ -67,7 +67,7 @@ The annual AAGI Symposium brings together researchers, students and industry col
     </div>
   </div>
   <div class="symposium-image-wrap">
-    <img src="images/QTPerth.jpg" alt="QT Hotel Perth" class="symposium-image">
+    <img src="images/QT_Perth.jpg" alt="QT Hotel Perth" class="symposium-image">
   </div>
 </div>
 ```

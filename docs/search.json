@@ -56,100 +56,58 @@
     "text": "Sandra Tanz"
   },
   {
-    "objectID": "program.html#schedule-at-a-glance",
-    "href": "program.html#schedule-at-a-glance",
-    "title": "Program",
-    "section": "Schedule at a Glance",
-    "text": "Schedule at a Glance\n\n\n\n\n\n\n\n\n\n\nTime Block\nMon 9/11 (Day 0)\nTue 10/11 (Day 1)\nWed 11/11 (Day 2)\nThu 12/11 (Day 3)\n\n\n\n\n08:30 - 09:00\n\nOpening by GRDC\n\n\n\n\n09:00 - 10:30\nWorkshop (UQ/WUR)\nTalks: CU\nTalks: UQ\nTalks: AU\n\n\n10:30 - 11:00\n☕ Morning Tea\n☕ Morning Tea\n☕ Morning Tea\n☕ Morning Tea\n\n\n11:00 - 13:00\nWorkshop (UQ/WUR)\nWorkshop 1\nWorkshop 2\nWorkshop 4\n\n\n\n\n\nWorkshop 3\n\n\n\n13:00 - 14:00\n🥪 Lunch\n🥪 Lunch\n🥪 Lunch\n🏆 Closing & Awards\n\n\n14:00 - 15:30\nWorkshop (UQ/WUR)\nIndustry, Government and Growers (IGG) Session\nTalks: AAGI partners\n🥡 Take-away Lunch\n\n\n15:30 - 16:00\n☕ Afternoon Tea\n☕ Afternoon Tea\n☕ Afternoon Tea\n\n\n\n16:00 - 16:30\nFree time\nFree time\n👭 HDR Networking Session\n\n\n\n16:30 - 17:30\nFree time\n📊 Poster Session\n👭 HDR Networking Session\n\n\n\n17:30 - 18:30\nFree time\n📊 Poster Session\nFree time\n\n\n\n18:30 - 20:30\n🥂 Welcome Mixer\n\n🍽️ Symposium Dinner"
-  },
-  {
-    "objectID": "program.html#daily-schedule",
-    "href": "program.html#daily-schedule",
-    "title": "Program",
-    "section": "Daily Schedule",
-    "text": "Daily Schedule\n\nDay 0: Monday 9/11Day 1: Tuesday 10/11Day 2: Wednesday 11/11Day 3: Thursday 12/11\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nWorkshop (UQ/WUR)  Splines / Random Regression\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop (UQ/WUR)  GxE\nMurray Room\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nWorkshop (UQ/WUR)  ODEs\nMurray Room\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 18:30\nFree time\n\n\n\n18:30 - 20:30\n🥂 Welcome Mixer  Networking Social Evening\nQT Rooftop Bar\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n08:30 - 09:00\nOpening by GRDC\nMurray Room\n\n\n09:00 - 10:30\nTalks: CU\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop 1  AI in AAGI: From Tools to Workflows\nMurray Room\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nIndustry, Government and Growers (IGG) Session\nMurray Room\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 16:30\nFree time\n\n\n\n16:30 - 18:30\n📊 Poster Session\nMurray Room\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nTalks: UQ\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop 2  Efficient Trial Design with Speed\nMurray Room\n\n\n\nWorkshop 3  Bioinformatics across AAGI: Research, Tools and Challenges\nMurray Room\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nTalks: AAGI partners\nMurray Room\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 17:30\n👭 HDR Networking Session\nMurray Room\n\n\n17:30 - 18:30\nFree time\n\n\n\n18:30 - 20:30\n🍽️ Symposium Dinner\nTBA (Offsite Venue)\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nTalks: AU\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop 4  AAGI 2.0: Preparing for the Future\nMurray Room\n\n\n13:00 - 14:00\n🏆 Closing & AAGI Awards\nMurray Room\n\n\n14:00+\n🥡 Take-away Lunch & Departure\nMurray Room"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\n2026 AAGI Symposium\n",
+    "objectID": "posters.html",
+    "href": "posters.html",
+    "title": "Posters",
     "section": "",
-    "text": "Connecting people, data and innovation for Australia’s grains industry\n\n\n10–12 November 2026 • Perth, Western Australia"
+    "text": "Are you presenting a poster at the symposium? Submit your poster details via the Google Form and upload your PDF poster to the relevant Box folder.\nDeadline: 20 October 2026 \n\n\nSubmit Your Poster Details ↗\nUpload Your Poster ↗"
   },
   {
-    "objectID": "index.html#explore-the-symposium",
-    "href": "index.html#explore-the-symposium",
-    "title": "\n2026 AAGI Symposium\n",
-    "section": "Explore the Symposium",
-    "text": "Explore the Symposium\nThis website is your central hub before, during and after the symposium.\n\n\n \n\nProgram\n\n\nView the symposium schedule, including research talks, workshops, poster sessions, networking events and social activities.\n\n  \n\nWorkshops\n\n\nAccess workshop descriptions, presentation slides, code, datasets and supporting resources.\n\n  \n\nPoster Showcase\n\n\nExplore digital versions of posters presented during the symposium and connect with presenters.\n\n  \n\nHDR Networking\n\n\nFind information and resources for the Higher Degree by Research Networking Session, including mentoring and career development activities.\n\n  \n\nParticipants\n\n\nMeet the researchers, students and collaborators who make up the AAGI community.\n\n  \n\nResources\n\n\nAccess additional symposium materials, links and downloads shared throughout the event."
+    "objectID": "posters.html#poster-guidelines",
+    "href": "posters.html#poster-guidelines",
+    "title": "Posters",
+    "section": "Poster Guidelines",
+    "text": "Poster Guidelines\nWe encourage all AAGI Symposium participants to prepare a poster showcasing their research, project, tools, or area of work. The poster session provides an opportunity to share ideas, highlight your work, and foster discussion and collaboration across the AAGI community.\n\nPoster Templates\nThe AAGI poster templates can be downloaded from this Box folder:\nAAGI Poster Templates ↗\n\n\nPoster content\nPosters should clearly communicate:\n\nThe research, project, tool, or area of work being presented.\nThe problem, question, or objective being addressed.\nThe methods, approach, or workflow used.\nKey findings, outcomes, or expected impacts (where available).\nContact details to enable follow-up discussions and collaboration.\n\n\n\nPoster format\n\nSize: A0 (841 × 1189 mm)\nOrientation: Portrait\n\nPosters will be displayed on double-sided poster boards, with two A0 portrait posters displayed on each side.\n\n\nQR code\nPlease include a QR code placeholder on your poster. This will be used to link to the digital version of your poster on the symposium website. A minimum size of 8 × 8 cm is recommended to ensure the QR code can be scanned easily.\n\n\nFile requirements\n\nFormat: PDF\nFile name: Please use the following format: Poster_SurnameFirstName.pdf\n\nExample: Poster_SmithJohn.pdf\n\nNumber of posters: One poster per participant. Collaborative group posters are encouraged where a project has multiple contributors.\n\n\n\n\n\nPoster submission\nSubmission deadline: 20 October 2026\nThis deadline allows sufficient time for posters to be printed in Perth and ensures they are ready for display at the symposium.\n\n\nSubmission process\nPoster submission involves two steps:\n1. Complete the Google Form\nThe Google form collects your poster details and a few questions about the poster showcase. A confirmation email will be sent to the email address you provide.\nSubmit Your Poster Details ↗\n2. Upload your poster to Box\nUse the Box link to upload your PDF poster. You do not need a Box account to upload a file.\nUpload Your Poster ↗\n\n\n\nShort poster presentations\nPhD students will be invited to give a brief 3-5 minute “elevator pitch” alongside their poster. This is an opportunity to introduce yourself, provide a concise overview of your project, highlight its significance, and encourage further discussion during the poster session. Subject to available time, researchers who opt in may also be invited to give a short poster presentation.\n\n\nPoster awards\nPoster awards will be presented at the conclusion of the symposium. Further details regarding award categories, judging criteria, and assessment processes will be provided closer to the event."
   },
   {
-    "objectID": "index.html#symposium-goals",
-    "href": "index.html#symposium-goals",
-    "title": "\n2026 AAGI Symposium\n",
-    "section": "Symposium Goals",
-    "text": "Symposium Goals\nThe AAGI Symposium aims to:\n\nshowcase innovative research from AAGI groups across Australia;\nshare practical tools, methods and workflows for grains analytics;\nfoster collaboration between researchers, students and industry partners;\nsupport professional development through workshops and networking; and\nstrengthen the national AAGI research community.\n\nWhether you are attending in person or revisiting the symposium afterwards, we hope this website provides a useful resource and helps continue the conversations beyond the event.\nWe look forward to welcoming you to Perth in November 2026."
+    "objectID": "posters.html#explore-posters-by-theme",
+    "href": "posters.html#explore-posters-by-theme",
+    "title": "Posters",
+    "section": "Explore Posters by Theme",
+    "text": "Explore Posters by Theme\n\n \n\nPosters Theme 1\n\n\nPoster listings and resources for theme 1.\n\n  \n\nPosters Theme 2\n\n\nPoster listings and resources for theme 2.\n\n  \n\nPosters Theme 3\n\n\nPoster listings and resources for theme 3.\n\n  \n\nPosters Theme 4\n\n\nPoster listings and resources for theme 4.\n\n  \n\nPosters Theme 5\n\n\nPoster listings and resources for theme 5.\n\n  \n\nPosters Theme 6\n\n\nPoster listings and resources for theme 6."
   },
   {
-    "objectID": "workshop-1.html",
-    "href": "workshop-1.html",
-    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Date: Tuesday, 10 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
+    "text": "About this site"
   },
   {
-    "objectID": "workshop-1.html#summary",
-    "href": "workshop-1.html#summary",
-    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
-    "section": "Summary",
-    "text": "Summary\nThis workshop will explore the application of AI in AAGI, focusing on the transition from individual tools to integrated workflows.\nMore details will be published soon."
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "Explore the four symposium workshops below.\n\n\n \n\nWorkshop 1\n\n\nAI in AAGI: From Tools to Workflows\n\n\nThis workshop will explore the application of AI in AAGI, focusing on the transition from individual tools to integrated workflows.\n\n  \n\nWorkshop 2\n\n\nEfficient Trial Design with Speed\n\n\nThis workshop will explore efficient trial design with Speed.\n\n  \n\nWorkshop 3\n\n\nBioinformatics across AAGI: Research, Tools and Challenges\n\n\nThis workshop will explore bioinformatics across AAGI, including research, tools and challenges.\n\n  \n\nWorkshop 4\n\n\nAAGI 2.0: Preparing for the Future\n\n\nThis workshop will explore AAGI 2.0 and preparations for the future."
   },
   {
-    "objectID": "workshop-1.html#resources",
-    "href": "workshop-1.html#resources",
-    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
-    "section": "Resources",
-    "text": "Resources\n\nSlides: Coming soon\nCode: Coming soon\nData: Coming soon"
-  },
-  {
-    "objectID": "workshop-2.html",
-    "href": "workshop-2.html",
-    "title": "Workshop 2Efficient Trial Design with Speed",
+    "objectID": "workshop-3.html",
+    "href": "workshop-3.html",
+    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
     "section": "",
     "text": "Date: Wednesday, 11 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
   },
   {
-    "objectID": "workshop-2.html#summary",
-    "href": "workshop-2.html#summary",
-    "title": "Workshop 2Efficient Trial Design with Speed",
+    "objectID": "workshop-3.html#summary",
+    "href": "workshop-3.html#summary",
+    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
     "section": "Summary",
-    "text": "Summary\nThis workshop will explore efficient trial design with Speed.\nMore details will be published soon."
+    "text": "Summary\nThis workshop will explore bioinformatics across AAGI, including research, tools and challenges.\nMore details will be published soon."
   },
   {
-    "objectID": "workshop-2.html#resources",
-    "href": "workshop-2.html#resources",
-    "title": "Workshop 2Efficient Trial Design with Speed",
-    "section": "Resources",
-    "text": "Resources\n\nSlides: Coming soon\nCode: Coming soon\nData: Coming soon"
-  },
-  {
-    "objectID": "workshop-4.html",
-    "href": "workshop-4.html",
-    "title": "Workshop 4AAGI 2.0: Preparing for the Future",
-    "section": "",
-    "text": "Date: Thursday, 12 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
-  },
-  {
-    "objectID": "workshop-4.html#summary",
-    "href": "workshop-4.html#summary",
-    "title": "Workshop 4AAGI 2.0: Preparing for the Future",
-    "section": "Summary",
-    "text": "Summary\nThis workshop will explore AAGI 2.0 and preparations for the future.\nMore details will be published soon."
-  },
-  {
-    "objectID": "workshop-4.html#resources",
-    "href": "workshop-4.html#resources",
-    "title": "Workshop 4AAGI 2.0: Preparing for the Future",
+    "objectID": "workshop-3.html#resources",
+    "href": "workshop-3.html#resources",
+    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
     "section": "Resources",
     "text": "Resources\n\nSlides: Coming soon\nCode: Coming soon\nData: Coming soon"
   },
@@ -189,60 +147,137 @@
     "text": "University of Queensland\nRobert Armstrong r.armstrong1@uq.edu.au\nSophy Wang xiaoyi.wang@uq.edu.au\nSebastian Lopez Marcano s.lopezmarcano@uq.edu.au\nDinesha Jayawardana dinesha.jayawardana@uq.edu.au\nVanessa Lopez Corona a.lopezcorona@uq.edu.au\nKaiyu Guo kaiyu.guo@uq.edu.au\nBruno Rafael de Almeida Moreira b.moreira@uq.edu.au\nIf you are unsure who to contact, email the Curtin organising team and your message will be directed to the appropriate person."
   },
   {
-    "objectID": "workshop-3.html",
-    "href": "workshop-3.html",
-    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
+    "objectID": "workshop-4.html",
+    "href": "workshop-4.html",
+    "title": "Workshop 4AAGI 2.0: Preparing for the Future",
+    "section": "",
+    "text": "Date: Thursday, 12 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
+  },
+  {
+    "objectID": "workshop-4.html#summary",
+    "href": "workshop-4.html#summary",
+    "title": "Workshop 4AAGI 2.0: Preparing for the Future",
+    "section": "Summary",
+    "text": "Summary\nThis workshop will explore AAGI 2.0 and preparations for the future.\nMore details will be published soon."
+  },
+  {
+    "objectID": "workshop-4.html#resources",
+    "href": "workshop-4.html#resources",
+    "title": "Workshop 4AAGI 2.0: Preparing for the Future",
+    "section": "Resources",
+    "text": "Resources\n\nSlides: Coming soon"
+  },
+  {
+    "objectID": "workshop-2.html",
+    "href": "workshop-2.html",
+    "title": "Workshop 2Efficient Trial Design with Speed",
     "section": "",
     "text": "Date: Wednesday, 11 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
   },
   {
-    "objectID": "workshop-3.html#summary",
-    "href": "workshop-3.html#summary",
-    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
+    "objectID": "workshop-2.html#summary",
+    "href": "workshop-2.html#summary",
+    "title": "Workshop 2Efficient Trial Design with Speed",
     "section": "Summary",
-    "text": "Summary\nThis workshop will explore bioinformatics across AAGI, including research, tools and challenges.\nMore details will be published soon."
+    "text": "Summary\nThis workshop will explore efficient trial design with Speed.\nMore details will be published soon."
   },
   {
-    "objectID": "workshop-3.html#resources",
-    "href": "workshop-3.html#resources",
-    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
+    "objectID": "workshop-2.html#resources",
+    "href": "workshop-2.html#resources",
+    "title": "Workshop 2Efficient Trial Design with Speed",
     "section": "Resources",
     "text": "Resources\n\nSlides: Coming soon\nCode: Coming soon\nData: Coming soon"
   },
   {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "Workshops",
+    "objectID": "workshop-1.html",
+    "href": "workshop-1.html",
+    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
     "section": "",
-    "text": "Explore the four symposium workshops below.\n\n\n \n\nWorkshop 1\n\n\nAI in AAGI: From Tools to Workflows\n\n\nThis workshop will explore the application of AI in AAGI, focusing on the transition from individual tools to integrated workflows.\n\n  \n\nWorkshop 2\n\n\nEfficient Trial Design with Speed\n\n\nThis workshop will explore efficient trial design with Speed.\n\n  \n\nWorkshop 3\n\n\nBioinformatics across AAGI: Research, Tools and Challenges\n\n\nThis workshop will explore bioinformatics across AAGI, including research, tools and challenges.\n\n  \n\nWorkshop 4\n\n\nAAGI 2.0: Preparing for the Future\n\n\nThis workshop will explore AAGI 2.0 and preparations for the future."
+    "text": "Date: Tuesday, 10 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "workshop-1.html#summary",
+    "href": "workshop-1.html#summary",
+    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
+    "section": "Summary",
+    "text": "Summary\nArtificial intelligence (AI) is rapidly transforming scientific research, creating new opportunities for knowledge discovery, data analysis, and computational tool development. This workshop will showcase major trends shaping the current AI landscape, exploring how emerging technologies are changing research practices and how they can be adopted effectively and responsibly. Through a series of presentations, we will examine AI-assisted literature exploration and research gap identification, AI-driven tool development, and the growing role of locally deployed AI models in supporting research workflows. Attention will be given to responsible AI practices, including the generation and use of synthetic data, management of sensitive research datasets, data privacy, and research integrity. Bringing together practical applications, emerging technologies and responsible data management strategies, the workshop aims to provide researchers with a broader understanding of AI’s evolving role in science, encourage knowledge sharing across AAGI, and identify opportunities for collaboration and innovation in the Australian grains research community."
+  },
+  {
+    "objectID": "workshop-1.html#speakers-and-topics",
+    "href": "workshop-1.html#speakers-and-topics",
+    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
+    "section": "Speakers and Topics",
+    "text": "Speakers and Topics\n\n\n\n\n\n\n\nSpeaker\nTopic\n\n\n\n\nKristina Gagalova\nWelcome and event intro\n\n\nJulian Taylor\nAI guidelines at AAGI\n\n\nKristina Gagalova\nCurrent AI landscape: general intro\n\n\nJavier Fernandez\nLocal AI Overview and relevance to sensitive teaching and research data\n\n\nPeiye Li\nLiterature review and research gap search with AI\n\n\nSebastian Lopez Marcano\nAI driven tool development and responsible AI\n\n\nMax Moldovan\nSynthetic data usage for responsible AI: generation, use, and best practices\n\n\nXin Yu\nReal data for usage for responsible AI: local AI and Sensitive Data Management\n\n\n\nThe talks will be followed by a 15-minute Q&A session to discuss the topics raised."
+  },
+  {
+    "objectID": "workshop-1.html#resources",
+    "href": "workshop-1.html#resources",
+    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
+    "section": "Resources",
+    "text": "Resources\n\nSlides: Coming soon"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n2026 AAGI Symposium\n",
     "section": "",
-    "text": "About this site"
+    "text": "Connecting people, data and innovation for Australia’s grains industry\n\n\n10–12 November 2026 • Perth, Western Australia"
   },
   {
-    "objectID": "posters.html",
-    "href": "posters.html",
-    "title": "Posters",
+    "objectID": "index.html#explore-the-symposium",
+    "href": "index.html#explore-the-symposium",
+    "title": "\n2026 AAGI Symposium\n",
+    "section": "Explore the Symposium",
+    "text": "Explore the Symposium\nThis website is your central hub before, during and after the symposium.\n\n\n \n\nProgram\n\n\nView the symposium schedule, including research talks, workshops, poster sessions, networking events and social activities.\n\n  \n\nWorkshops\n\n\nAccess workshop descriptions, presentation slides, code, datasets and supporting resources.\n\n  \n\nPoster Showcase\n\n\nExplore digital versions of posters presented during the symposium and connect with presenters.\n\n  \n\nHDR Networking\n\n\nFind information and resources for the Higher Degree by Research Networking Session, including mentoring and career development activities.\n\n  \n\nParticipants\n\n\nMeet the researchers, students and collaborators who make up the AAGI community.\n\n  \n\nResources\n\n\nAccess additional symposium materials, links and downloads shared throughout the event."
+  },
+  {
+    "objectID": "index.html#symposium-goals",
+    "href": "index.html#symposium-goals",
+    "title": "\n2026 AAGI Symposium\n",
+    "section": "Symposium Goals",
+    "text": "Symposium Goals\nThe AAGI Symposium aims to:\n\nshowcase innovative research from AAGI groups across Australia;\nshare practical tools, methods and workflows for grains analytics;\nfoster collaboration between researchers, students and industry partners;\nsupport professional development through workshops and networking; and\nstrengthen the national AAGI research community.\n\nWhether you are attending in person or revisiting the symposium afterwards, we hope this website provides a useful resource and helps continue the conversations beyond the event.\nWe look forward to welcoming you to Perth in November 2026."
+  },
+  {
+    "objectID": "program.html#schedule-at-a-glance",
+    "href": "program.html#schedule-at-a-glance",
+    "title": "Program",
+    "section": "Schedule at a Glance",
+    "text": "Schedule at a Glance\n\n\n\n\n\n\n\n\n\n\nTime Block\nMon 9/11 (Day 0)\nTue 10/11 (Day 1)\nWed 11/11 (Day 2)\nThu 12/11 (Day 3)\n\n\n\n\n08:30 - 09:00\n\nOpening by GRDC\n\n\n\n\n09:00 - 10:30\nWorkshop (UQ/WUR)\nTalks: CU\nTalks: UQ\nTalks: AU\n\n\n10:30 - 11:00\n☕ Morning Tea\n☕ Morning Tea\n☕ Morning Tea\n☕ Morning Tea\n\n\n11:00 - 13:00\nWorkshop (UQ/WUR)\nWorkshop 1\nWorkshop 2\nWorkshop 4\n\n\n\n\n\nWorkshop 3\n\n\n\n13:00 - 14:00\n🥪 Lunch\n🥪 Lunch\n🥪 Lunch\n🏆 Closing & Awards\n\n\n14:00 - 15:30\nWorkshop (UQ/WUR)\nIndustry, Government and Growers (IGG) Session\nTalks: AAGI partners\n🥡 Take-away Lunch\n\n\n\nBioinformatics Satellite (CU/UWA)\n\n\n\n\n\n15:30 - 16:00\n☕ Afternoon Tea\n☕ Afternoon Tea\n☕ Afternoon Tea\n\n\n\n16:00 - 16:30\nBioinformatics Satellite (CU/UWA)\nFree time\n👭 HDR Networking Session\n\n\n\n16:30 - 17:30\nBioinformatics Satellite (CU/UWA)\n📊 Poster Session\n👭 HDR Networking Session\n\n\n\n17:30 - 18:00\nBioinformatics Satellite (CU/UWA)\n📊 Poster Session\nFree time\n\n\n\n18:00 - 18:30\nFree time\n📊 Poster Session\nFree time\n\n\n\n18:30 - 20:30\n🥂 Welcome Mixer\n\n🍽️ Symposium Dinner"
+  },
+  {
+    "objectID": "program.html#daily-schedule",
+    "href": "program.html#daily-schedule",
+    "title": "Program",
+    "section": "Daily Schedule",
+    "text": "Daily Schedule\n\nDay 0: Monday 9/11Day 1: Tuesday 10/11Day 2: Wednesday 11/11Day 3: Thursday 12/11\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nWorkshop (UQ/WUR)  Splines / Random Regression\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop (UQ/WUR)  GxE\nMurray Room\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nWorkshop (UQ/WUR)  ODEs\nMurray Room\n\n\n\nBioinformatics Satellite (CU/UWA)  Emerging Tools and Data-Driven Approaches in Crop Research\nRoom 212, Curtin Business School, 78 Murray Street\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 18:00\nBioinformatics Satellite (CU/UWA)  Emerging Tools and Data-Driven Approaches in Crop Research\nRoom 212, Curtin Business School, 78 Murray Street\n\n\n18:00 - 18:30\nFree time\n\n\n\n18:30 - 20:30\n🥂 Welcome Mixer  Networking Social Evening\nQT Rooftop Bar\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n08:30 - 09:00\nOpening by GRDC\nMurray Room\n\n\n09:00 - 10:30\nTalks: CU\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop 1  AI in AAGI: From Tools to Workflows\nMurray Room\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nIndustry, Government and Growers (IGG) Session\nMurray Room\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 16:30\nFree time\n\n\n\n16:30 - 18:30\n📊 Poster Session\nMurray Room\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nTalks: UQ\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop 2  Efficient Trial Design with Speed\nMurray Room\n\n\n\nWorkshop 3  Bioinformatics across AAGI: Research, Tools and Challenges\nGallery, Curtin 137 St Georges Terrace\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nTalks: AAGI partners\nMurray Room\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 17:30\n👭 HDR Networking Session\nMurray Room\n\n\n17:30 - 18:30\nFree time\n\n\n\n18:30 - 20:30\n🍽️ Symposium Dinner\nTBA (Offsite Venue)\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nTalks: AU\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop 4  AAGI 2.0: Preparing for the Future\nMurray Room\n\n\n13:00 - 14:00\n🏆 Closing & AAGI Awards\nMurray Room\n\n\n14:00+\n🥡 Take-away Lunch & Departure\nMurray Room"
+  },
+  {
+    "objectID": "workshop-bioinfo-satellite.html",
+    "href": "workshop-bioinfo-satellite.html",
+    "title": "Bioinformatics Satellite MeetingApplied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research",
     "section": "",
-    "text": "Are you presenting a poster at the symposium? Submit your poster details via the Google Form and upload your PDF poster to the relevant Box folder.\nDeadline: 20 October 2026 \n\n\nSubmit Your Poster Details ↗\nUpload Your Poster ↗"
+    "text": "Date: Monday, 9 November 2026\nTime: 14:00 - 18:00\nVenue: Room 212, Curtin Business School, 78 Murray Street"
   },
   {
-    "objectID": "posters.html#poster-guidelines",
-    "href": "posters.html#poster-guidelines",
-    "title": "Posters",
-    "section": "Poster Guidelines",
-    "text": "Poster Guidelines\nWe encourage all AAGI Symposium participants to prepare a poster showcasing their research, project, tools, or area of work. The poster session provides an opportunity to share ideas, highlight your work, and foster discussion and collaboration across the AAGI community.\n\nPoster Templates\nThe AAGI poster templates can be downloaded from this Box folder:\nAAGI Poster Templates ↗\n\n\nPoster content\nPosters should clearly communicate:\n\nThe research, project, tool, or area of work being presented.\nThe problem, question, or objective being addressed.\nThe methods, approach, or workflow used.\nKey findings, outcomes, or expected impacts (where available).\nContact details to enable follow-up discussions and collaboration.\n\n\n\nPoster format\n\nSize: A0 (841 × 1189 mm)\nOrientation: Portrait\n\nPosters will be displayed on double-sided poster boards, with two A0 portrait posters displayed on each side.\n\n\nQR code\nPlease include a QR code placeholder on your poster. This will be used to link to the digital version of your poster on the symposium website. A minimum size of 8 × 8 cm is recommended to ensure the QR code can be scanned easily.\n\n\nFile requirements\n\nFormat: PDF\nFile name: Please use the following format: Poster_SurnameFirstName.pdf\n\nExample: Poster_SmithJohn.pdf\n\nNumber of posters: One poster per participant. Collaborative group posters are encouraged where a project has multiple contributors.\n\n\n\n\n\nPoster submission\nSubmission deadline: 20 October 2026\nThis deadline allows sufficient time for posters to be printed in Perth and ensures they are ready for display at the symposium.\n\n\nSubmission process\nPoster submission involves two steps:\n1. Complete the Google Form\nThe Google form collects your poster details and a few questions about the poster showcase. A confirmation email will be sent to the email address you provide.\nSubmit Your Poster Details ↗\n2. Upload your poster to Box\nUse the Box link to upload your PDF poster. You do not need a Box account to upload a file.\nUpload Your Poster ↗\n\n\n\nShort poster presentations\nPhD students will be invited to give a brief 3-5 minute “elevator pitch” alongside their poster. This is an opportunity to introduce yourself, provide a concise overview of your project, highlight its significance, and encourage further discussion during the poster session. Subject to available time, researchers who opt in may also be invited to give a short poster presentation.\n\n\nPoster awards\nPoster awards will be presented at the conclusion of the symposium. Further details regarding award categories, judging criteria, and assessment processes will be provided closer to the event."
+    "objectID": "workshop-bioinfo-satellite.html#summary",
+    "href": "workshop-bioinfo-satellite.html#summary",
+    "title": "Bioinformatics Satellite MeetingApplied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research",
+    "section": "Summary",
+    "text": "Summary\nAdvances in bioinformatics, genomics and machine learning are transforming how we investigate crop genetic diversity, understand plant-pathogen interactions and improve agricultural traits. This workshop will showcase emerging computational approaches and their practical applications in crop research, bringing together researchers from across AAGI and collaborating institutions. Presentations will explore recent developments in graph pangenomics, gene presence–absence variation, structural variation analysis and genomic visualisation, alongside machine learning approaches for variant discovery, trait prediction, genomic selection and crop image analysis. The programme will also highlight advances in multi-omics integration, AI-driven protein–protein interaction prediction, and large language models for scientific literature mining and knowledge curation. Through a combination of methodological developments and applied research case studies, the workshop aims to demonstrate how computational technologies are helping researchers extract biological insights from increasingly complex datasets, address challenges in crop improvement and disease resistance, and encourage knowledge exchange and collaboration across the grains research community. The event is open to all AAGI members and associates, particularly those involved in managing, analysing or interpreting crop research data, regardless of their bioinformatics background."
   },
   {
-    "objectID": "posters.html#explore-posters-by-theme",
-    "href": "posters.html#explore-posters-by-theme",
-    "title": "Posters",
-    "section": "Explore Posters by Theme",
-    "text": "Explore Posters by Theme\n\n \n\nPosters Theme 1\n\n\nPoster listings and resources for theme 1.\n\n  \n\nPosters Theme 2\n\n\nPoster listings and resources for theme 2.\n\n  \n\nPosters Theme 3\n\n\nPoster listings and resources for theme 3.\n\n  \n\nPosters Theme 4\n\n\nPoster listings and resources for theme 4.\n\n  \n\nPosters Theme 5\n\n\nPoster listings and resources for theme 5.\n\n  \n\nPosters Theme 6\n\n\nPoster listings and resources for theme 6."
+    "objectID": "workshop-bioinfo-satellite.html#speakers-and-topics",
+    "href": "workshop-bioinfo-satellite.html#speakers-and-topics",
+    "title": "Bioinformatics Satellite MeetingApplied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research",
+    "section": "Speakers and Topics",
+    "text": "Speakers and Topics\n\n\n\n\n\n\n\nSpeaker\nTopic\n\n\n\n\nDave Edwards (UWA)\nWelcome and Introduction\n\n\nMitchell Bestry (UWA/AAGI)\nComparing gene presence/absence variation between Orthofinder and pangenome graphs\n\n\nTeng Li (UWA)\nCapturing the missing gene content of elite wheat by analysis of wheat landraces\n\n\nWasin Pipattungsakul (AU/AAGI)\nInteractive visualization of synteny and structural variation\n\n\nShriprabha Upadhyaya (UWA)\nLeveraging pangenomic features for trait prediction in soybean\n\n\nThomas Bergmann (UWA)\nA machine learning-based framework for advanced variant filtering in crop genomics\n\n\nShameela Mohamedikbal (UWA)\nIntegrating SNPs, functional InDel features, and machine learning to identify genetic variants associated with common bacterial blight resistance in common bean\n\n\nFelipe Albornoz (UWA)\nCharacterising structural variation in the Brassica host and blackleg pathogen genomes\n\n\nYutathkarn (Daniel) Coles (CU/CCDM/AAGI) and Fatima Naim (CU/CCDM/AAGI)\nFrom isoforms to Starships: multi-omic insights into barley and Pyrenophora teres f. teres interactions\n\n\nPavel Misiun (CU/AAGI) and Kristina Gagalova (CU/AAGI)\nBenchmarking structural predictors and pLM binary classifiers for predicting cross-kingdom protein-protein interactions in crop disease pathosystems\n\n\nJack Bruton (UWA)\nAutomated literature mining and LLM-based database curation for crop science\n\n\nTessa MacNish (UWA)\nHow can haplotypes and machine learning improve genomic selection in Brassica napus\n\n\nRohini Trivedi (UWA)\nMultimodal machine learning and explainable AI uncovers genomic regions associated with wheat yield prediction\n\n\nZe Wu (UWA)\nA comparative analysis on training population optimization for genomic prediction in wheat\n\n\nNimesha Kankanamge (UWA)\nBioinformatics and machine learning approaches to investigate the genetic basis of drought stress response in legumes\n\n\nDave Edwards (UWA)\nThanks and wrap up"
+  },
+  {
+    "objectID": "workshop-bioinfo-satellite.html#resources",
+    "href": "workshop-bioinfo-satellite.html#resources",
+    "title": "Bioinformatics Satellite MeetingApplied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research",
+    "section": "Resources",
+    "text": "Resources\n\nSlides: Coming soon"
   },
   {
     "objectID": "hdr.html#shaping-the-future-of-agritech-research",

@@ -4,9 +4,16 @@ title: "Program"
 
 ***
 ### 🏨 Venue Information
-The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the heart of Perth CBD. Most sessions take place inside the **Murray Room**.
+The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the heart of Perth CBD. Most sessions take place inside the **Murray Room**. The Murray Room is located on **Level 2** of the hotel.
 
-<!-- 🏨 **Venue Note:** The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the heart of Perth CBD. Most sessions take place inside the **Murray Room**. -->
+
+
+**📍 Off-site Sessions **
+
+**Workshop 3: AAGI Bioinformatics** will be held in **Room TBA** at **Curtin, 137 St Georges Terrace**. The venue is approximately 800 m, or a 10-minute walk, from the QT Hotel Perth.
+
+The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curtin Business School, 78 Murray Street**. The venue is approximately 160 m, or a 3-minute walk, from the QT Hotel Perth.
+
 ***
 
 ## Schedule at a Glance
@@ -20,11 +27,14 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 | | | | **Workshop 3** | |
 | **13:00 - 14:00** | 🥪 Lunch | 🥪 Lunch | 🥪 Lunch | 🏆 **Closing & Awards** |
 | **14:00 - 15:30** | **Workshop (UQ/WUR)** | **Industry, Government and Growers (IGG) Session** | **Talks: AAGI partners** | 🥡 Take-away Lunch |
+| | **Bioinformatics Satellite (CU/UWA)** | | | |
 | **15:30 - 16:00** | ☕ Afternoon Tea | ☕ Afternoon Tea | ☕ Afternoon Tea | |
-| **16:00 - 16:30** | _Free time_ | _Free time_ | 👭 **HDR Networking Session** | |
-| **16:30 - 17:30** | _Free time_ | 📊 **Poster Session** | 👭 **HDR Networking Session** | |
-| **17:30 - 18:30** | _Free time_ | 📊 **Poster Session** | _Free time_ | |
+| **16:00 - 16:30** | **Bioinformatics Satellite (CU/UWA)** | _Free time_ | 👭 **HDR Networking Session** | |
+| **16:30 - 17:30** | **Bioinformatics Satellite (CU/UWA)** | 📊 **Poster Session** | 👭 **HDR Networking Session** | |
+| **17:30 - 18:00** | **Bioinformatics Satellite (CU/UWA)** | 📊 **Poster Session** | _Free time_ | |
+| **18:00 - 18:30** | _Free time_ | 📊 **Poster Session** | _Free time_ | |
 | **18:30 - 20:30** | 🥂 **Welcome Mixer** | | 🍽️ **Symposium Dinner** | |
+
 
 ## Daily Schedule
 
@@ -39,8 +49,10 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 | **11:00 - 13:00** | **Workshop (UQ/WUR)** <br> *GxE* | Murray Room |
 | **13:00 - 14:00** | 🥪 Lunch | Murray Room |
 | **14:00 - 15:30** | **Workshop (UQ/WUR)** <br> *ODEs* | Murray Room |
+| | **Bioinformatics Satellite (CU/UWA)** <br> *Emerging Tools and Data-Driven Approaches in Crop Research* | Room 212, Curtin Business School, 78 Murray Street |
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |
-| **16:00 - 18:30** | *Free time* | |
+| **16:00 - 18:00** |  **Bioinformatics Satellite (CU/UWA)** <br> *Emerging Tools and Data-Driven Approaches in Crop Research*| Room 212, Curtin Business School, 78 Murray Street |
+| **18:00 - 18:30** | *Free time* | |
 | **18:30 - 20:30** | 🥂 **Welcome Mixer** <br> *Networking Social Evening* | QT Rooftop Bar |
 
 ### Day 1: Tuesday 10/11
@@ -64,7 +76,7 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 | **09:00 - 10:30** | **Talks: UQ** | Murray Room |
 | **10:30 - 11:00** | ☕ Morning Tea | Murray Room |
 | **11:00 - 13:00** | **Workshop 2** <br> *Efficient Trial Design with Speed* | Murray Room |
-| | **Workshop 3** <br> *Bioinformatics across AAGI: Research, Tools and Challenges* | Murray Room |
+| | **Workshop 3** <br> *Bioinformatics across AAGI: Research, Tools and Challenges* | Gallery, Curtin 137 St Georges Terrace |
 | **13:00 - 14:00** | 🥪 Lunch | Murray Room |
 | **14:00 - 15:30** | **Talks: AAGI partners** | Murray Room |
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |
@@ -83,4 +95,3 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 | **14:00+** | 🥡 Take-away Lunch & Departure | Murray Room |
 
 :::
-

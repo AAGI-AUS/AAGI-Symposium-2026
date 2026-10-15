@@ -14,5 +14,4 @@ More details will be published soon.
 ## Resources
 
 - Slides: Coming soon
-- Code: Coming soon
-- Data: Coming soon
+

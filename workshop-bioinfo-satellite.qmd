@@ -1,0 +1,44 @@
+---
+title: "Bioinformatics Satellite Meeting<br>Applied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research"
+
+---
+
+**Date:** Monday, 9 November 2026  
+**Time:** 14:00 - 18:00  
+**Venue:** Room 212, Curtin Business School, 78 Murray Street
+
+
+
+## Summary 
+
+Advances in bioinformatics, genomics and machine learning are transforming how we investigate crop genetic diversity, understand plant-pathogen interactions and improve agricultural traits. This workshop will showcase emerging computational approaches and their practical applications in crop research, bringing together researchers from across AAGI and collaborating institutions. Presentations will explore recent developments in graph pangenomics, gene presence–absence variation, structural variation analysis and genomic visualisation, alongside machine learning approaches for variant discovery, trait prediction, genomic selection and crop image analysis. The programme will also highlight advances in multi-omics integration, AI-driven protein–protein interaction prediction, and large language models for scientific literature mining and knowledge curation. Through a combination of methodological developments and applied research case studies, the workshop aims to demonstrate how computational technologies are helping researchers extract biological insights from increasingly complex datasets, address challenges in crop improvement and disease resistance, and encourage knowledge exchange and collaboration across the grains research community. The event is open to all AAGI members and associates, particularly those involved in managing, analysing or interpreting crop research data, regardless of their bioinformatics background.
+
+<!-- Advances in bioinformatics, genomics and machine learning are transforming how we investigate crop genetic diversity, understand plant-pathogen interactions and improve agricultural traits. This workshop will showcase emerging computational approaches and their practical applications in crop research, bringing together researchers from across AAGI, GRDC and collaborating institutions. Presentations will explore recent developments in graph pangenomics, gene presence–absence variation, structural variation analysis and genomic visualisation, alongside machine learning approaches for variant discovery, trait prediction, genomic selection and crop image analysis. The programme will also highlight advances in multi-omics integration, AI-driven protein–protein interaction prediction, and large language models for scientific literature mining and knowledge curation. Through a combination of methodological developments and applied research case studies, the workshop aims to demonstrate how computational technologies are helping researchers extract biological insights from increasingly complex datasets, address challenges in crop improvement and disease resistance, and encourage knowledge exchange and collaboration across the grains research community. The event is open to all AAGI/GRDC members and associates, particularly those involved in managing, analysing or interpreting crop research data, regardless of their bioinformatics background. -->
+
+
+## Speakers and Topics
+
+| Speaker | Topic |
+|:---|:---|
+| Dave Edwards (UWA) | Welcome and Introduction |
+| Mitchell Bestry (UWA/AAGI) | Comparing gene presence/absence variation between Orthofinder and pangenome graphs |
+| Teng Li (UWA) | Capturing the missing gene content of elite wheat by analysis of wheat landraces |
+| Wasin Pipattungsakul (AU/AAGI) | Interactive visualization of synteny and structural variation |
+| Shriprabha Upadhyaya (UWA) | Leveraging pangenomic features for trait prediction in soybean |
+| Thomas Bergmann (UWA) | A machine learning-based framework for advanced variant filtering in crop genomics |
+| Shameela Mohamedikbal (UWA) | Integrating SNPs, functional InDel features, and machine learning to identify genetic variants associated with common bacterial blight resistance in common bean |
+| Felipe Albornoz (UWA) | Characterising structural variation in the Brassica host and blackleg pathogen genomes |
+| Yutathkarn (Daniel) Coles (CU/CCDM/AAGI) and Fatima Naim (CU/CCDM/AAGI) | From isoforms to Starships: multi-omic insights into barley and Pyrenophora teres f. teres interactions |
+| Pavel Misiun (CU/AAGI) and Kristina Gagalova (CU/AAGI) | Benchmarking structural predictors and pLM binary classifiers for predicting cross-kingdom protein-protein interactions in crop disease pathosystems |
+| Jack Bruton (UWA) | Automated literature mining and LLM-based database curation for crop science |
+| Tessa MacNish (UWA) | How can haplotypes and machine learning improve genomic selection in Brassica napus |
+| Rohini Trivedi (UWA) | Multimodal machine learning and explainable AI uncovers genomic regions associated with wheat yield prediction |
+| Ze Wu (UWA) | A comparative analysis on training population optimization for genomic prediction in wheat |
+| Nimesha Kankanamge (UWA) | Bioinformatics and machine learning approaches to investigate the genetic basis of drought stress response in legumes |
+| Dave Edwards (UWA) | Thanks and wrap up |
+
+
+
+## Resources
+
+- Slides: Coming soon

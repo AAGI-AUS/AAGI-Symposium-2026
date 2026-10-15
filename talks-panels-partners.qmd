@@ -6,18 +6,54 @@ title: "AAGI Partners"
 **Time:** 14:00 - 15:30  
 **Venue:** QT Perth, Murray Room
 
+**Chair**: Julian Taylor
+
 ## Summary
 
-The AAGI Partners session highlights the contributions and perspectives of AAGI's partner organisations. Speakers will share their work, priorities and opportunities to collaborate across the Australian grains innovation ecosystem.
+The AAGI Partners session highlights the contributions, expertise and perspectives of AAGI’s partner organisations, showcasing the diverse research and activities supporting innovation across the Australian grains industry. Speakers will share insights into their current work, strategic priorities and emerging opportunities, highlighting how collaboration across the AAGI network can strengthen research, data analytics and knowledge exchange. The session will also provide an opportunity to explore synergies between partner organisations, foster connections and identify opportunities for future collaboration to address shared challenges and maximise the impact of AAGI.
+
+
+
 
 ## Speakers
 
 <div class="speaker-grid">
 <article class="speaker-card">
-<div class="speaker-photo-placeholder" role="img" aria-label="Speaker photo placeholder">Photo</div>
+<img src="images/Fred_van_Eeuwijk.png" class="speaker-photo" alt="Fred van Eeuwijk">
 <div>
-<h3>Speaker to be confirmed</h3>
-<p>Add the speaker's role, organisation and biography here.</p>
+<h3>Fred van Eeuwijk</h3>
+<p>Wageningen University & Research (WUR), Netherlands</p>
+</div>
+</article>
+</div>
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Dave_Edwards.png" class="speaker-photo" alt="Dion Bennett">
+<div>
+<h3>Dave Edwards</h3>
+<p>University of Western Australia (UWA), Australia</p>
+</div>
+</article>
+</div>
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Emi_Tanaka.jpg" class="speaker-photo" alt="Emi Tanaka">
+<div>
+<h3>Emi Tanaka</h3>
+<p>Australian National University (ANU), Australia</p>
+</div>
+</article>
+</div>
+
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Valeria_Paccapelo.png" class="speaker-photo" alt="Valeria Paccapelo">
+<div>
+<h3>Valeria Paccapelo</h3>
+<p>Queensland Department of Primary Industries (QDPI), Australia</p>
 </div>
 </article>
 </div>

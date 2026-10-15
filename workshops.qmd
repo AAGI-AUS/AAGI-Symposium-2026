@@ -8,16 +8,16 @@ Explore the four symposium workshops below.
 <div class="card-grid card-grid-two">
 
 <a class="nav-card" href="workshop-1.qmd">
-<img src="images/workshop_1_image@2x.jpg" class="card-img" alt="Workshop 1">
+<img src="images/workshop_1_ai_image@2x.jpg" class="card-img" alt="Workshop 1">
 <h3>Workshop 1</h3>
 <h3>AI in AAGI: From Tools to Workflows</h3>
 <p>This workshop will explore the application of AI in AAGI, focusing on the transition from individual tools to integrated workflows.</p>
 </a>
 <a class="nav-card" href="workshop-2.qmd">
-<img src="images/workshops_1.jpg" class="card-img" alt="Workshop 2">
+<img src="images/workshop_2_speed_image@2x.jpg" class="card-img" alt="Workshop 2">
 <h3>Workshop 2</h3>
-<h3>Efficient Trial Design with Speed</h3>
-<p>This workshop will explore efficient trial design with Speed.</p>
+<h3>Efficient Trial Design with *speed*</h3>
+<p>This workshop will explore efficient trial design with *speed*.</p>
 </a>
 <a class="nav-card" href="workshop-3.qmd">
 <img src="images/workshops_1.jpg" class="card-img" alt="Workshop 3">
@@ -32,7 +32,7 @@ Explore the four symposium workshops below.
 <p>This workshop will explore AAGI 2.0 and preparations for the future.</p>
 </a>
 <a class="nav-card" href="workshop-bioinfo-satellite.qmd">
-<img src="images/workshop_bioinfo_satellite_image@2x.jpg" class="card-img" alt="Workshop 4">
+<img src="images/workshop_bioinfo_satellite_image@2x.jpg" class="card-img" alt="Workshop Bioinformatics Satellite Meeting">
 <h3>Bioinformatics Satellite Meeting</h3>
 <h3>Applied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research</h3>
 <p>This workshop will explore emerging tools and data-driven approaches in crop research.</p>

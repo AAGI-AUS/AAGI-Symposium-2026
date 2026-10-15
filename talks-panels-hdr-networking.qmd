@@ -6,18 +6,72 @@ title: "HDR Networking"
 **Time:** 16:00 - 17:30  
 **Venue:** QT Perth, Murray Room
 
+**Chair**: Mark Gibberd
+
 ## Summary
 
-This networking and Q&amp;A session brings together higher degree by research students from across AAGI. The session will support connections between peers, senior researchers and industry representatives, with discussion around career development, industry engagement and mentoring.
+The Higher Degree by Research (HDR) session brings together HDR students and early career researchers from across AAGI for a panel and interactive Q&amp;A. The session will provide an opportunity to connect with peers, experienced researchers and industry representatives, exchange experiences and gain insights into navigating research careers. Discussion will explore career development, industry engagement, mentoring and the transition from academic research to industry and other career pathways. The panel will also encourage participants to reflect on the skills, networks and opportunities that can support their professional growth, while fostering connections across the AAGI community and strengthening links between emerging researchers and the broader grains research sector.
 
-## Speakers
+## Panel Members
 
 <div class="speaker-grid">
 <article class="speaker-card">
-<div class="speaker-photo-placeholder" role="img" aria-label="Speaker photo placeholder">Photo</div>
+<img src="images/Scott_Chapman.png" class="speaker-photo" alt="Scott Chapman">
 <div>
-<h3>Speaker to be confirmed</h3>
-<p>Add the speaker's role, organisation and biography here.</p>
+<h3>Scott Chapman</h3>
+<p>The University of Queensland (UQ), Australia</p>
 </div>
 </article>
 </div>
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Fred_van_Eeuwijk.png" class="speaker-photo" alt="Fred van Eeuwijk">
+<div>
+<h3>Fred van Eeuwijk</h3>
+<p>Wageningen University & Research (WUR), Netherlands</p>
+</div>
+</article>
+</div>
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Peter_Bird.png" class="speaker-photo" alt="Peter Bird">
+<div>
+<h3>Peter Bird</h3>
+<p>Grains Research and Development Corporation (GRDC-West), Australia</p>
+</div>
+</article>
+</div>
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Julia_Easton.png" class="speaker-photo" alt="Julia Easton">
+<div>
+<h3>Julia Easton</h3>
+<p>Curtin University (CU), Australia</p>
+</div>
+</article>
+</div>
+
+<!-- <div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Hasnein_Tareque.png" class="speaker-photo" alt="Hasnein Tareque">
+<div>
+<h3>Hasnein Tareque</h3>
+<p>Department of Primary Industries and Regional Development (DPIRD), Australia</p>
+</div>
+</article>
+</div> -->
+
+<!-- <div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Kate_Trinajstic.png" class="speaker-photo" alt="Kate Trinajstic">
+<div>
+<h3>Kate Trinajstic</h3>
+<p>Curtin University (CU), Australia</p>
+</div>
+</article>
+</div> -->
+
+Others to be confirmed.

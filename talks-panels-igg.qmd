@@ -6,18 +6,55 @@ title: "Industry, Government and Growers (IGG)"
 **Time:** 14:00 - 15:30  
 **Venue:** QT Perth, Murray Room
 
+**Chair**: Sudhir Yadav 
+<!-- and Joe Eyre -->
+
 ## Summary
 
-The Industry, Government and Growers session brings together perspectives from across the Australian grains sector. Presentations will be followed by a panel Q&amp;A, creating an opportunity to discuss priorities, challenges and opportunities for collaboration.
+The Industry, Government and Growers (IGG) session brings together perspectives from across the Australian grains sector to explore how research, data and analytics can address industry needs and support innovation. Featuring presentations from representatives across industry, government and grower groups, the session will highlight current priorities, practical challenges and opportunities for collaboration with AAGI. The presentations will be followed by a panel discussion and Q&amp;A, providing an opportunity to exchange ideas, share insights and discuss how AAGI can continue to deliver value for the Australian grains industry.
+ 
 
 ## Speakers
 
 <div class="speaker-grid">
 <article class="speaker-card">
-<div class="speaker-photo-placeholder" role="img" aria-label="Speaker photo placeholder">Photo</div>
+<img src="images/Peter_Bird.png" class="speaker-photo" alt="Peter Bird">
 <div>
-<h3>Speaker to be confirmed</h3>
-<p>Add the speaker's role, organisation and biography here.</p>
+<h3>Peter Bird</h3>
+<p>Grains Research and Development Corporation (GRDC-West), Australia</p>
 </div>
 </article>
 </div>
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Dion_Bennett.png" class="speaker-photo" alt="Dion Bennett">
+<div>
+<h3>Dion Bennett</h3>
+<p>Australian Grain Technologies (AGT), Australia</p>
+</div>
+</article>
+</div>
+
+Others to be confirmed.
+
+<!-- <div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Geoff_Thomas.png" class="speaker-photo" alt="Geoff Thomas">
+<div>
+<h3>Geoff Thomas</h3>
+<p>Department of Primary Industries and Regional Development (DPIRD)</p>
+</div>
+</article>
+</div>
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Daniel_Kidd.png" class="speaker-photo" alt="Daniel Kidd">
+<div>
+<h3>Daniel Kidd</h3>
+<p>Grower Group Alliance</p>
+</div>
+</article>
+</div> -->
+

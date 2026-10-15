@@ -241,6 +241,14 @@
   font-weight: 700;
 }
 
+.speaker-photo {
+  flex: 0 0 100px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
 .poster-upload-buttons {
   display: flex;
   flex-wrap: wrap;

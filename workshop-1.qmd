@@ -1,5 +1,5 @@
 ---
-title: '<span class="workshop-title-text">Workshop 1<br>AI in AAGI: From Tools to Workflows</span><img src="images/workshop_1_image@2x.jpg" class="workshop-hero-image" alt="Illustration of AI tools and connected workflows in grain research">'
+title: '<span class="workshop-title-text">Workshop 1<br>AI in AAGI: From Tools to Workflows</span><img src="images/workshop_1_ai_image@2x.jpg" class="workshop-hero-image" alt="Illustration of AI tools and connected workflows in grain research">'
 ---
 
 **Date:** Tuesday, 10 November 2026  

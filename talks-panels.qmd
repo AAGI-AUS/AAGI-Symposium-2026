@@ -7,18 +7,23 @@ Explore the symposium talks and panel sessions below.
 <div class="card-grid card-grid-two">
 
 <a class="nav-card" href="talks-panels-nodes.qmd">
+<!-- <img src="images/AAGI_logo_and_nodes.png" class="card-img" alt="AAGI"> -->
+<img src="images/AAGI_nodes.png" class="card-img" alt="AAGI nodes">
 <h3>AAGI Nodes</h3>
-<p>Hear research talks from the Curtin University, University of Queensland and University of Adelaide AAGI nodes.</p>
+<p>Hear research talks from Curtin University, University of Queensland and Adelaide University AAGI nodes.</p>
 </a>
 <a class="nav-card" href="talks-panels-igg.qmd">
+<!-- <img src="images/igg.jpg" class="card-img" alt="IGG"> -->
 <h3>Industry, Government and Growers (IGG)</h3>
 <p>Explore perspectives from industry, government and growers, followed by a panel Q&amp;A.</p>
 </a>
 <a class="nav-card" href="talks-panels-partners.qmd">
+<!-- <img src="images/aagi_partners.jpg" class="card-img" alt="AAGI partners"> -->
 <h3>AAGI Partners</h3>
 <p>Learn about the work and perspectives of AAGI's partner organisations.</p>
 </a>
 <a class="nav-card" href="talks-panels-hdr-networking.qmd">
+<!-- <img src="images/hdr.jpg" class="card-img" alt="HDR"> -->
 <h3>HDR Networking</h3>
 <p>Connect with fellow higher degree by research students during this networking and Q&amp;A session.</p>
 </a></div>

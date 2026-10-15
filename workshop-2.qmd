@@ -1,5 +1,5 @@
 ---
-title: "Workshop 2<br>Efficient Trial Design with *speed*"
+title: '<span class="workshop-title-text">Workshop 2<br>Efficient Trial Design with *speed*</span><img src="images/workshop_2_speed_image@2x.jpg" class="workshop-hero-image" alt="Illustration of efficient trial design with *speed*">'
 ---
 
 **Date:** Wednesday, 11 November 2026  

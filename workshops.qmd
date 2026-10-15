@@ -30,4 +30,11 @@ Explore the four symposium workshops below.
 <h3>Workshop 4</h3>
 <h3>AAGI 2.0: Preparing for the Future</h3>
 <p>This workshop will explore AAGI 2.0 and preparations for the future.</p>
+</a>
+<a class="nav-card" href="workshop-bioinfo-satellite.qmd">
+<img src="images/workshops_1.jpg" class="card-img" alt="Workshop 4">
+<h3>Bioinformatics Satellite Meeting</h3>
+<h3>Applied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research</h3>
+<p>This workshop will explore emerging tools and data-driven approaches in crop research.</p>
 </a> </div>
+

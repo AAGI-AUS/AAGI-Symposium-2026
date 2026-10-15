@@ -1,5 +1,5 @@
 ---
-title: "Workshop 2<br>Efficient Trial Design with Speed"
+title: "Workshop 2<br>Efficient Trial Design with *speed*"
 ---
 
 **Date:** Wednesday, 11 November 2026  
@@ -7,12 +7,24 @@ title: "Workshop 2<br>Efficient Trial Design with Speed"
 **Venue:** QT Perth, Murray Room
 
 ## Summary
-This workshop will explore efficient trial design with Speed.
 
-More details will be published soon.
+*speed* is an R package from AAGI-AU that generates spatially optimised, model-free experimental designs. In this hands-on workshop, we’ll explain what model-free means in practice, give a conceptual overview of how speed works, then walk through:
+
+- Standard designs such as RCBD and split-plot
+- Row-column, p-rep, and multi-environment trial (MET) designs
+- Incorporating a relationship matrix or covariates
+- Writing your own objective functions
+  
+Participants should be comfortable in R.
+
+Please bring a laptop with speed installed:
+
+```r
+if (!require("pak", quietly = TRUE)) install.packages("pak")
+pak::pak("biometryhub/speed")
+```
+
 
 ## Resources
 
 - Slides: Coming soon
-- Code: Coming soon
-- Data: Coming soon

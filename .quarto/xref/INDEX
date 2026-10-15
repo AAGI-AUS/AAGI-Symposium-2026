@@ -61,5 +61,20 @@
   },
   "workshop-bioinfo-satellite.qmd": {
     "workshop-bioinfo-satellite.html": "61eb470f"
+  },
+  "talks-panels-hdr-networking.qmd": {
+    "talks-panels-hdr-networking.html": "61351c95"
+  },
+  "talks-panels-partners.qmd": {
+    "talks-panels-partners.html": "e3fd31c0"
+  },
+  "talks-panels-nodes.qmd": {
+    "talks-panels-nodes.html": "3f91c60f"
+  },
+  "talks-panels-igg.qmd": {
+    "talks-panels-igg.html": "479e751e"
+  },
+  "talks-panels.qmd": {
+    "talks-panels.html": "e807cc2d"
   }
 }

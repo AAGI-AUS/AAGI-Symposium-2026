@@ -134,6 +134,28 @@
   max-height: 56px;
 }
 
+.schedule-glance thead th {
+  background-color: #05534b;
+  border-bottom: 3px solid #033b36;
+  color: #ffffff;
+  font-weight: 700;
+  padding: 0.85rem 0.75rem;
+}
+
+.panel-tabset .nav-tabs .nav-link {
+  background-color: #f3f4f6;
+  border-color: #d1d5db;
+  color: #374151;
+  font-weight: 700;
+  padding: 0.85rem 0.75rem;
+}
+
+.panel-tabset .nav-tabs .nav-link.active {
+  background-color: #05534b;
+  border-color: #033b36;
+  color: #ffffff;
+}
+
 @media (max-width: 991px) {
   .navbar-brand img {
     max-height: 44px;
@@ -178,6 +200,45 @@
 .nav-card p {
   font-size: 1rem;
   line-height: 1.5;
+}
+
+.speaker-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.speaker-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1.25rem;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background: #f8f9fa;
+}
+
+.speaker-card h3 {
+  margin: 0 0 0.5rem;
+}
+
+.speaker-card p {
+  margin: 0;
+}
+
+.speaker-photo-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 100px;
+  width: 100px;
+  height: 100px;
+  border: 2px dashed #94a3b8;
+  border-radius: 50%;
+  background: #e2e8f0;
+  color: #475569;
+  font-weight: 700;
 }
 
 .poster-upload-buttons {
@@ -271,5 +332,9 @@
   .poster-card {
     width: 100%;
     padding: 0.75rem;
+  }
+
+  .speaker-card {
+    flex-direction: column;
   }
 }

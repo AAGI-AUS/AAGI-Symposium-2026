@@ -1,0 +1,23 @@
+---
+title: "AAGI Nodes"
+---
+
+**Dates:** Tuesday 10 November, Wednesday 11 November and Thursday 12 November 2026  
+**Time:** 09:00 - 10:30  
+**Venue:** QT Perth, Murray Room
+
+## Summary
+
+The AAGI Nodes sessions showcase research, activities and emerging opportunities from the Curtin University, University of Queensland and University of Adelaide nodes. Join colleagues from across the network to hear the latest work and connect with the teams advancing Australian grains innovation.
+
+## Speakers
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<div class="speaker-photo-placeholder" role="img" aria-label="Speaker photo placeholder">Photo</div>
+<div>
+<h3>Speaker to be confirmed</h3>
+<p>Add the speaker's role, organisation and biography here.</p>
+</div>
+</article>
+</div>

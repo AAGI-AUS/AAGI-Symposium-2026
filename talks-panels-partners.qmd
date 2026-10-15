@@ -1,0 +1,23 @@
+---
+title: "AAGI Partners"
+---
+
+**Date:** Wednesday 11 November 2026  
+**Time:** 14:00 - 15:30  
+**Venue:** QT Perth, Murray Room
+
+## Summary
+
+The AAGI Partners session highlights the contributions and perspectives of AAGI's partner organisations. Speakers will share their work, priorities and opportunities to collaborate across the Australian grains innovation ecosystem.
+
+## Speakers
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<div class="speaker-photo-placeholder" role="img" aria-label="Speaker photo placeholder">Photo</div>
+<div>
+<h3>Speaker to be confirmed</h3>
+<p>Add the speaker's role, organisation and biography here.</p>
+</div>
+</article>
+</div>

@@ -1,0 +1,23 @@
+---
+title: "Industry, Government and Growers (IGG)"
+---
+
+**Date:** Tuesday 10 November 2026  
+**Time:** 14:00 - 15:30  
+**Venue:** QT Perth, Murray Room
+
+## Summary
+
+The Industry, Government and Growers session brings together perspectives from across the Australian grains sector. Presentations will be followed by a panel Q&amp;A, creating an opportunity to discuss priorities, challenges and opportunities for collaboration.
+
+## Speakers
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<div class="speaker-photo-placeholder" role="img" aria-label="Speaker photo placeholder">Photo</div>
+<div>
+<h3>Speaker to be confirmed</h3>
+<p>Add the speaker's role, organisation and biography here.</p>
+</div>
+</article>
+</div>

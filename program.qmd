@@ -18,6 +18,8 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 
 ## Schedule at a Glance
 
+::: {.schedule-glance}
+
 | Time Block | Mon 9/11 (Day 0) | Tue 10/11 (Day 1) | Wed 11/11 (Day 2) | Thu 12/11 (Day 3) |
 |:---|:---|:---|:---|:---|
 | **08:30 - 09:00** | | **Opening by GRDC** | | |
@@ -35,6 +37,7 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 | **18:00 - 18:30** | _Free time_ | 📊 **Poster Session** | _Free time_ | |
 | **18:30 - 20:30** | 🥂 **Welcome Mixer** | | 🍽️ **Symposium Dinner** | |
 
+:::
 
 ## Daily Schedule
 

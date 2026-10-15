@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Workshop 2 Efficient Trial Design with Speed</title>
+<title>Workshop 2 Efficient Trial Design with speed</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -97,6 +131,33 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Program</span></a>
   </li>  
   <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-talks--panels" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Talks &amp; Panels</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-talks--panels">    
+        <li>
+    <a class="dropdown-item" href="./talks-panels.html">
+ <span class="dropdown-text">All Talks &amp; Panels</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./talks-panels-nodes.html">
+ <span class="dropdown-text">AAGI Nodes</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./talks-panels-igg.html">
+ <span class="dropdown-text">Industry, Government and Growers (IGG)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./talks-panels-partners.html">
+ <span class="dropdown-text">AAGI Partners</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./talks-panels-hdr-networking.html">
+ <span class="dropdown-text">HDR Networking</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-workshops" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Workshops</span>
     </a>
@@ -163,10 +224,6 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./hdr.html"> 
-<span class="menu-text">HDR Networking</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./participants.html"> 
 <span class="menu-text">Participants</span></a>
   </li>  
@@ -202,7 +259,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Workshop 2<br>Efficient Trial Design with Speed</h1>
+<h1 class="title">Workshop 2<br>Efficient Trial Design with <em>speed</em></h1>
 </div>
 
 
@@ -224,15 +281,22 @@ ul.task-list li input[type="checkbox"] {
 <strong>Venue:</strong> QT Perth, Murray Room</p>
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>This workshop will explore efficient trial design with Speed.</p>
-<p>More details will be published soon.</p>
+<p><em>speed</em> is an R package from AAGI-AU that generates spatially optimised, model-free experimental designs. In this hands-on workshop, we’ll explain what model-free means in practice, give a conceptual overview of how speed works, then walk through:</p>
+<ul>
+<li>Standard designs such as RCBD and split-plot</li>
+<li>Row-column, p-rep, and multi-environment trial (MET) designs</li>
+<li>Incorporating a relationship matrix or covariates</li>
+<li>Writing your own objective functions</li>
+</ul>
+<p>Participants should be comfortable in R.</p>
+<p>Please bring a laptop with speed installed:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (<span class="sc">!</span><span class="fu">require</span>(<span class="st">"pak"</span>, <span class="at">quietly =</span> <span class="cn">TRUE</span>)) <span class="fu">install.packages</span>(<span class="st">"pak"</span>)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>pak<span class="sc">::</span><span class="fu">pak</span>(<span class="st">"biometryhub/speed"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
 <section id="resources" class="level2">
 <h2 class="anchored" data-anchor-id="resources">Resources</h2>
 <ul>
 <li>Slides: Coming soon</li>
-<li>Code: Coming soon</li>
-<li>Data: Coming soon</li>
 </ul>
 
 

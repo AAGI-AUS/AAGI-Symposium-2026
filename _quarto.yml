@@ -21,6 +21,18 @@ website:
         href: program.qmd
         #href: data/20260513_AAGISymposium_schedule_v4.xlsx
         #href: "https://live.com"
+      - text: "Talks & Panels"
+        menu:
+          - text: "All Talks & Panels"
+            href: talks-panels.qmd
+          - text: "AAGI Nodes"
+            href: talks-panels-nodes.qmd
+          - text: "Industry, Government and Growers (IGG)"
+            href: talks-panels-igg.qmd
+          - text: "AAGI Partners"
+            href: talks-panels-partners.qmd
+          - text: "HDR Networking"
+            href: talks-panels-hdr-networking.qmd
       - text: "Workshops"
         menu:
           - text: "All Workshops"
@@ -51,8 +63,6 @@ website:
             href: posters-theme-5.qmd
           - text: "Posters Theme 6"
             href: posters-theme-6.qmd
-      - text: "HDR Networking"
-        href: hdr.qmd
       - text: "Participants"
         href: participants.qmd
       - text: "Resources"
@@ -86,5 +96,4 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-
 

@@ -1,0 +1,23 @@
+---
+title: "HDR Networking"
+---
+
+**Date:** Wednesday 11 November 2026  
+**Time:** 16:00 - 17:30  
+**Venue:** QT Perth, Murray Room
+
+## Summary
+
+This networking and Q&amp;A session brings together higher degree by research students from across AAGI. The session will support connections between peers, senior researchers and industry representatives, with discussion around career development, industry engagement and mentoring.
+
+## Speakers
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<div class="speaker-photo-placeholder" role="img" aria-label="Speaker photo placeholder">Photo</div>
+<div>
+<h3>Speaker to be confirmed</h3>
+<p>Add the speaker's role, organisation and biography here.</p>
+</div>
+</article>
+</div>

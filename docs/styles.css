@@ -192,6 +192,10 @@
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
 
+.nav-card .card-img {
+  margin-bottom: 1rem;
+}
+
 .nav-card h3 {
   margin-top: 0;
   font-size: 1.5rem;

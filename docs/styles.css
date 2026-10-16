@@ -138,17 +138,21 @@
   background-color: #05534b;
   border-bottom: 3px solid #033b36;
   color: #ffffff;
+  font-size: 0.85rem;
   font-weight: 700;
-  padding: 0.85rem 0.75rem;
+  padding: 0.85rem 0.5rem;
+  white-space: nowrap;
 }
 
 .panel-tabset .nav-tabs .nav-link {
   background-color: #f3f4f6;
   border-color: #d1d5db;
   color: #374151;
+  font-size: 0.9rem;
   font-weight: 700;
   padding: 0.85rem 0.75rem;
   text-align: center;
+  white-space: nowrap;
 }
 
 .panel-tabset .nav-tabs .nav-item {

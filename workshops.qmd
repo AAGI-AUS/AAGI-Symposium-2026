@@ -20,7 +20,7 @@ Explore the four symposium workshops below.
 <p>This workshop will explore efficient trial design with *speed*.</p>
 </a>
 <a class="nav-card" href="workshop-3.qmd">
-<img src="images/workshops_1.jpg" class="card-img" alt="Workshop 3">
+<img src="images/workshop_3_bioinfo_image@2x.jpg" class="card-img" alt="Workshop 3">
 <h3>Workshop 3</h3>
 <h3>Bioinformatics across AAGI: Research, Tools and Challenges</h3>
 <p>This workshop will explore bioinformatics across AAGI, including research, tools and challenges.</p>

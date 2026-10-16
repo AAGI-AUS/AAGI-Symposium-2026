@@ -1,5 +1,5 @@
 ---
-title: "Workshop 3<br>Bioinformatics across AAGI: Research, Tools and Challenges"
+title: '<span class="workshop-title-text">Workshop 3<br>Bioinformatics across AAGI: Research, Tools and Challenges</span><img src="images/workshop_3_bioinfo_image@2x.jpg" class="workshop-hero-image" alt="Illustration of workshop 3 bioinformatics research, tools and challenges">'
 ---
 
 **Date:** Wednesday, 11 November 2026  

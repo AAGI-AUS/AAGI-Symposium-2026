@@ -7,12 +7,12 @@ title: "Workshop 3<br>Bioinformatics across AAGI: Research, Tools and Challenges
 **Venue:** Curtin, 137 St Georges Terrace, Room: TBA
 
 ## Summary
-This workshop will explore bioinformatics across AAGI, including research, tools and challenges.
+
+This workshop will showcase how modern computational approaches are shaping genomic and omics research. It will begin with a focus on Trusted Research Environments (TREs) and federated analytics and learning in omics, highlighting how secure and controlled research environments can support the analysis and sharing of sensitive or distributed data while enabling collaboration across institutions. The workshop will also highlight reproducible workflows, computational approaches and tools being developed and applied across different areas of bioinformatics, providing an opportunity to share expertise, build connections and explore future opportunities for collaboration across AAGI.
 
 More details will be published soon.
 
 ## Resources
 
 - Slides: Coming soon
-- Code: Coming soon
-- Data: Coming soon
+

@@ -4,7 +4,14 @@ title: '<span class="workshop-title-text">Workshop 3<br>Bioinformatics across AA
 
 **Date:** Wednesday, 11 November 2026  
 **Time:** 11:00 - 13:00  
-**Venue:** Curtin, 137 St Georges Terrace, Room: TBA
+**Venue:** Curtin, 137 St Georges Terrace, Room: Gallery
+
+**📍 Please note this is an off-site session **
+
+The venue is approximately 800 m, or a 10-minute walk, from the QT Hotel Perth.
+
+<img src="images/workshop_3_bioinfo_location.png" class="workshop-hero-image" alt="location of workshop 3 bioinformatics">
+
 
 ## Summary
 

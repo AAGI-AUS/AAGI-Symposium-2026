@@ -23,6 +23,7 @@ The AAGI Partners session highlights the contributions, expertise and perspectiv
 <div>
 <h3>Fred van Eeuwijk</h3>
 <p>Wageningen University & Research (WUR), Netherlands</p>
+<img src="images/WUR_logo.png" class="card-img" alt="WUR logo">
 </div>
 </article>
 </div>

@@ -10,7 +10,7 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 
 **📍 Off-site Sessions **
 
-**Workshop 3: AAGI Bioinformatics** will be held in **Room TBA** at **Curtin, 137 St Georges Terrace**. The venue is approximately 800 m, or a 10-minute walk, from the QT Hotel Perth.
+**Workshop 3: AAGI Bioinformatics** will be held in **Room Gallery** at **Curtin, 137 St Georges Terrace**. The venue is approximately 800 m, or a 10-minute walk, from the QT Hotel Perth.
 
 The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curtin Business School, 78 Murray Street**. The venue is approximately 160 m, or a 3-minute walk, from the QT Hotel Perth.
 
@@ -79,7 +79,7 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 | **09:00 - 10:30** | **Talks: UQ** | Murray Room |
 | **10:30 - 11:00** | ☕ Morning Tea | Murray Room |
 | **11:00 - 13:00** | **Workshop 2** <br> *Efficient Trial Design with *speed* | Murray Room |
-| | **Workshop 3** <br> *Bioinformatics across AAGI: Research, Tools and Challenges* | Gallery, Curtin 137 St Georges Terrace |
+| | **Workshop 3** <br> *Bioinformatics across AAGI: Research, Tools and Challenges* | Room Gallery, Curtin 137 St Georges Terrace |
 | **13:00 - 14:00** | 🥪 Lunch | Murray Room |
 | **14:00 - 15:30** | **Talks: AAGI partners** | Murray Room |
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |

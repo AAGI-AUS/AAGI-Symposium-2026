@@ -8,7 +8,10 @@ Explore the symposium talks and panel sessions below.
 
 <a class="nav-card" href="talks-panels-nodes.qmd">
 <!-- <img src="images/AAGI_logo_and_nodes.png" class="card-img" alt="AAGI"> -->
-<img src="images/AAGI_nodes.png" class="card-img" alt="AAGI nodes">
+<!-- <img src="images/AAGI_nodes.png" class="card-img" alt="AAGI nodes"> -->
+<img src="images/AU logo primary cmyk.png" class="card-img" alt="AU logo">
+<img src="images/CU_MasterLogo_CMYK_2416x400.JPG" class="card-img" alt="CU logo">
+<img src="images/UQ_logo-Purple-rgb.png" class="card-img" alt="UQ logo">
 <h3>AAGI Nodes</h3>
 <p>Hear research talks from Curtin University, University of Queensland and Adelaide University AAGI nodes.</p>
 </a>
@@ -18,7 +21,9 @@ Explore the symposium talks and panel sessions below.
 <p>Explore perspectives from industry, government and growers, followed by a panel Q&amp;A.</p>
 </a>
 <a class="nav-card" href="talks-panels-partners.qmd">
-<!-- <img src="images/aagi_partners.jpg" class="card-img" alt="AAGI partners"> -->
+<img src="images/WUR_logo.png" class="card-img" alt="WUR logo">
+<img src="images/UWA_logo_blue_transparent.png" class="card-img" alt="UWA logo">
+<img src="images/ANU_logo_white_text.png" class="card-img" alt="ANU logo">
 <h3>AAGI Partners</h3>
 <p>Learn about the work and perspectives of AAGI's partner organisations.</p>
 </a>

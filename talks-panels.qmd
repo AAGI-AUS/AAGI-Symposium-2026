@@ -21,9 +21,9 @@ Explore the symposium talks and panel sessions below.
 <p>Explore perspectives from industry, government and growers, followed by a panel Q&amp;A.</p>
 </a>
 <a class="nav-card" href="talks-panels-partners.qmd">
-<img src="images/WUR_logo.png" class="card-img" alt="WUR logo">
+<!-- <img src="images/WUR_logo.png" class="card-img" alt="WUR logo">
 <img src="images/UWA_logo_blue_transparent.png" class="card-img" alt="UWA logo">
-<img src="images/ANU_logo_white_text.png" class="card-img" alt="ANU logo">
+<img src="images/ANU_logo_white_text.png" class="card-img" alt="ANU logo"> -->
 <h3>AAGI Partners</h3>
 <p>Learn about the work and perspectives of AAGI's partner organisations.</p>
 </a>

@@ -1,0 +1,63 @@
+---
+title: "SP Leads & GRDC Panel, Closing & Awards"
+---
+
+**Date:** Thursday, 12 November 2026  
+**Time:** 11:00 - 13:00  
+**Venue:** QT Perth, Murray Room
+
+**Chair**: Nathan O'Callaghan
+
+## Summary
+
+Join us for a closing panel discussion with AAGI's strategic partner leads and a representative from the Grains Research and Development Corporation (GRDC). Chaired by AAGI's director Nathan O'Callaghan, the panel will reflect on what AAGI has achieved, the opportunities and challenges ahead, and how the partnership can continue to deliver value for the Australian grains industry.
+
+This is your chance to put questions directly to the panel. During the Symposium, you can submit questions through the GroupMap QR code link, or ask live in the room.
+
+The session will conclude with the awards ceremony, celebrating the best poster and the best 3-minute pitch from the poster session.
+
+
+
+## Panel members
+
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Mark_Gibberd.jpg" class="speaker-photo" alt="Mark Gibberd">
+<div>
+<h3>Mark Gibberd</h3>
+<p>Curtin University (CU), Australia</p>
+</div>
+</article>
+</div>
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Scott_Chapman.png" class="speaker-photo" alt="Scott Chapman">
+<div>
+<h3>Scott Chapman</h3>
+<p>The University of Queensland (UQ), Australia</p>
+</div>
+</article>
+</div>
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Julian_Taylor.png" class="speaker-photo" alt="Julian Taylor">
+<div>
+<h3>Julian Taylor</h3>
+<p>Adelaide University (AU), Australia</p>
+</div>
+</article>
+</div>
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Washington_Gapare.jpg" class="speaker-photo" alt="Washington Gapare">
+<div>
+<h3>Washington Gapare</h3>
+<p>Grain Research and Development Corporation (GRDC), Australia</p>
+</div>
+</article>
+</div>
+

@@ -33,6 +33,8 @@ website:
             href: talks-panels-partners.qmd
           - text: "HDR Networking"
             href: talks-panels-hdr-networking.qmd
+          - text: "SP Leads & GRDC"
+            href: talks-panels-sp-leads.qmd
       - text: "Workshops"
         menu:
           - text: "All Workshops"
@@ -43,8 +45,6 @@ website:
             href: workshop-2.qmd
           - text: "Workshop 3"
             href: workshop-3.qmd
-          - text: "Workshop 4"
-            href: workshop-4.qmd
           - text: "Bioinformatics Satellite"
             href: workshop-bioinfo-satellite.qmd
       - text: "Posters"
@@ -96,4 +96,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-

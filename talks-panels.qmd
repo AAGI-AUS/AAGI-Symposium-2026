@@ -31,4 +31,10 @@ Explore the symposium talks and panel sessions below.
 <!-- <img src="images/hdr.jpg" class="card-img" alt="HDR"> -->
 <h3>HDR Networking</h3>
 <p>Connect with fellow higher degree by research students during this networking and Q&amp;A session.</p>
+</a>
+<a class="nav-card" href="talks-panels-sp-leads.qmd">
+<img src="images/workshops_1.jpg" class="card-img" alt="SP Leads">
+<h3>SP Leads and Awards</h3>
+<h3>AAGI 2.0: Preparing for the Future</h3>
+<p>This workshop will explore AAGI 2.0 and preparations for the future.</p>
 </a></div>

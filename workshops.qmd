@@ -25,12 +25,6 @@ Explore the four symposium workshops below.
 <h3>Bioinformatics across AAGI: Research, Tools and Challenges</h3>
 <p>This workshop will explore bioinformatics across AAGI, including research, tools and challenges.</p>
 </a>
-<a class="nav-card" href="workshop-4.qmd">
-<img src="images/workshops_1.jpg" class="card-img" alt="Workshop 4">
-<h3>Workshop 4</h3>
-<h3>AAGI 2.0: Preparing for the Future</h3>
-<p>This workshop will explore AAGI 2.0 and preparations for the future.</p>
-</a>
 <a class="nav-card" href="workshop-bioinfo-satellite.qmd">
 <img src="images/workshop_bioinfo_satellite_image@2x.jpg" class="card-img" alt="Workshop Bioinformatics Satellite Meeting">
 <h3>Bioinformatics Satellite Meeting</h3>

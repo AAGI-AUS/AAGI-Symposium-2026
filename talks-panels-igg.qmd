@@ -23,7 +23,7 @@ The Industry, Government and Growers (IGG) session brings together perspectives 
 <h3>Peter Bird</h3>
 <p>Grains Research and Development Corporation (GRDC-West), Australia</p>
 </div>
-<img src="images/GRDC_logo_Primary_Default_transparent.png" class="speaker-logo" alt="GRDC logo">
+<img src="images/GRDC_logo_Primary_Default_transparent.png" class="speaker-logo speaker-logo-padded" alt="GRDC logo">
 </article>
 </div>
 
@@ -38,6 +38,18 @@ The Industry, Government and Growers (IGG) session brings together perspectives 
 </article>
 </div>
 
+
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Daniel_Kidd.png" class="speaker-photo" alt="Daniel Kidd">
+<div>
+<h3>Daniel Kidd</h3>
+<p>Grower Group Alliance (GGA), Australia</p>
+</div>
+<img src="images/gga_logo_1.png" class="speaker-logo speaker-logo-tight" alt="GGA logo">
+</article>
+</div> -->
+
 Others to be confirmed.
 
 <!-- <div class="speaker-grid">
@@ -50,13 +62,4 @@ Others to be confirmed.
 </article>
 </div>
 
-<div class="speaker-grid">
-<article class="speaker-card">
-<img src="images/Daniel_Kidd.png" class="speaker-photo" alt="Daniel Kidd">
-<div>
-<h3>Daniel Kidd</h3>
-<p>Grower Group Alliance</p>
-</div>
-</article>
-</div> -->
 

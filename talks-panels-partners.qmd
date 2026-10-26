@@ -23,8 +23,8 @@ The AAGI Partners session highlights the contributions, expertise and perspectiv
 <div>
 <h3>Fred van Eeuwijk</h3>
 <p>Wageningen University & Research (WUR), Netherlands</p>
-<img src="images/WUR_logo.png" class="card-img" alt="WUR logo">
 </div>
+<img src="images/WUR_logo.png" class="speaker-logo" alt="WUR logo">
 </article>
 </div>
 
@@ -35,6 +35,7 @@ The AAGI Partners session highlights the contributions, expertise and perspectiv
 <h3>Dave Edwards</h3>
 <p>University of Western Australia (UWA), Australia</p>
 </div>
+<img src="images/UWA_logo_blue_transparent.png" class="speaker-logo" alt="UWA logo">
 </article>
 </div>
 
@@ -45,6 +46,7 @@ The AAGI Partners session highlights the contributions, expertise and perspectiv
 <h3>Emi Tanaka</h3>
 <p>Australian National University (ANU), Australia</p>
 </div>
+<img src="images/ANU_logo_white_text.png" class="speaker-logo" alt="ANU logo">
 </article>
 </div>
 
@@ -56,5 +58,6 @@ The AAGI Partners session highlights the contributions, expertise and perspectiv
 <h3>Valeria Paccapelo</h3>
 <p>Queensland Department of Primary Industries (QDPI), Australia</p>
 </div>
+<img src="images/qld_gov_logo_1.png" class="speaker-logo" alt="Queensland Government logo">
 </article>
 </div>

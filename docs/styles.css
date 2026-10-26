@@ -255,6 +255,19 @@
   font-weight: 700;
 }
 
+.speaker-card > div {
+  flex: 1;
+}
+
+.speaker-logo {
+  flex: 0 0 auto;
+  align-self: center;
+  margin-left: auto;
+  max-width: 90px;
+  max-height: 60px;
+  object-fit: contain;
+}
+
 .speaker-photo {
   flex: 0 0 100px;
   width: 100px;

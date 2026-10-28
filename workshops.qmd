@@ -2,33 +2,38 @@
 title: "Workshops"
 ---
 
-Explore the four symposium workshops below.
+Explore the symposium workshops below.
 
 <!-- Choose number of nav cards per row (3 or 2) based on the number of workshops you have. If you have 4 workshops, use 2 per row. If you have 6 workshops, use 3 per row. -->
 <div class="card-grid card-grid-two">
 
 <a class="nav-card" href="workshop-1.qmd">
-<img src="images/workshop_1_ai_image@2x.jpg" class="card-img" alt="Workshop 1">
 <h3>Workshop 1</h3>
 <h3>AI in AAGI: From Tools to Workflows</h3>
 <p>This workshop will explore the application of AI in AAGI, focusing on the transition from individual tools to integrated workflows.</p>
+<img src="images/workshop_1_ai_image@2x.jpg" class="card-img" alt="Workshop 1">
 </a>
 <a class="nav-card" href="workshop-2.qmd">
-<img src="images/workshop_2_speed_image@2x.jpg" class="card-img" alt="Workshop 2">
 <h3>Workshop 2</h3>
 <h3>Efficient Trial Design with *speed*</h3>
 <p>This workshop will explore efficient trial design with *speed*.</p>
+<img src="images/workshop_2_speed_image@2x.jpg" class="card-img" alt="Workshop 2">
 </a>
 <a class="nav-card" href="workshop-3.qmd">
-<img src="images/workshop_3_bioinfo_image@2x.jpg" class="card-img" alt="Workshop 3">
 <h3>Workshop 3</h3>
 <h3>Bioinformatics across AAGI: Research, Tools and Challenges</h3>
 <p>This workshop will explore bioinformatics across AAGI, including research, tools and challenges.</p>
+<img src="images/workshop_3_bioinfo_image@2x.jpg" class="card-img" alt="Workshop 3">
+</a>
+<a class="nav-card" href="workshop-wur.qmd">
+<h3>WUR Workshop</h3>
+<h3>LMMs, AI &amp; ODEs for G×E</h3>
+<p>This workshop covers mixed model splines, random regression, kernels and AI for genotype-by-environment interactions, and ODE-based crop modelling.</p>
+<img src="images/WUR_logo.png" class="card-img wur-nav-logo" alt="Wageningen University &amp; Research logo">
 </a>
 <a class="nav-card" href="workshop-bioinfo-satellite.qmd">
-<img src="images/workshop_bioinfo_satellite_image@2x.jpg" class="card-img" alt="Workshop Bioinformatics Satellite Meeting">
 <h3>Bioinformatics Satellite Meeting</h3>
 <h3>Applied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research</h3>
 <p>This workshop will explore emerging tools and data-driven approaches in crop research.</p>
+<img src="images/workshop_bioinfo_satellite_image@2x.jpg" class="card-img" alt="Workshop Bioinformatics Satellite Meeting">
 </a> </div>
-

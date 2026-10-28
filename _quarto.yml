@@ -49,6 +49,8 @@ website:
             href: workshop-2.qmd
           - text: "Workshop 3: Bioinformatics"
             href: workshop-3.qmd
+          - text: "WUR Workshop"
+            href: workshop-wur.qmd
           - text: "Bioinformatics Satellite"
             href: workshop-bioinfo-satellite.qmd
       - text: "Posters"

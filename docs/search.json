@@ -147,53 +147,102 @@
     "text": "Symposium Goals\nThe AAGI Symposium aims to:\n\nshowcase innovative research from AAGI groups across Australia;\nshare practical tools, methods and workflows for grains analytics;\nfoster collaboration between researchers, students and industry partners;\nsupport professional development through workshops and networking; and\nstrengthen the national AAGI research community.\n\nWhether you are attending in person or revisiting the symposium afterwards, we hope this website provides a useful resource and helps continue the conversations beyond the event.\nWe look forward to welcoming you to Perth in November 2026."
   },
   {
-    "objectID": "talks-panels-partners.html",
-    "href": "talks-panels-partners.html",
-    "title": "AAGI Partners",
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
     "section": "",
-    "text": "Date: Wednesday 11 November 2026\nTime: 14:00 - 15:30\nVenue: QT Perth, Murray Room\nChair: Julian Taylor"
+    "text": "Explore the symposium workshops below.\n\n\n\n\nWorkshop 1\n\n\nAI in AAGI: From Tools to Workflows\n\n\nThis workshop will explore the application of AI in AAGI, focusing on the transition from individual tools to integrated workflows.\n\n  \n\nWorkshop 2\n\n\nEfficient Trial Design with speed\n\n\nThis workshop will explore efficient trial design with speed.\n\n  \n\nWorkshop 3\n\n\nBioinformatics across AAGI: Research, Tools and Challenges\n\n\nThis workshop will explore bioinformatics across AAGI, including research, tools and challenges.\n\n  \n\nWUR Workshop\n\n\nLMMs, AI & ODEs for G×E\n\n\nThis workshop covers mixed model splines, random regression, kernels and AI for genotype-by-environment interactions, and ODE-based crop modelling.\n\n  \n\nBioinformatics Satellite Meeting\n\n\nApplied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research\n\n\nThis workshop will explore emerging tools and data-driven approaches in crop research."
   },
   {
-    "objectID": "talks-panels-partners.html#summary",
-    "href": "talks-panels-partners.html#summary",
-    "title": "AAGI Partners",
-    "section": "Summary",
-    "text": "Summary\nThe AAGI Partners session highlights the contributions, expertise and perspectives of AAGI’s partner organisations, showcasing the diverse research and activities supporting innovation across the Australian grains industry. Speakers will share insights into their current work, strategic priorities and emerging opportunities, highlighting how collaboration across the AAGI network can strengthen research, data analytics and knowledge exchange. The session will also provide an opportunity to explore synergies between partner organisations, foster connections and identify opportunities for future collaboration to address shared challenges and maximise the impact of AAGI."
-  },
-  {
-    "objectID": "talks-panels-partners.html#speakers",
-    "href": "talks-panels-partners.html#speakers",
-    "title": "AAGI Partners",
-    "section": "Speakers",
-    "text": "Speakers\n\n\n\n\n\nFred van Eeuwijk\n\n\nWageningen University & Research (WUR), Netherlands\n\n\n\n\n\n\n\n\n\n\nDave Edwards\n\n\nUniversity of Western Australia (UWA), Australia\n\n\n\n\n\n\n\n\n\n\nEmi Tanaka\n\n\nAustralian National University (ANU), Australia\n\n\n\n\n\n\n\n\n\n\nValeria Paccapelo\n\n\nQueensland Department of Primary Industries (QDPI), Australia"
-  },
-  {
-    "objectID": "workshop-3.html",
-    "href": "workshop-3.html",
-    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
+    "objectID": "workshop-1.html",
+    "href": "workshop-1.html",
+    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
     "section": "",
-    "text": "Date: Wednesday, 11 November 2026\nTime: 11:00 - 13:00\nVenue: Curtin, 137 St Georges Terrace, Room: Gallery\n📍 Please note this is an off-site session\nThe venue is approximately 800 m, or a 10-minute walk, from the QT Hotel Perth."
+    "text": "Date: Tuesday, 10 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
   },
   {
-    "objectID": "workshop-3.html#summary",
-    "href": "workshop-3.html#summary",
-    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
+    "objectID": "workshop-1.html#summary",
+    "href": "workshop-1.html#summary",
+    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
     "section": "Summary",
-    "text": "Summary\nThis workshop will showcase how modern computational approaches are shaping genomic and omics research. It will begin with a focus on Trusted Research Environments (TREs) and federated analytics and learning in omics, highlighting how secure and controlled research environments can support the analysis and sharing of sensitive or distributed data while enabling collaboration across institutions. The workshop will also highlight reproducible workflows, computational approaches and tools being developed and applied across different areas of bioinformatics, providing an opportunity to share expertise, build connections and explore future opportunities for collaboration across AAGI."
+    "text": "Summary\nArtificial intelligence (AI) is rapidly transforming scientific research, creating new opportunities for knowledge discovery, data analysis, and computational tool development. This workshop will showcase major trends shaping the current AI landscape, exploring how emerging technologies are changing research practices and how they can be adopted effectively and responsibly. Through a series of presentations, we will examine AI-assisted literature exploration and research gap identification, AI-driven tool development, and the growing role of locally deployed AI models in supporting research workflows. Attention will be given to responsible AI practices, including the generation and use of synthetic data, management of sensitive research datasets, data privacy, and research integrity. Bringing together practical applications, emerging technologies and responsible data management strategies, the workshop aims to provide researchers with a broader understanding of AI’s evolving role in science, encourage knowledge sharing across AAGI, and identify opportunities for collaboration and innovation in the Australian grains research community."
   },
   {
-    "objectID": "workshop-3.html#agenda",
-    "href": "workshop-3.html#agenda",
-    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
-    "section": "Agenda",
-    "text": "Agenda\n\n\n\n\nTIME\n\n\nSESSION\n\n\n\n\n\n\n11:00 - 11:10\n\n\nOpening and workshop overviewDr Irina Kuznetsova\n\n\n\n\n11:10 - 11:40\n\n\nInvited presentationTrusted Research Environments (TREs) and federated analytics/learning in omicsProf Nicola Armstrong\n\n\n\n\n\n\n11:40 - 12:40   Research case studies: Reproducible workflows in practiceBioinformatics workflow and automation across AAGI\n\n\n\n\n11:40 - 11:50\n\n\nSingle-cell analysis and workflow package developmentDr Irina Kuznetsova\n\n\n\n\n11:50 - 12:00\n\n\nComputational genotype imputation for genomic selection/breedingDr Huan Zhao\n\n\n\n\n12:00 - 12:10\n\n\nHaplotype phasing: computational approaches and applicationsDr Mario Fruzangohar\n\n\n\n\n12:10 - 12:20\n\n\nComputational genetic analysis with wgaimDr Beata Sznajder\n\n\n\n\n12:20 - 12:30\n\n\nFrom eQTL to network constructionDr Dinesha Jayawardana\n\n\n\n\n12:30 - 12:40\n\n\nAutomation, reproducibility, portability: OpenWDL and SprocketMr George Malone\n\n\n\n\n12:40 - 13:00\n\n\nCommunity discussion and closing remarksAdvancing bioinformatics across AAGIDr Irina Kuznetsova + all contributors\n\n\n\n\nTiming note: The workshop is scheduled to start at 11:00 am, with a 20-minute collaborative discussion concluding the main program to explore forward-looking directions for bioinformatics across AAGI."
+    "objectID": "workshop-1.html#talks",
+    "href": "workshop-1.html#talks",
+    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
+    "section": "Talks",
+    "text": "Talks\n\n\n\n\n\n\n\nSpeaker\nTopic\n\n\n\n\nKristina Gagalova\nWelcome and event intro\n\n\nJulian Taylor\nAI guidelines at AAGI\n\n\nKristina Gagalova\nCurrent AI landscape: general intro\n\n\nJavier Fernandez\nLocal AI Overview and relevance to sensitive teaching and research data\n\n\nPeiye Li\nLiterature review and research gap search with AI\n\n\nSebastian Lopez Marcano\nAI driven tool development and responsible AI\n\n\nMax Moldovan\nSynthetic data usage for responsible AI: generation, use, and best practices\n\n\nXin Yu\nReal data for usage for responsible AI: local AI and Sensitive Data Management\n\n\n\nThe talks will be followed by a 15-minute Q&A session to discuss the topics raised."
   },
   {
-    "objectID": "workshop-3.html#resources",
-    "href": "workshop-3.html#resources",
-    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
+    "objectID": "workshop-1.html#resources",
+    "href": "workshop-1.html#resources",
+    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
     "section": "Resources",
     "text": "Resources\n\nSlides: Coming soon"
+  },
+  {
+    "objectID": "workshop-2.html",
+    "href": "workshop-2.html",
+    "title": "Workshop 2Efficient Trial Design with speed",
+    "section": "",
+    "text": "Date: Wednesday, 11 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
+  },
+  {
+    "objectID": "workshop-2.html#summary",
+    "href": "workshop-2.html#summary",
+    "title": "Workshop 2Efficient Trial Design with speed",
+    "section": "Summary",
+    "text": "Summary\nspeed is an R package from AAGI-AU that generates spatially optimised, model-free experimental designs. In this hands-on workshop, we’ll explain what model-free means in practice, give a conceptual overview of how speed works, then walk through:\n\nStandard designs such as RCBD and split-plot\nRow-column, p-rep, and multi-environment trial (MET) designs\nIncorporating a relationship matrix or covariates\nWriting your own objective functions\n\nParticipants should be comfortable in R.\nPlease bring a laptop with speed installed:\nif (!require(\"pak\", quietly = TRUE)) install.packages(\"pak\")\npak::pak(\"biometryhub/speed\")"
+  },
+  {
+    "objectID": "workshop-2.html#resources",
+    "href": "workshop-2.html#resources",
+    "title": "Workshop 2Efficient Trial Design with speed",
+    "section": "Resources",
+    "text": "Resources\n\nSlides: Coming soon"
+  },
+  {
+    "objectID": "talks-panels-hdr-networking.html",
+    "href": "talks-panels-hdr-networking.html",
+    "title": "HDR Networking",
+    "section": "",
+    "text": "Date: Wednesday 11 November 2026\nTime: 16:00 - 17:30\nVenue: QT Perth, Murray Room\nChair: Mark Gibberd"
+  },
+  {
+    "objectID": "talks-panels-hdr-networking.html#summary",
+    "href": "talks-panels-hdr-networking.html#summary",
+    "title": "HDR Networking",
+    "section": "Summary",
+    "text": "Summary\nThe Higher Degree by Research (HDR) session brings together HDR students and early career researchers from across AAGI for a panel and interactive Q&A. The session will provide an opportunity to connect with peers, experienced researchers and industry representatives, exchange experiences and gain insights into navigating research careers. Discussion will explore career development, industry engagement, mentoring and the transition from academic research to industry and other career pathways. The panel will also encourage participants to reflect on the skills, networks and opportunities that can support their professional growth, while fostering connections across the AAGI community and strengthening links between emerging researchers and the broader grains research sector."
+  },
+  {
+    "objectID": "talks-panels-hdr-networking.html#panel-members",
+    "href": "talks-panels-hdr-networking.html#panel-members",
+    "title": "HDR Networking",
+    "section": "Panel Members",
+    "text": "Panel Members\n\n\n\n\n\nScott Chapman\n\n\nThe University of Queensland (UQ), Australia\n\n\n\n\n\n\n\n\n\nFred van Eeuwijk\n\n\nWageningen University & Research (WUR), Netherlands\n\n\n\n\n\n\n\n\n\nPeter Bird\n\n\nGrains Research and Development Corporation (GRDC-West), Australia\n\n\n\n\n\n\n\n\n\nJulia Easton\n\n\nCurtin University (CU), Australia\n\n\n\n\n\n\nOthers to be confirmed."
+  },
+  {
+    "objectID": "talks-panels-nodes-CU.html",
+    "href": "talks-panels-nodes-CU.html",
+    "title": "Strategic Partner:Curtin University",
+    "section": "",
+    "text": "Date: Tuesday 10 November 2026\nTime: 09:00 - 10:30\nVenue: QT Perth, Murray Room"
+  },
+  {
+    "objectID": "talks-panels-nodes-CU.html#summary",
+    "href": "talks-panels-nodes-CU.html#summary",
+    "title": "Strategic Partner:Curtin University",
+    "section": "Summary",
+    "text": "Summary\nHear about research, activities and emerging opportunities from the Curtin University AAGI node."
+  },
+  {
+    "objectID": "talks-panels-nodes-CU.html#talks",
+    "href": "talks-panels-nodes-CU.html#talks",
+    "title": "Strategic Partner:Curtin University",
+    "section": "Talks",
+    "text": "Talks\nTalk titles and speaker details to be confirmed."
   },
   {
     "objectID": "contact.html",
@@ -231,102 +280,74 @@
     "text": "University of Queensland\nRobert Armstrong r.armstrong1@uq.edu.au\nSophy Wang xiaoyi.wang@uq.edu.au\nSebastian Lopez Marcano s.lopezmarcano@uq.edu.au\nDinesha Jayawardana dinesha.jayawardana@uq.edu.au\nVanessa Lopez Corona a.lopezcorona@uq.edu.au\nKaiyu Guo kaiyu.guo@uq.edu.au\nBruno Rafael de Almeida Moreira b.moreira@uq.edu.au\nIf you are unsure who to contact, email the Curtin organising team and your message will be directed to the appropriate person."
   },
   {
-    "objectID": "talks-panels-nodes-CU.html",
-    "href": "talks-panels-nodes-CU.html",
-    "title": "Strategic Partner:Curtin University",
+    "objectID": "workshop-3.html",
+    "href": "workshop-3.html",
+    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
     "section": "",
-    "text": "Date: Tuesday 10 November 2026\nTime: 09:00 - 10:30\nVenue: QT Perth, Murray Room"
+    "text": "Date: Wednesday, 11 November 2026\nTime: 11:00 - 13:00\nVenue: Curtin, 137 St Georges Terrace, Room: Gallery\n📍 Please note this is an off-site session\nThe venue is approximately 800 m, or a 10-minute walk, from the QT Hotel Perth."
   },
   {
-    "objectID": "talks-panels-nodes-CU.html#summary",
-    "href": "talks-panels-nodes-CU.html#summary",
-    "title": "Strategic Partner:Curtin University",
+    "objectID": "workshop-3.html#summary",
+    "href": "workshop-3.html#summary",
+    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
     "section": "Summary",
-    "text": "Summary\nHear about research, activities and emerging opportunities from the Curtin University AAGI node."
+    "text": "Summary\nThis workshop will showcase how modern computational approaches are shaping genomic and omics research. It will begin with a focus on Trusted Research Environments (TREs) and federated analytics and learning in omics, highlighting how secure and controlled research environments can support the analysis and sharing of sensitive or distributed data while enabling collaboration across institutions. The workshop will also highlight reproducible workflows, computational approaches and tools being developed and applied across different areas of bioinformatics, providing an opportunity to share expertise, build connections and explore future opportunities for collaboration across AAGI."
   },
   {
-    "objectID": "talks-panels-nodes-CU.html#talks",
-    "href": "talks-panels-nodes-CU.html#talks",
-    "title": "Strategic Partner:Curtin University",
-    "section": "Talks",
-    "text": "Talks\nTalk titles and speaker details to be confirmed."
+    "objectID": "workshop-3.html#agenda",
+    "href": "workshop-3.html#agenda",
+    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
+    "section": "Agenda",
+    "text": "Agenda\n\n\n\n\nTIME\n\n\nSESSION\n\n\n\n\n\n\n11:00 - 11:10\n\n\nOpening and workshop overviewDr Irina Kuznetsova\n\n\n\n\n11:10 - 11:40\n\n\nInvited presentationTrusted Research Environments (TREs) and federated analytics/learning in omicsProf Nicola Armstrong\n\n\n\n\n\n\n11:40 - 12:40   Research case studies: Reproducible workflows in practiceBioinformatics workflow and automation across AAGI\n\n\n\n\n11:40 - 11:50\n\n\nSingle-cell analysis and workflow package developmentDr Irina Kuznetsova\n\n\n\n\n11:50 - 12:00\n\n\nComputational genotype imputation for genomic selection/breedingDr Huan Zhao\n\n\n\n\n12:00 - 12:10\n\n\nHaplotype phasing: computational approaches and applicationsDr Mario Fruzangohar\n\n\n\n\n12:10 - 12:20\n\n\nComputational genetic analysis with wgaimDr Beata Sznajder\n\n\n\n\n12:20 - 12:30\n\n\nFrom eQTL to network constructionDr Dinesha Jayawardana\n\n\n\n\n12:30 - 12:40\n\n\nAutomation, reproducibility, portability: OpenWDL and SprocketMr George Malone\n\n\n\n\n12:40 - 13:00\n\n\nCommunity discussion and closing remarksAdvancing bioinformatics across AAGIDr Irina Kuznetsova + all contributors\n\n\n\n\nTiming note: The workshop is scheduled to start at 11:00 am, with a 20-minute collaborative discussion concluding the main program to explore forward-looking directions for bioinformatics across AAGI."
   },
   {
-    "objectID": "talks-panels-hdr-networking.html",
-    "href": "talks-panels-hdr-networking.html",
-    "title": "HDR Networking",
-    "section": "",
-    "text": "Date: Wednesday 11 November 2026\nTime: 16:00 - 17:30\nVenue: QT Perth, Murray Room\nChair: Mark Gibberd"
-  },
-  {
-    "objectID": "talks-panels-hdr-networking.html#summary",
-    "href": "talks-panels-hdr-networking.html#summary",
-    "title": "HDR Networking",
-    "section": "Summary",
-    "text": "Summary\nThe Higher Degree by Research (HDR) session brings together HDR students and early career researchers from across AAGI for a panel and interactive Q&A. The session will provide an opportunity to connect with peers, experienced researchers and industry representatives, exchange experiences and gain insights into navigating research careers. Discussion will explore career development, industry engagement, mentoring and the transition from academic research to industry and other career pathways. The panel will also encourage participants to reflect on the skills, networks and opportunities that can support their professional growth, while fostering connections across the AAGI community and strengthening links between emerging researchers and the broader grains research sector."
-  },
-  {
-    "objectID": "talks-panels-hdr-networking.html#panel-members",
-    "href": "talks-panels-hdr-networking.html#panel-members",
-    "title": "HDR Networking",
-    "section": "Panel Members",
-    "text": "Panel Members\n\n\n\n\n\nScott Chapman\n\n\nThe University of Queensland (UQ), Australia\n\n\n\n\n\n\n\n\n\nFred van Eeuwijk\n\n\nWageningen University & Research (WUR), Netherlands\n\n\n\n\n\n\n\n\n\nPeter Bird\n\n\nGrains Research and Development Corporation (GRDC-West), Australia\n\n\n\n\n\n\n\n\n\nJulia Easton\n\n\nCurtin University (CU), Australia\n\n\n\n\n\n\nOthers to be confirmed."
-  },
-  {
-    "objectID": "workshop-2.html",
-    "href": "workshop-2.html",
-    "title": "Workshop 2Efficient Trial Design with speed",
-    "section": "",
-    "text": "Date: Wednesday, 11 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
-  },
-  {
-    "objectID": "workshop-2.html#summary",
-    "href": "workshop-2.html#summary",
-    "title": "Workshop 2Efficient Trial Design with speed",
-    "section": "Summary",
-    "text": "Summary\nspeed is an R package from AAGI-AU that generates spatially optimised, model-free experimental designs. In this hands-on workshop, we’ll explain what model-free means in practice, give a conceptual overview of how speed works, then walk through:\n\nStandard designs such as RCBD and split-plot\nRow-column, p-rep, and multi-environment trial (MET) designs\nIncorporating a relationship matrix or covariates\nWriting your own objective functions\n\nParticipants should be comfortable in R.\nPlease bring a laptop with speed installed:\nif (!require(\"pak\", quietly = TRUE)) install.packages(\"pak\")\npak::pak(\"biometryhub/speed\")"
-  },
-  {
-    "objectID": "workshop-2.html#resources",
-    "href": "workshop-2.html#resources",
-    "title": "Workshop 2Efficient Trial Design with speed",
+    "objectID": "workshop-3.html#resources",
+    "href": "workshop-3.html#resources",
+    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
     "section": "Resources",
     "text": "Resources\n\nSlides: Coming soon"
   },
   {
-    "objectID": "workshop-1.html",
-    "href": "workshop-1.html",
-    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
+    "objectID": "talks-panels-partners.html",
+    "href": "talks-panels-partners.html",
+    "title": "AAGI Partners",
     "section": "",
-    "text": "Date: Tuesday, 10 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
+    "text": "Date: Wednesday 11 November 2026\nTime: 14:00 - 15:30\nVenue: QT Perth, Murray Room\nChair: Julian Taylor"
   },
   {
-    "objectID": "workshop-1.html#summary",
-    "href": "workshop-1.html#summary",
-    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
+    "objectID": "talks-panels-partners.html#summary",
+    "href": "talks-panels-partners.html#summary",
+    "title": "AAGI Partners",
     "section": "Summary",
-    "text": "Summary\nArtificial intelligence (AI) is rapidly transforming scientific research, creating new opportunities for knowledge discovery, data analysis, and computational tool development. This workshop will showcase major trends shaping the current AI landscape, exploring how emerging technologies are changing research practices and how they can be adopted effectively and responsibly. Through a series of presentations, we will examine AI-assisted literature exploration and research gap identification, AI-driven tool development, and the growing role of locally deployed AI models in supporting research workflows. Attention will be given to responsible AI practices, including the generation and use of synthetic data, management of sensitive research datasets, data privacy, and research integrity. Bringing together practical applications, emerging technologies and responsible data management strategies, the workshop aims to provide researchers with a broader understanding of AI’s evolving role in science, encourage knowledge sharing across AAGI, and identify opportunities for collaboration and innovation in the Australian grains research community."
+    "text": "Summary\nThe AAGI Partners session highlights the contributions, expertise and perspectives of AAGI’s partner organisations, showcasing the diverse research and activities supporting innovation across the Australian grains industry. Speakers will share insights into their current work, strategic priorities and emerging opportunities, highlighting how collaboration across the AAGI network can strengthen research, data analytics and knowledge exchange. The session will also provide an opportunity to explore synergies between partner organisations, foster connections and identify opportunities for future collaboration to address shared challenges and maximise the impact of AAGI."
   },
   {
-    "objectID": "workshop-1.html#talks",
-    "href": "workshop-1.html#talks",
-    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
-    "section": "Talks",
-    "text": "Talks\n\n\n\n\n\n\n\nSpeaker\nTopic\n\n\n\n\nKristina Gagalova\nWelcome and event intro\n\n\nJulian Taylor\nAI guidelines at AAGI\n\n\nKristina Gagalova\nCurrent AI landscape: general intro\n\n\nJavier Fernandez\nLocal AI Overview and relevance to sensitive teaching and research data\n\n\nPeiye Li\nLiterature review and research gap search with AI\n\n\nSebastian Lopez Marcano\nAI driven tool development and responsible AI\n\n\nMax Moldovan\nSynthetic data usage for responsible AI: generation, use, and best practices\n\n\nXin Yu\nReal data for usage for responsible AI: local AI and Sensitive Data Management\n\n\n\nThe talks will be followed by a 15-minute Q&A session to discuss the topics raised."
+    "objectID": "talks-panels-partners.html#speakers",
+    "href": "talks-panels-partners.html#speakers",
+    "title": "AAGI Partners",
+    "section": "Speakers",
+    "text": "Speakers\n\n\n\n\n\nFred van Eeuwijk\n\n\nWageningen University & Research (WUR), Netherlands\n\n\n\n\n\n\n\n\n\n\nDave Edwards\n\n\nUniversity of Western Australia (UWA), Australia\n\n\n\n\n\n\n\n\n\n\nEmi Tanaka\n\n\nAustralian National University (ANU), Australia\n\n\n\n\n\n\n\n\n\n\nValeria Paccapelo\n\n\nQueensland Department of Primary Industries (QDPI), Australia"
   },
   {
-    "objectID": "workshop-1.html#resources",
-    "href": "workshop-1.html#resources",
-    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
-    "section": "Resources",
-    "text": "Resources\n\nSlides: Coming soon"
-  },
-  {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "Workshops",
+    "objectID": "workshop-wur.html",
+    "href": "workshop-wur.html",
+    "title": "WUR WorkshopLMMs, AI and ODEs for G×E",
     "section": "",
-    "text": "Explore the four symposium workshops below.\n\n\n \n\nWorkshop 1\n\n\nAI in AAGI: From Tools to Workflows\n\n\nThis workshop will explore the application of AI in AAGI, focusing on the transition from individual tools to integrated workflows.\n\n  \n\nWorkshop 2\n\n\nEfficient Trial Design with speed\n\n\nThis workshop will explore efficient trial design with speed.\n\n  \n\nWorkshop 3\n\n\nBioinformatics across AAGI: Research, Tools and Challenges\n\n\nThis workshop will explore bioinformatics across AAGI, including research, tools and challenges.\n\n  \n\nBioinformatics Satellite Meeting\n\n\nApplied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research\n\n\nThis workshop will explore emerging tools and data-driven approaches in crop research."
+    "text": "Date: Monday, 9 November 2026\nTime: 09:00 - 15:30\nVenue: QT Perth, Murray Room"
+  },
+  {
+    "objectID": "workshop-wur.html#summary",
+    "href": "workshop-wur.html#summary",
+    "title": "WUR WorkshopLMMs, AI and ODEs for G×E",
+    "section": "Summary",
+    "text": "Summary\nThis workshop presents modern statistical and computational approaches for analysing and predicting genotype-by-environment (G×E) interactions in plant breeding. It covers mixed model splines and random regression for spatial, temporal and environmental data; kernel-based mixed models and AI approaches for G×E; and the integration of ordinary differential equations (ODEs) with physics-informed neural networks for crop modelling."
+  },
+  {
+    "objectID": "workshop-wur.html#programme",
+    "href": "workshop-wur.html#programme",
+    "title": "WUR WorkshopLMMs, AI and ODEs for G×E",
+    "section": "Programme",
+    "text": "Programme\n\n09:00 - 10:30 | Mixed model splines and random regression for spatio-temporal data and G×E\nModern plant breeding experiments increasingly generate complex data from field trials, sensor platforms, drones, satellites, and controlled-environment phenotyping systems. These data often exhibit spatial and temporal structure that must be accounted for to obtain reliable estimates of genetic effects and genotype-by-environment interactions (G×E). Linear mixed models provide a powerful framework for analysing such data, while extensions based on splines and random regression offer flexible tools for modelling smooth trends across space, time, and environmental gradients.\nMixed model splines combine the flexibility of nonparametric smoothing with the statistical rigor and computational efficiency of mixed models. They can be used to separate systematic spatial and temporal variation from genetic effects, enabling improved correction of field trials and the analysis of complex multidimensional phenotyping data. Functional data approaches further extend this framework by modelling complete trajectories of traits measured over time and summarising biological responses through functional principal components.\nFor the analysis and prediction of G×E, random regression models provide a flexible approach to describe genotype-specific responses to environmental covariates. Reduced-rank formulations allow the simultaneous analysis of multiple environmental variables while maintaining computational feasibility for large breeding datasets. These models can be used not only to estimate genotype responses in observed environments but also to predict performance in new environments and quantify the associated uncertainty.\nPresentations\n\nMartin Boer: Multidimensional mixed model splines for spatial field trials and high-throughput phenotyping data, demonstrated with the R package LMMsolver.\nJunita Solin: Spline-based functional models and functional principal component analysis for longitudinal photosynthesis measurements in Arabidopsis and their relationship with biomass accumulation.\nJip Ramakers: Reduced-rank random regression models for G×E analysis and prediction using multi-environment wheat trial data.\n\n10:30 - 11:00 | ☕ Morning Tea\n\n\n11:00 - 13:00 | Kernels and AI for modelling genotype-by-environment interactions\nEstimating and predicting the performance of varieties across diverse environments is one of the central challenges in modern plant breeding. As breeding programs increasingly rely on sparse and large-scale multi-environment trials, there is a growing need for modelling frameworks that can efficiently capture complex genotype-by-environment (G×E) interactions while retaining predictive accuracy. Recent developments in kernel methods, high-performance computing, and artificial intelligence are opening new opportunities to address these challenges.\nKernel-based mixed models provide a flexible framework for modelling genetic, environmental, and management-related sources of variation, including higher-order interaction effects such as G×E×M. By representing relationships between genotypes and environments through kernels, these models can accommodate complex patterns of covariance while remaining compatible with standard mixed model software and REML-based parameter estimation. At the same time, advances in computing technology are making it possible to fit increasingly large and complex mixed models through GPU-accelerated algorithms and datacenter-scale hardware.\nArtificial intelligence and deep-learning approaches offer complementary opportunities for predicting crop performance from high-dimensional genetic and environmental information. By combining neural networks with mixed model concepts, hybrid approaches seek to exploit the strengths of both methodologies: the predictive flexibility of machine learning and the interpretability and statistical structure of mixed models.\nPresentations\n\nKillian Melsen: A kernel-based linear mixed model framework for modelling G×E and G×E×M interactions, and recent GPU/CPU implementations of REML estimation for large-scale datasets.\nAike Potze: MixINN, a framework combining mixed models and neural networks to predict crop performance from genetic and environmental information, with practical demonstrations using PyTorch-based interactive notebooks.\n\n13:00 - 14:00 | 🥪 Lunch\n\n\n14:00 - 15:30 | ODE-based crop modelling\nCrop traits like yield and resilience are complex breeding targets. The prediction of these traits likely improves when accounting for time-dynamic G×E interactions over the growing season. Physics-Informed Neural Networks (PINNs) are hybrid models that combine time-dynamic neural networks like LSTMs or GRUs with ordinary differential equations (ODEs). ODEs explicitly link the development rate of crop traits to the current state of the crop and its interactions with its environment, allowing for an evaluation of those traits at any time point. Function rules codify biological assumptions about limitations following from different variables, like light, temperature, soil water, or nitrogen. Model parameters are taken as genotype dependent. The ODEs are implemented in software for time-integration and fitting to time series data of monitored crop traits to optimize parameters. The ODEs are then merged with PINNs implemented in PyTorch or Torch for R, where they function as (biologically informed) penalty term for model training. Ideally, these trained PINNs improve predictions of how different genotypes will perform in new environments. Challenges include dealing with equifinality, parameter and model identification, and over-fitting.\nPresentations\n\nNeil Budko: Fundamentals of ODE-based models.\nGeorge van Voorn: ODE-based crop models and their integration with PINNs.\nCorné Verburg: Identification of ODE functions from observational data using the SINDY algorithm.\n\n15:30 - 16:00 | ☕ Afternoon Tea"
   },
   {
     "objectID": "about.html",

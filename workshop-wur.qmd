@@ -1,0 +1,56 @@
+---
+title: '<span class="workshop-title-text">WUR Workshop<br>LMMs, AI and ODEs for G×E</span><img src="images/WUR_logo.png" class="workshop-hero-image wur-workshop-logo" alt="Wageningen University & Research logo">'
+---
+
+**Date:** Monday, 9 November 2026  
+**Time:** 09:00 - 15:30  
+**Venue:** QT Perth, Murray Room
+
+## Summary
+
+This workshop presents modern statistical and computational approaches for analysing and predicting genotype-by-environment (G×E) interactions in plant breeding. It covers mixed model splines and random regression for spatial, temporal and environmental data; kernel-based mixed models and AI approaches for G×E; and the integration of ordinary differential equations (ODEs) with physics-informed neural networks for crop modelling.
+
+## Programme
+
+### 09:00 - 10:30 | Mixed model splines and random regression for spatio-temporal data and G×E
+
+Modern plant breeding experiments increasingly generate complex data from field trials, sensor platforms, drones, satellites, and controlled-environment phenotyping systems. These data often exhibit spatial and temporal structure that must be accounted for to obtain reliable estimates of genetic effects and genotype-by-environment interactions (G×E). Linear mixed models provide a powerful framework for analysing such data, while extensions based on splines and random regression offer flexible tools for modelling smooth trends across space, time, and environmental gradients.
+
+Mixed model splines combine the flexibility of nonparametric smoothing with the statistical rigor and computational efficiency of mixed models. They can be used to separate systematic spatial and temporal variation from genetic effects, enabling improved correction of field trials and the analysis of complex multidimensional phenotyping data. Functional data approaches further extend this framework by modelling complete trajectories of traits measured over time and summarising biological responses through functional principal components.
+
+For the analysis and prediction of G×E, random regression models provide a flexible approach to describe genotype-specific responses to environmental covariates. Reduced-rank formulations allow the simultaneous analysis of multiple environmental variables while maintaining computational feasibility for large breeding datasets. These models can be used not only to estimate genotype responses in observed environments but also to predict performance in new environments and quantify the associated uncertainty.
+
+**Presentations**
+
+- **Martin Boer:** Multidimensional mixed model splines for spatial field trials and high-throughput phenotyping data, demonstrated with the R package *LMMsolver*.
+- **Junita Solin:** Spline-based functional models and functional principal component analysis for longitudinal photosynthesis measurements in *Arabidopsis* and their relationship with biomass accumulation.
+- **Jip Ramakers:** Reduced-rank random regression models for G×E analysis and prediction using multi-environment wheat trial data.
+
+**10:30 - 11:00 | ☕ Morning Tea**
+
+### 11:00 - 13:00 | Kernels and AI for modelling genotype-by-environment interactions
+
+Estimating and predicting the performance of varieties across diverse environments is one of the central challenges in modern plant breeding. As breeding programs increasingly rely on sparse and large-scale multi-environment trials, there is a growing need for modelling frameworks that can efficiently capture complex genotype-by-environment (G×E) interactions while retaining predictive accuracy. Recent developments in kernel methods, high-performance computing, and artificial intelligence are opening new opportunities to address these challenges.
+
+Kernel-based mixed models provide a flexible framework for modelling genetic, environmental, and management-related sources of variation, including higher-order interaction effects such as G×E×M. By representing relationships between genotypes and environments through kernels, these models can accommodate complex patterns of covariance while remaining compatible with standard mixed model software and REML-based parameter estimation. At the same time, advances in computing technology are making it possible to fit increasingly large and complex mixed models through GPU-accelerated algorithms and datacenter-scale hardware.
+
+Artificial intelligence and deep-learning approaches offer complementary opportunities for predicting crop performance from high-dimensional genetic and environmental information. By combining neural networks with mixed model concepts, hybrid approaches seek to exploit the strengths of both methodologies: the predictive flexibility of machine learning and the interpretability and statistical structure of mixed models.
+
+**Presentations**
+
+- **Killian Melsen:** A kernel-based linear mixed model framework for modelling G×E and G×E×M interactions, and recent GPU/CPU implementations of REML estimation for large-scale datasets.
+- **Aike Potze:** MixINN, a framework combining mixed models and neural networks to predict crop performance from genetic and environmental information, with practical demonstrations using PyTorch-based interactive notebooks.
+
+**13:00 - 14:00 | 🥪 Lunch**
+
+### 14:00 - 15:30 | ODE-based crop modelling
+
+Crop traits like yield and resilience are complex breeding targets. The prediction of these traits likely improves when accounting for time-dynamic G×E interactions over the growing season. Physics-Informed Neural Networks (PINNs) are hybrid models that combine time-dynamic neural networks like LSTMs or GRUs with ordinary differential equations (ODEs). ODEs explicitly link the development rate of crop traits to the current state of the crop and its interactions with its environment, allowing for an evaluation of those traits at any time point. Function rules codify biological assumptions about limitations following from different variables, like light, temperature, soil water, or nitrogen. Model parameters are taken as genotype dependent. The ODEs are implemented in software for time-integration and fitting to time series data of monitored crop traits to optimize parameters. The ODEs are then merged with PINNs implemented in PyTorch or Torch for R, where they function as (biologically informed) penalty term for model training. Ideally, these trained PINNs improve predictions of how different genotypes will perform in new environments. Challenges include dealing with equifinality, parameter and model identification, and over-fitting.
+
+**Presentations**
+
+- **Neil Budko:** Fundamentals of ODE-based models.
+- **George van Voorn:** ODE-based crop models and their integration with PINNs.
+- **Corné Verburg:** Identification of ODE functions from observational data using the SINDY algorithm.
+
+**15:30 - 16:00 | ☕ Afternoon Tea**

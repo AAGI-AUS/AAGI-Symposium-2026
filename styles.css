@@ -129,6 +129,32 @@
   gap: 1rem;
 }
 
+.quarto-title h1:has(.uq-title-logo),
+.quarto-title h1:has(.cu-title-logo),
+.quarto-title h1:has(.au-title-logo) {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.uq-title-text,
+.cu-title-text,
+.au-title-text {
+  display: block;
+}
+
+.uq-title-logo,
+.cu-title-logo,
+.au-title-logo {
+  display: block;
+  flex: 0 1 30%;
+  width: 30%;
+  max-width: 280px;
+  height: auto;
+  margin-left: auto;
+}
+
 /* Make the navbar logo slightly larger while keeping mobile spacing tidy. */
 .navbar-brand img {
   max-height: 56px;
@@ -202,8 +228,53 @@
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
 
-.nav-card .card-img {
+.nav-card {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Logos sit at the bottom of the card, aligned across cards in a row. */
+.nav-card > .card-img,
+.nav-card > .card-logos {
+  margin-top: auto;
+  margin-bottom: 0;
+}
+
+.nav-card > p:not(:last-child) {
   margin-bottom: 1rem;
+}
+
+.card-logo-row,
+.card-logo-row > p {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.card-logo-row {
+  margin-bottom: 0.75rem;
+}
+
+.card-logo-row:last-child {
+  margin-bottom: 0;
+}
+
+.card-logo-row > p {
+  margin: 0;
+}
+
+.card-logo-row .card-img {
+  flex: 1 1 0;
+  min-width: 0;
+  max-width: 50%;
+  max-height: 50px;
+  width: auto;
+  object-fit: contain;
+  margin-bottom: 0;
+}
+
+.card-logo-row-3 .card-img {
+  max-width: 33.333%;
 }
 
 .nav-card h3 {
@@ -350,6 +421,21 @@
 @media (max-width: 600px) {
   .quarto-title h1:has(.workshop-hero-image) {
     align-items: flex-start;
+  }
+
+  .quarto-title h1:has(.uq-title-logo),
+  .quarto-title h1:has(.cu-title-logo),
+  .quarto-title h1:has(.au-title-logo) {
+    align-items: flex-start;
+  }
+
+  .quarto-title h1 .uq-title-logo,
+  .quarto-title h1 .cu-title-logo,
+  .quarto-title h1 .au-title-logo {
+    flex: 0 0 100px;
+    width: 100%;
+    max-width: 100px;
+    margin-left: 0.5rem;
   }
 
   .quarto-title h1 .workshop-hero-image {

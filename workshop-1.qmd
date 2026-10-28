@@ -7,10 +7,10 @@ title: '<span class="workshop-title-text">Workshop 1<br>AI in AAGI: From Tools t
 **Venue:** QT Perth, Murray Room
 
 ## Summary
+
 Artificial intelligence (AI) is rapidly transforming scientific research, creating new opportunities for knowledge discovery, data analysis, and computational tool development. This workshop will showcase major trends shaping the current AI landscape, exploring how emerging technologies are changing research practices and how they can be adopted effectively and responsibly. Through a series of presentations, we will examine AI-assisted literature exploration and research gap identification, AI-driven tool development, and the growing role of locally deployed AI models in supporting research workflows. Attention will be given to responsible AI practices, including the generation and use of synthetic data, management of sensitive research datasets, data privacy, and research integrity. Bringing together practical applications, emerging technologies and responsible data management strategies, the workshop aims to provide researchers with a broader understanding of AI's evolving role in science, encourage knowledge sharing across AAGI, and identify opportunities for collaboration and innovation in the Australian grains research community.
 
-
-## Speakers and Topics
+## Talks
 
 | Speaker | Topic |
 |:---|:---|

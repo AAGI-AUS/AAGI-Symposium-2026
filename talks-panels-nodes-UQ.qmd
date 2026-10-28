@@ -1,0 +1,26 @@
+---
+title: '<span class="uq-title-text">Strategic Partner:<br>The University of Queensland (UQ)</span><img src="images/UQ_logo-Purple-rgb.png" class="uq-title-logo" alt="The University of Queensland logo">'
+---
+
+**Date:** Wednesday 11 November 2026  
+**Time:** 09:00 - 10:30  
+**Venue:** QT Perth, Murray Room
+
+## Summary
+
+Hear from the University of Queensland node on AAGI tools and support, drone and satellite data for oats, wheat leaf area index (LAE) estimation, microphenotyping, and the use of large language models in agricultural grey literature.
+
+## Talks
+
+- **9:00 AM - 9:15 AM | Scott Chapman**  
+  *AAGI-UQ: Welcome and Introduction*
+- **9:15 AM - 9:30 AM | Sebastian Lopez Marzano**  
+  *AAGI Apps: The Secure Home for AAGI Tools*
+- **9:30 AM - 9:45 AM | Javier Fernandez**  
+  *An AAGI Support Case in Oats: Completing Drone Canopy Curves with Satellite Data*
+- **9:45 AM - 10:00 AM | Qiaomin Chen**  
+  *Knowledge-Guided Cluster-Aware LAI Estimation and Its Application in Wheat Breeding*
+- **10:00 AM - 10:15 AM | Shijie Wang**  
+  *Automated Microphenotyping Analysis*
+- **10:15 AM - 10:30 AM | Kaveesha Kohilamulla Arachchige**  
+  *The Illusion of Complexity: Teaching LLMs to Understand Agricultural Grey Literature*

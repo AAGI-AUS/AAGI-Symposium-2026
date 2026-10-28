@@ -25,8 +25,12 @@ website:
         menu:
           - text: "All Talks & Panels"
             href: talks-panels.qmd
-          - text: "AAGI Nodes"
-            href: talks-panels-nodes.qmd
+          - text: "CU"
+            href: talks-panels-nodes-CU.qmd
+          - text: "UQ"
+            href: talks-panels-nodes-UQ.qmd
+          - text: "AU"
+            href: talks-panels-nodes-AU.qmd
           - text: "Industry, Government and Growers (IGG)"
             href: talks-panels-igg.qmd
           - text: "AAGI Partners"

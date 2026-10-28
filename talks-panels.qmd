@@ -6,26 +6,46 @@ Explore the symposium talks and panel sessions below.
 
 <div class="card-grid card-grid-two">
 
-<a class="nav-card" href="talks-panels-nodes.qmd">
-<!-- <img src="images/AAGI_logo_and_nodes.png" class="card-img" alt="AAGI"> -->
-<!-- <img src="images/AAGI_nodes.png" class="card-img" alt="AAGI nodes"> -->
-<img src="images/AU logo primary cmyk.png" class="card-img" alt="AU logo">
-<img src="images/CU_MasterLogo_CMYK_2416x400.JPG" class="card-img" alt="CU logo">
-<img src="images/UQ_logo-Purple-rgb.png" class="card-img" alt="UQ logo">
-<h3>AAGI Nodes</h3>
-<p>Hear research talks from Curtin University, University of Queensland and Adelaide University AAGI nodes.</p>
+<a class="nav-card" href="talks-panels-nodes-CU.qmd">
+<h3>Curtin University</h3>
+<p>Hear research talks from the Curtin University AAGI node.</p>
+<img src="images/CU_MasterLogo_CMYK_2416x400.JPG" class="card-img" alt="Curtin University logo">
+</a>
+<a class="nav-card" href="talks-panels-nodes-UQ.qmd">
+<h3>The University of Queensland</h3>
+<p>Hear research talks from the University of Queensland AAGI node.</p>
+<img src="images/UQ_logo-Purple-rgb.png" class="card-img" alt="The University of Queensland logo">
+</a>
+<a class="nav-card" href="talks-panels-nodes-AU.qmd">
+<h3>Adelaide University</h3>
+<p>Hear research talks from the Adelaide University AAGI node.</p>
+<img src="images/AU logo primary cmyk.png" class="card-img" alt="Adelaide University logo">
 </a>
 <a class="nav-card" href="talks-panels-igg.qmd">
 <!-- <img src="images/igg.jpg" class="card-img" alt="IGG"> -->
 <h3>Industry, Government and Growers (IGG)</h3>
 <p>Explore perspectives from industry, government and growers, followed by a panel Q&amp;A.</p>
+<div class="card-logos">
+<div class="card-logo-row card-logo-row-3">
+<img src="images/GRDC_logo_Primary_Default_transparent.png" class="card-img" alt="GRDC logo">
+<img src="images/agt_logo.png" class="card-img" alt="AGT logo">
+<img src="images/gga_logo_1.png" class="card-img" alt="GGA logo">
+</div>
+</div>
 </a>
 <a class="nav-card" href="talks-panels-partners.qmd">
-<!-- <img src="images/WUR_logo.png" class="card-img" alt="WUR logo">
-<img src="images/UWA_logo_blue_transparent.png" class="card-img" alt="UWA logo">
-<img src="images/ANU_logo_white_text.png" class="card-img" alt="ANU logo"> -->
 <h3>AAGI Partners</h3>
 <p>Learn about the work and perspectives of AAGI's partner organisations.</p>
+<div class="card-logos">
+<div class="card-logo-row">
+<img src="images/WUR_logo.png" class="card-img" alt="WUR logo">
+<img src="images/UWA_logo_blue_transparent.png" class="card-img" alt="UWA logo">
+</div>
+<div class="card-logo-row">
+<img src="images/ANU_logo_white_text.png" class="card-img" alt="ANU logo">
+<img src="images/qld_gov_logo_1.png" class="card-img" alt="Queensland Government logo">
+</div>
+</div>
 </a>
 <a class="nav-card" href="talks-panels-hdr-networking.qmd">
 <!-- <img src="images/hdr.jpg" class="card-img" alt="HDR"> -->
@@ -33,8 +53,7 @@ Explore the symposium talks and panel sessions below.
 <p>Connect with fellow higher degree by research students during this networking and Q&amp;A session.</p>
 </a>
 <a class="nav-card" href="talks-panels-sp-leads.qmd">
-<img src="images/workshops_1.jpg" class="card-img" alt="SP Leads">
-<h3>SP Leads and Awards</h3>
-<h3>AAGI 2.0: Preparing for the Future</h3>
-<p>This workshop will explore AAGI 2.0 and preparations for the future.</p>
+<!-- <img src="images/workshops_1.jpg" class="card-img" alt="SP Leads"> -->
+<h3>Strategic Partner Leads & GRDC Q&A</h3>
+<p>Put your questions to AAGI's strategic partner leads and a GRDC representative in an Q&A, followed by an awards ceremony.</p>
 </a></div>

@@ -42,25 +42,53 @@
     "text": "&lt;p&gt;No posters have been submitted for this theme yet.&lt;/p&gt;"
   },
   {
-    "objectID": "posters-theme-1.html",
-    "href": "posters-theme-1.html",
-    "title": "Posters Theme 1",
+    "objectID": "talks-panels-nodes-UQ.html",
+    "href": "talks-panels-nodes-UQ.html",
+    "title": "Strategic Partner:The University of Queensland (UQ)",
     "section": "",
-    "text": "Sandra Tanz"
+    "text": "Date: Wednesday 11 November 2026\nTime: 09:00 - 10:30\nVenue: QT Perth, Murray Room"
   },
   {
-    "objectID": "posters-theme-1.html#posters",
-    "href": "posters-theme-1.html#posters",
-    "title": "Posters Theme 1",
+    "objectID": "talks-panels-nodes-UQ.html#summary",
+    "href": "talks-panels-nodes-UQ.html#summary",
+    "title": "Strategic Partner:The University of Queensland (UQ)",
+    "section": "Summary",
+    "text": "Summary\nHear from the University of Queensland node on AAGI tools and support, drone and satellite data for oats, wheat leaf area index (LAE) estimation, microphenotyping, and the use of large language models in agricultural grey literature."
+  },
+  {
+    "objectID": "talks-panels-nodes-UQ.html#talks",
+    "href": "talks-panels-nodes-UQ.html#talks",
+    "title": "Strategic Partner:The University of Queensland (UQ)",
+    "section": "Talks",
+    "text": "Talks\n\n9:00 AM - 9:15 AM | Scott Chapman\nAAGI-UQ: Welcome and Introduction\n9:15 AM - 9:30 AM | Sebastian Lopez Marzano\nAAGI Apps: The Secure Home for AAGI Tools\n9:30 AM - 9:45 AM | Javier Fernandez\nAn AAGI Support Case in Oats: Completing Drone Canopy Curves with Satellite Data\n9:45 AM - 10:00 AM | Qiaomin Chen\nKnowledge-Guided Cluster-Aware LAI Estimation and Its Application in Wheat Breeding\n10:00 AM - 10:15 AM | Shijie Wang\nAutomated Microphenotyping Analysis\n10:15 AM - 10:30 AM | Kaveesha Kohilamulla Arachchige\nThe Illusion of Complexity: Teaching LLMs to Understand Agricultural Grey Literature"
+  },
+  {
+    "objectID": "talks-panels-nodes-AU.html",
+    "href": "talks-panels-nodes-AU.html",
+    "title": "Strategic Partner:Adelaide University",
     "section": "",
-    "text": "Sandra Tanz"
+    "text": "Date: Thursday 12 November 2026\nTime: 09:00 - 10:30\nVenue: QT Perth, Murray Room"
+  },
+  {
+    "objectID": "talks-panels-nodes-AU.html#summary",
+    "href": "talks-panels-nodes-AU.html#summary",
+    "title": "Strategic Partner:Adelaide University",
+    "section": "Summary",
+    "text": "Summary\nHear about research, activities and emerging opportunities from the Adelaide University AAGI node."
+  },
+  {
+    "objectID": "talks-panels-nodes-AU.html#talks",
+    "href": "talks-panels-nodes-AU.html#talks",
+    "title": "Strategic Partner:Adelaide University",
+    "section": "Talks",
+    "text": "Talks\nTalk titles and speaker details to be confirmed."
   },
   {
     "objectID": "talks-panels.html",
     "href": "talks-panels.html",
     "title": "Talks & Panels",
     "section": "",
-    "text": "Explore the symposium talks and panel sessions below.\n\n     \n\nAAGI Nodes\n\n\nHear research talks from Curtin University, University of Queensland and Adelaide University AAGI nodes.\n\n  \n\nIndustry, Government and Growers (IGG)\n\n\nExplore perspectives from industry, government and growers, followed by a panel Q&A.\n\n  \n\nAAGI Partners\n\n\nLearn about the work and perspectives of AAGI’s partner organisations.\n\n  \n\nHDR Networking\n\n\nConnect with fellow higher degree by research students during this networking and Q&A session.\n\n  \n\nSP Leads and Awards\n\n\nAAGI 2.0: Preparing for the Future\n\n\nThis workshop will explore AAGI 2.0 and preparations for the future."
+    "text": "Explore the symposium talks and panel sessions below.\n\n\n\nCurtin University\n\n\nHear research talks from the Curtin University AAGI node.\n\n  \n\nThe University of Queensland\n\n\nHear research talks from the University of Queensland AAGI node.\n\n  \n\nAdelaide University\n\n\nHear research talks from the Adelaide University AAGI node.\n\n   \n\nIndustry, Government and Growers (IGG)\n\n\nExplore perspectives from industry, government and growers, followed by a panel Q&A.\n\n\n\n  \n\n\n \n\nAAGI Partners\n\n\nLearn about the work and perspectives of AAGI’s partner organisations.\n\n\n\n \n\n\n \n\n\n  \n\nHDR Networking\n\n\nConnect with fellow higher degree by research students during this networking and Q&A session.\n\n  \n\nStrategic Partner Leads & GRDC Q&A\n\n\nPut your questions to AAGI’s strategic partner leads and a GRDC representative in an Q&A, followed by an awards ceremony."
   },
   {
     "objectID": "posters.html",
@@ -95,105 +123,77 @@
     "href": "program.html#daily-schedule",
     "title": "Program",
     "section": "Daily Schedule",
-    "text": "Daily Schedule\n\nDay 0: Monday 9/11Day 1: Tuesday 10/11Day 2: Wednesday 11/11Day 3: Thursday 12/11\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nWorkshop (UQ/WUR)  Splines / Random Regression\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop (UQ/WUR)  GxE\nMurray Room\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nWorkshop (UQ/WUR)  ODEs\nMurray Room\n\n\n\nBioinformatics Satellite (CU/UWA)  Emerging Tools and Data-Driven Approaches in Crop Research\nRoom 212, Curtin Business School, 78 Murray Street\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 18:00\nBioinformatics Satellite (CU/UWA)  Emerging Tools and Data-Driven Approaches in Crop Research\nRoom 212, Curtin Business School, 78 Murray Street\n\n\n18:00 - 18:30\nFree time\n\n\n\n18:30 - 20:30\n🥂 Welcome Mixer  Networking Social Evening\nQT Rooftop Bar\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n08:30 - 09:00\nOpening by GRDC\nMurray Room\n\n\n09:00 - 10:30\nTalks: CU\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop 1  AI in AAGI: From Tools to Workflows\nMurray Room\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nIndustry, Government and Growers (IGG)\nMurray Room\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 16:30\nFree time\n\n\n\n16:30 - 18:30\n📊 Poster Showcase\nMurray Room\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nTalks: UQ\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop 2  Efficient Trial Design with speed*\nMurray Room\n\n\n\nWorkshop 3  Bioinformatics across AAGI: Research, Tools and Challenges\nRoom Gallery, Curtin 137 St Georges Terrace\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nTalks: AAGI partners\nMurray Room\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 17:30\n👭 HDR Networking\nMurray Room\n\n\n17:30 - 18:30\nFree time\n\n\n\n18:30 - 20:30\n🍽️ Symposium Dinner\nThe Lucky Shag Waterfront Bar, Old Perth Port, Barrack Square\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nTalks: AU\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nStrategic Partner Leads & GRDC Q&A, including Awards 🏆  Question and Awards time\nMurray Room\n\n\n13:00 - 14:00\n🥡 Take-away Lunch & Departure\nMurray Room"
+    "text": "Daily Schedule\n\nDay 0: Monday 9/11Day 1: Tuesday 10/11Day 2: Wednesday 11/11Day 3: Thursday 12/11\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nWorkshop (UQ/WUR)  Splines / Random Regression\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop (UQ/WUR)  GxE\nMurray Room\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nWorkshop (UQ/WUR)  ODEs\nMurray Room\n\n\n\nBioinformatics Satellite (CU/UWA)  Emerging Tools and Data-Driven Approaches in Crop Research\nRoom 212, Curtin Business School, 78 Murray Street\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 18:00\nBioinformatics Satellite (CU/UWA)  Emerging Tools and Data-Driven Approaches in Crop Research\nRoom 212, Curtin Business School, 78 Murray Street\n\n\n18:00 - 18:30\nFree time\n\n\n\n18:30 - 20:30\n🥂 Welcome Mixer  Networking Social Evening\nQT Rooftop Bar\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n08:30 - 09:00\nOpening by GRDC\nMurray Room\n\n\n09:00 - 10:30\nTalks: CU\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nSantini Bar\n\n\n11:00 - 13:00\nWorkshop 1  AI in AAGI: From Tools to Workflows\nMurray Room\n\n\n13:00 - 14:00\n🥪 Lunch\nSantini Bar\n\n\n14:00 - 15:30\nIndustry, Government and Growers (IGG)\nMurray Room\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nSantini Bar\n\n\n16:00 - 16:30\nFree time\n\n\n\n16:30 - 18:30\n📊 Poster Showcase\nMurray Room\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nTalks: UQ\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop 2  Efficient Trial Design with speed*\nMurray Room\n\n\n\nWorkshop 3  Bioinformatics across AAGI: Research, Tools and Challenges\nRoom Gallery, Curtin 137 St Georges Terrace\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nTalks: AAGI partners\nMurray Room\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 17:30\n👭 HDR Networking\nMurray Room\n\n\n17:30 - 18:30\nFree time\n\n\n\n18:30 - 20:30\n🍽️ Symposium Dinner\nThe Lucky Shag Waterfront Bar, Old Perth Port, Barrack Square\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nTalks: AU\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nStrategic Partner Leads & GRDC Q&A, including Awards 🏆  Question and Awards time\nMurray Room\n\n\n13:00 - 14:00\n🥡 Take-away Lunch & Departure\nMurray Room"
   },
   {
-    "objectID": "talks-panels-nodes.html",
-    "href": "talks-panels-nodes.html",
-    "title": "AAGI Nodes",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n2026 AAGI Symposium\n",
     "section": "",
-    "text": "Dates: Tuesday 10 November, Wednesday 11 November and Thursday 12 November 2026\nTime: 09:00 - 10:30\nVenue: QT Perth, Murray Room"
+    "text": "Connecting people, data and innovation for Australia’s grains industry\n\n\n10–12 November 2026 • Perth, Western Australia"
   },
   {
-    "objectID": "talks-panels-nodes.html#summary",
-    "href": "talks-panels-nodes.html#summary",
-    "title": "AAGI Nodes",
+    "objectID": "index.html#explore-the-symposium",
+    "href": "index.html#explore-the-symposium",
+    "title": "\n2026 AAGI Symposium\n",
+    "section": "Explore the Symposium",
+    "text": "Explore the Symposium\nThis website is your central hub before, during and after the symposium.\n\n\n \n\nProgram\n\n\nView the symposium schedule, including research talks, workshops, poster sessions, networking events and social activities.\n\n  \n\nTalks & Panels\n\n\nExplore research talks and panel discussions featuring perspectives from across the Australian grains sector.\n\n  \n\nWorkshops\n\n\nAccess workshop descriptions, presentation slides, code, datasets and supporting resources.\n\n  \n\nPoster Showcase\n\n\nExplore digital versions of posters presented during the symposium and connect with presenters.\n\n  \n\nParticipants\n\n\nMeet the researchers, students and collaborators who make up the AAGI community.\n\n  \n\nResources\n\n\nAccess additional symposium materials, links and downloads shared throughout the event."
+  },
+  {
+    "objectID": "index.html#symposium-goals",
+    "href": "index.html#symposium-goals",
+    "title": "\n2026 AAGI Symposium\n",
+    "section": "Symposium Goals",
+    "text": "Symposium Goals\nThe AAGI Symposium aims to:\n\nshowcase innovative research from AAGI groups across Australia;\nshare practical tools, methods and workflows for grains analytics;\nfoster collaboration between researchers, students and industry partners;\nsupport professional development through workshops and networking; and\nstrengthen the national AAGI research community.\n\nWhether you are attending in person or revisiting the symposium afterwards, we hope this website provides a useful resource and helps continue the conversations beyond the event.\nWe look forward to welcoming you to Perth in November 2026."
+  },
+  {
+    "objectID": "talks-panels-partners.html",
+    "href": "talks-panels-partners.html",
+    "title": "AAGI Partners",
+    "section": "",
+    "text": "Date: Wednesday 11 November 2026\nTime: 14:00 - 15:30\nVenue: QT Perth, Murray Room\nChair: Julian Taylor"
+  },
+  {
+    "objectID": "talks-panels-partners.html#summary",
+    "href": "talks-panels-partners.html#summary",
+    "title": "AAGI Partners",
     "section": "Summary",
-    "text": "Summary\nThe AAGI Nodes sessions showcase research, activities and emerging opportunities from the Curtin University, University of Queensland and Adelaide University nodes. Join colleagues from across the network to hear the latest work and connect with the teams advancing Australian grains innovation."
+    "text": "Summary\nThe AAGI Partners session highlights the contributions, expertise and perspectives of AAGI’s partner organisations, showcasing the diverse research and activities supporting innovation across the Australian grains industry. Speakers will share insights into their current work, strategic priorities and emerging opportunities, highlighting how collaboration across the AAGI network can strengthen research, data analytics and knowledge exchange. The session will also provide an opportunity to explore synergies between partner organisations, foster connections and identify opportunities for future collaboration to address shared challenges and maximise the impact of AAGI."
   },
   {
-    "objectID": "talks-panels-nodes.html#speakers",
-    "href": "talks-panels-nodes.html#speakers",
-    "title": "AAGI Nodes",
+    "objectID": "talks-panels-partners.html#speakers",
+    "href": "talks-panels-partners.html#speakers",
+    "title": "AAGI Partners",
     "section": "Speakers",
-    "text": "Speakers\n\n\n\nPhoto\n\n\n\nSpeaker to be confirmed\n\n\nAdd the speaker’s role, organisation and biography here."
+    "text": "Speakers\n\n\n\n\n\nFred van Eeuwijk\n\n\nWageningen University & Research (WUR), Netherlands\n\n\n\n\n\n\n\n\n\n\nDave Edwards\n\n\nUniversity of Western Australia (UWA), Australia\n\n\n\n\n\n\n\n\n\n\nEmi Tanaka\n\n\nAustralian National University (ANU), Australia\n\n\n\n\n\n\n\n\n\n\nValeria Paccapelo\n\n\nQueensland Department of Primary Industries (QDPI), Australia"
   },
   {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "Workshops",
+    "objectID": "workshop-3.html",
+    "href": "workshop-3.html",
+    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
     "section": "",
-    "text": "Explore the four symposium workshops below.\n\n\n \n\nWorkshop 1\n\n\nAI in AAGI: From Tools to Workflows\n\n\nThis workshop will explore the application of AI in AAGI, focusing on the transition from individual tools to integrated workflows.\n\n  \n\nWorkshop 2\n\n\nEfficient Trial Design with speed\n\n\nThis workshop will explore efficient trial design with speed.\n\n  \n\nWorkshop 3\n\n\nBioinformatics across AAGI: Research, Tools and Challenges\n\n\nThis workshop will explore bioinformatics across AAGI, including research, tools and challenges.\n\n  \n\nBioinformatics Satellite Meeting\n\n\nApplied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research\n\n\nThis workshop will explore emerging tools and data-driven approaches in crop research."
+    "text": "Date: Wednesday, 11 November 2026\nTime: 11:00 - 13:00\nVenue: Curtin, 137 St Georges Terrace, Room: Gallery\n📍 Please note this is an off-site session\nThe venue is approximately 800 m, or a 10-minute walk, from the QT Hotel Perth."
   },
   {
-    "objectID": "workshop-1.html",
-    "href": "workshop-1.html",
-    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
-    "section": "",
-    "text": "Date: Tuesday, 10 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
-  },
-  {
-    "objectID": "workshop-1.html#summary",
-    "href": "workshop-1.html#summary",
-    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
+    "objectID": "workshop-3.html#summary",
+    "href": "workshop-3.html#summary",
+    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
     "section": "Summary",
-    "text": "Summary\nArtificial intelligence (AI) is rapidly transforming scientific research, creating new opportunities for knowledge discovery, data analysis, and computational tool development. This workshop will showcase major trends shaping the current AI landscape, exploring how emerging technologies are changing research practices and how they can be adopted effectively and responsibly. Through a series of presentations, we will examine AI-assisted literature exploration and research gap identification, AI-driven tool development, and the growing role of locally deployed AI models in supporting research workflows. Attention will be given to responsible AI practices, including the generation and use of synthetic data, management of sensitive research datasets, data privacy, and research integrity. Bringing together practical applications, emerging technologies and responsible data management strategies, the workshop aims to provide researchers with a broader understanding of AI’s evolving role in science, encourage knowledge sharing across AAGI, and identify opportunities for collaboration and innovation in the Australian grains research community."
+    "text": "Summary\nThis workshop will showcase how modern computational approaches are shaping genomic and omics research. It will begin with a focus on Trusted Research Environments (TREs) and federated analytics and learning in omics, highlighting how secure and controlled research environments can support the analysis and sharing of sensitive or distributed data while enabling collaboration across institutions. The workshop will also highlight reproducible workflows, computational approaches and tools being developed and applied across different areas of bioinformatics, providing an opportunity to share expertise, build connections and explore future opportunities for collaboration across AAGI."
   },
   {
-    "objectID": "workshop-1.html#speakers-and-topics",
-    "href": "workshop-1.html#speakers-and-topics",
-    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
-    "section": "Speakers and Topics",
-    "text": "Speakers and Topics\n\n\n\n\n\n\n\nSpeaker\nTopic\n\n\n\n\nKristina Gagalova\nWelcome and event intro\n\n\nJulian Taylor\nAI guidelines at AAGI\n\n\nKristina Gagalova\nCurrent AI landscape: general intro\n\n\nJavier Fernandez\nLocal AI Overview and relevance to sensitive teaching and research data\n\n\nPeiye Li\nLiterature review and research gap search with AI\n\n\nSebastian Lopez Marcano\nAI driven tool development and responsible AI\n\n\nMax Moldovan\nSynthetic data usage for responsible AI: generation, use, and best practices\n\n\nXin Yu\nReal data for usage for responsible AI: local AI and Sensitive Data Management\n\n\n\nThe talks will be followed by a 15-minute Q&A session to discuss the topics raised."
+    "objectID": "workshop-3.html#agenda",
+    "href": "workshop-3.html#agenda",
+    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
+    "section": "Agenda",
+    "text": "Agenda\n\n\n\n\nTIME\n\n\nSESSION\n\n\n\n\n\n\n11:00 - 11:10\n\n\nOpening and workshop overviewDr Irina Kuznetsova\n\n\n\n\n11:10 - 11:40\n\n\nInvited presentationTrusted Research Environments (TREs) and federated analytics/learning in omicsProf Nicola Armstrong\n\n\n\n\n\n\n11:40 - 12:40   Research case studies: Reproducible workflows in practiceBioinformatics workflow and automation across AAGI\n\n\n\n\n11:40 - 11:50\n\n\nSingle-cell analysis and workflow package developmentDr Irina Kuznetsova\n\n\n\n\n11:50 - 12:00\n\n\nComputational genotype imputation for genomic selection/breedingDr Huan Zhao\n\n\n\n\n12:00 - 12:10\n\n\nHaplotype phasing: computational approaches and applicationsDr Mario Fruzangohar\n\n\n\n\n12:10 - 12:20\n\n\nComputational genetic analysis with wgaimDr Beata Sznajder\n\n\n\n\n12:20 - 12:30\n\n\nFrom eQTL to network constructionDr Dinesha Jayawardana\n\n\n\n\n12:30 - 12:40\n\n\nAutomation, reproducibility, portability: OpenWDL and SprocketMr George Malone\n\n\n\n\n12:40 - 13:00\n\n\nCommunity discussion and closing remarksAdvancing bioinformatics across AAGIDr Irina Kuznetsova + all contributors\n\n\n\n\nTiming note: The workshop is scheduled to start at 11:00 am, with a 20-minute collaborative discussion concluding the main program to explore forward-looking directions for bioinformatics across AAGI."
   },
   {
-    "objectID": "workshop-1.html#resources",
-    "href": "workshop-1.html#resources",
-    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
+    "objectID": "workshop-3.html#resources",
+    "href": "workshop-3.html#resources",
+    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
     "section": "Resources",
     "text": "Resources\n\nSlides: Coming soon"
-  },
-  {
-    "objectID": "workshop-2.html",
-    "href": "workshop-2.html",
-    "title": "Workshop 2Efficient Trial Design with speed",
-    "section": "",
-    "text": "Date: Wednesday, 11 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
-  },
-  {
-    "objectID": "workshop-2.html#summary",
-    "href": "workshop-2.html#summary",
-    "title": "Workshop 2Efficient Trial Design with speed",
-    "section": "Summary",
-    "text": "Summary\nspeed is an R package from AAGI-AU that generates spatially optimised, model-free experimental designs. In this hands-on workshop, we’ll explain what model-free means in practice, give a conceptual overview of how speed works, then walk through:\n\nStandard designs such as RCBD and split-plot\nRow-column, p-rep, and multi-environment trial (MET) designs\nIncorporating a relationship matrix or covariates\nWriting your own objective functions\n\nParticipants should be comfortable in R.\nPlease bring a laptop with speed installed:\nif (!require(\"pak\", quietly = TRUE)) install.packages(\"pak\")\npak::pak(\"biometryhub/speed\")"
-  },
-  {
-    "objectID": "workshop-2.html#resources",
-    "href": "workshop-2.html#resources",
-    "title": "Workshop 2Efficient Trial Design with speed",
-    "section": "Resources",
-    "text": "Resources\n\nSlides: Coming soon"
-  },
-  {
-    "objectID": "talks-panels-hdr-networking.html",
-    "href": "talks-panels-hdr-networking.html",
-    "title": "HDR Networking",
-    "section": "",
-    "text": "Date: Wednesday 11 November 2026\nTime: 16:00 - 17:30\nVenue: QT Perth, Murray Room\nChair: Mark Gibberd"
-  },
-  {
-    "objectID": "talks-panels-hdr-networking.html#summary",
-    "href": "talks-panels-hdr-networking.html#summary",
-    "title": "HDR Networking",
-    "section": "Summary",
-    "text": "Summary\nThe Higher Degree by Research (HDR) session brings together HDR students and early career researchers from across AAGI for a panel and interactive Q&A. The session will provide an opportunity to connect with peers, experienced researchers and industry representatives, exchange experiences and gain insights into navigating research careers. Discussion will explore career development, industry engagement, mentoring and the transition from academic research to industry and other career pathways. The panel will also encourage participants to reflect on the skills, networks and opportunities that can support their professional growth, while fostering connections across the AAGI community and strengthening links between emerging researchers and the broader grains research sector."
-  },
-  {
-    "objectID": "talks-panels-hdr-networking.html#panel-members",
-    "href": "talks-panels-hdr-networking.html#panel-members",
-    "title": "HDR Networking",
-    "section": "Panel Members",
-    "text": "Panel Members\n\n\n\n\n\nScott Chapman\n\n\nThe University of Queensland (UQ), Australia\n\n\n\n\n\n\n\n\n\nFred van Eeuwijk\n\n\nWageningen University & Research (WUR), Netherlands\n\n\n\n\n\n\n\n\n\nPeter Bird\n\n\nGrains Research and Development Corporation (GRDC-West), Australia\n\n\n\n\n\n\n\n\n\nJulia Easton\n\n\nCurtin University (CU), Australia\n\n\n\n\n\n\nOthers to be confirmed."
   },
   {
     "objectID": "contact.html",
@@ -231,67 +231,102 @@
     "text": "University of Queensland\nRobert Armstrong r.armstrong1@uq.edu.au\nSophy Wang xiaoyi.wang@uq.edu.au\nSebastian Lopez Marcano s.lopezmarcano@uq.edu.au\nDinesha Jayawardana dinesha.jayawardana@uq.edu.au\nVanessa Lopez Corona a.lopezcorona@uq.edu.au\nKaiyu Guo kaiyu.guo@uq.edu.au\nBruno Rafael de Almeida Moreira b.moreira@uq.edu.au\nIf you are unsure who to contact, email the Curtin organising team and your message will be directed to the appropriate person."
   },
   {
-    "objectID": "workshop-3.html",
-    "href": "workshop-3.html",
-    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
+    "objectID": "talks-panels-nodes-CU.html",
+    "href": "talks-panels-nodes-CU.html",
+    "title": "Strategic Partner:Curtin University",
     "section": "",
-    "text": "Date: Wednesday, 11 November 2026\nTime: 11:00 - 13:00\nVenue: Curtin, 137 St Georges Terrace, Room: Gallery\n📍 Please note this is an off-site session\nThe venue is approximately 800 m, or a 10-minute walk, from the QT Hotel Perth."
+    "text": "Date: Tuesday 10 November 2026\nTime: 09:00 - 10:30\nVenue: QT Perth, Murray Room"
   },
   {
-    "objectID": "workshop-3.html#summary",
-    "href": "workshop-3.html#summary",
-    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
+    "objectID": "talks-panels-nodes-CU.html#summary",
+    "href": "talks-panels-nodes-CU.html#summary",
+    "title": "Strategic Partner:Curtin University",
     "section": "Summary",
-    "text": "Summary\nThis workshop will showcase how modern computational approaches are shaping genomic and omics research. It will begin with a focus on Trusted Research Environments (TREs) and federated analytics and learning in omics, highlighting how secure and controlled research environments can support the analysis and sharing of sensitive or distributed data while enabling collaboration across institutions. The workshop will also highlight reproducible workflows, computational approaches and tools being developed and applied across different areas of bioinformatics, providing an opportunity to share expertise, build connections and explore future opportunities for collaboration across AAGI.\nMore details will be published soon."
+    "text": "Summary\nHear about research, activities and emerging opportunities from the Curtin University AAGI node."
   },
   {
-    "objectID": "workshop-3.html#resources",
-    "href": "workshop-3.html#resources",
-    "title": "Workshop 3Bioinformatics across AAGI: Research, Tools and Challenges",
+    "objectID": "talks-panels-nodes-CU.html#talks",
+    "href": "talks-panels-nodes-CU.html#talks",
+    "title": "Strategic Partner:Curtin University",
+    "section": "Talks",
+    "text": "Talks\nTalk titles and speaker details to be confirmed."
+  },
+  {
+    "objectID": "talks-panels-hdr-networking.html",
+    "href": "talks-panels-hdr-networking.html",
+    "title": "HDR Networking",
+    "section": "",
+    "text": "Date: Wednesday 11 November 2026\nTime: 16:00 - 17:30\nVenue: QT Perth, Murray Room\nChair: Mark Gibberd"
+  },
+  {
+    "objectID": "talks-panels-hdr-networking.html#summary",
+    "href": "talks-panels-hdr-networking.html#summary",
+    "title": "HDR Networking",
+    "section": "Summary",
+    "text": "Summary\nThe Higher Degree by Research (HDR) session brings together HDR students and early career researchers from across AAGI for a panel and interactive Q&A. The session will provide an opportunity to connect with peers, experienced researchers and industry representatives, exchange experiences and gain insights into navigating research careers. Discussion will explore career development, industry engagement, mentoring and the transition from academic research to industry and other career pathways. The panel will also encourage participants to reflect on the skills, networks and opportunities that can support their professional growth, while fostering connections across the AAGI community and strengthening links between emerging researchers and the broader grains research sector."
+  },
+  {
+    "objectID": "talks-panels-hdr-networking.html#panel-members",
+    "href": "talks-panels-hdr-networking.html#panel-members",
+    "title": "HDR Networking",
+    "section": "Panel Members",
+    "text": "Panel Members\n\n\n\n\n\nScott Chapman\n\n\nThe University of Queensland (UQ), Australia\n\n\n\n\n\n\n\n\n\nFred van Eeuwijk\n\n\nWageningen University & Research (WUR), Netherlands\n\n\n\n\n\n\n\n\n\nPeter Bird\n\n\nGrains Research and Development Corporation (GRDC-West), Australia\n\n\n\n\n\n\n\n\n\nJulia Easton\n\n\nCurtin University (CU), Australia\n\n\n\n\n\n\nOthers to be confirmed."
+  },
+  {
+    "objectID": "workshop-2.html",
+    "href": "workshop-2.html",
+    "title": "Workshop 2Efficient Trial Design with speed",
+    "section": "",
+    "text": "Date: Wednesday, 11 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
+  },
+  {
+    "objectID": "workshop-2.html#summary",
+    "href": "workshop-2.html#summary",
+    "title": "Workshop 2Efficient Trial Design with speed",
+    "section": "Summary",
+    "text": "Summary\nspeed is an R package from AAGI-AU that generates spatially optimised, model-free experimental designs. In this hands-on workshop, we’ll explain what model-free means in practice, give a conceptual overview of how speed works, then walk through:\n\nStandard designs such as RCBD and split-plot\nRow-column, p-rep, and multi-environment trial (MET) designs\nIncorporating a relationship matrix or covariates\nWriting your own objective functions\n\nParticipants should be comfortable in R.\nPlease bring a laptop with speed installed:\nif (!require(\"pak\", quietly = TRUE)) install.packages(\"pak\")\npak::pak(\"biometryhub/speed\")"
+  },
+  {
+    "objectID": "workshop-2.html#resources",
+    "href": "workshop-2.html#resources",
+    "title": "Workshop 2Efficient Trial Design with speed",
     "section": "Resources",
     "text": "Resources\n\nSlides: Coming soon"
   },
   {
-    "objectID": "talks-panels-partners.html",
-    "href": "talks-panels-partners.html",
-    "title": "AAGI Partners",
+    "objectID": "workshop-1.html",
+    "href": "workshop-1.html",
+    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
     "section": "",
-    "text": "Date: Wednesday 11 November 2026\nTime: 14:00 - 15:30\nVenue: QT Perth, Murray Room\nChair: Julian Taylor"
+    "text": "Date: Tuesday, 10 November 2026\nTime: 11:00 - 13:00\nVenue: QT Perth, Murray Room"
   },
   {
-    "objectID": "talks-panels-partners.html#summary",
-    "href": "talks-panels-partners.html#summary",
-    "title": "AAGI Partners",
+    "objectID": "workshop-1.html#summary",
+    "href": "workshop-1.html#summary",
+    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
     "section": "Summary",
-    "text": "Summary\nThe AAGI Partners session highlights the contributions, expertise and perspectives of AAGI’s partner organisations, showcasing the diverse research and activities supporting innovation across the Australian grains industry. Speakers will share insights into their current work, strategic priorities and emerging opportunities, highlighting how collaboration across the AAGI network can strengthen research, data analytics and knowledge exchange. The session will also provide an opportunity to explore synergies between partner organisations, foster connections and identify opportunities for future collaboration to address shared challenges and maximise the impact of AAGI."
+    "text": "Summary\nArtificial intelligence (AI) is rapidly transforming scientific research, creating new opportunities for knowledge discovery, data analysis, and computational tool development. This workshop will showcase major trends shaping the current AI landscape, exploring how emerging technologies are changing research practices and how they can be adopted effectively and responsibly. Through a series of presentations, we will examine AI-assisted literature exploration and research gap identification, AI-driven tool development, and the growing role of locally deployed AI models in supporting research workflows. Attention will be given to responsible AI practices, including the generation and use of synthetic data, management of sensitive research datasets, data privacy, and research integrity. Bringing together practical applications, emerging technologies and responsible data management strategies, the workshop aims to provide researchers with a broader understanding of AI’s evolving role in science, encourage knowledge sharing across AAGI, and identify opportunities for collaboration and innovation in the Australian grains research community."
   },
   {
-    "objectID": "talks-panels-partners.html#speakers",
-    "href": "talks-panels-partners.html#speakers",
-    "title": "AAGI Partners",
-    "section": "Speakers",
-    "text": "Speakers\n\n\n\n\n\nFred van Eeuwijk\n\n\nWageningen University & Research (WUR), Netherlands\n\n\n\n\n\n\n\n\n\n\nDave Edwards\n\n\nUniversity of Western Australia (UWA), Australia\n\n\n\n\n\n\n\n\n\n\nEmi Tanaka\n\n\nAustralian National University (ANU), Australia\n\n\n\n\n\n\n\n\n\n\nValeria Paccapelo\n\n\nQueensland Department of Primary Industries (QDPI), Australia"
+    "objectID": "workshop-1.html#talks",
+    "href": "workshop-1.html#talks",
+    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
+    "section": "Talks",
+    "text": "Talks\n\n\n\n\n\n\n\nSpeaker\nTopic\n\n\n\n\nKristina Gagalova\nWelcome and event intro\n\n\nJulian Taylor\nAI guidelines at AAGI\n\n\nKristina Gagalova\nCurrent AI landscape: general intro\n\n\nJavier Fernandez\nLocal AI Overview and relevance to sensitive teaching and research data\n\n\nPeiye Li\nLiterature review and research gap search with AI\n\n\nSebastian Lopez Marcano\nAI driven tool development and responsible AI\n\n\nMax Moldovan\nSynthetic data usage for responsible AI: generation, use, and best practices\n\n\nXin Yu\nReal data for usage for responsible AI: local AI and Sensitive Data Management\n\n\n\nThe talks will be followed by a 15-minute Q&A session to discuss the topics raised."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\n2026 AAGI Symposium\n",
+    "objectID": "workshop-1.html#resources",
+    "href": "workshop-1.html#resources",
+    "title": "Workshop 1AI in AAGI: From Tools to Workflows",
+    "section": "Resources",
+    "text": "Resources\n\nSlides: Coming soon"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
     "section": "",
-    "text": "Connecting people, data and innovation for Australia’s grains industry\n\n\n10–12 November 2026 • Perth, Western Australia"
-  },
-  {
-    "objectID": "index.html#explore-the-symposium",
-    "href": "index.html#explore-the-symposium",
-    "title": "\n2026 AAGI Symposium\n",
-    "section": "Explore the Symposium",
-    "text": "Explore the Symposium\nThis website is your central hub before, during and after the symposium.\n\n\n \n\nProgram\n\n\nView the symposium schedule, including research talks, workshops, poster sessions, networking events and social activities.\n\n  \n\nTalks & Panels\n\n\nExplore research talks and panel discussions featuring perspectives from across the Australian grains sector.\n\n  \n\nWorkshops\n\n\nAccess workshop descriptions, presentation slides, code, datasets and supporting resources.\n\n  \n\nPoster Showcase\n\n\nExplore digital versions of posters presented during the symposium and connect with presenters.\n\n  \n\nParticipants\n\n\nMeet the researchers, students and collaborators who make up the AAGI community.\n\n  \n\nResources\n\n\nAccess additional symposium materials, links and downloads shared throughout the event."
-  },
-  {
-    "objectID": "index.html#symposium-goals",
-    "href": "index.html#symposium-goals",
-    "title": "\n2026 AAGI Symposium\n",
-    "section": "Symposium Goals",
-    "text": "Symposium Goals\nThe AAGI Symposium aims to:\n\nshowcase innovative research from AAGI groups across Australia;\nshare practical tools, methods and workflows for grains analytics;\nfoster collaboration between researchers, students and industry partners;\nsupport professional development through workshops and networking; and\nstrengthen the national AAGI research community.\n\nWhether you are attending in person or revisiting the symposium afterwards, we hope this website provides a useful resource and helps continue the conversations beyond the event.\nWe look forward to welcoming you to Perth in November 2026."
+    "text": "Explore the four symposium workshops below.\n\n\n \n\nWorkshop 1\n\n\nAI in AAGI: From Tools to Workflows\n\n\nThis workshop will explore the application of AI in AAGI, focusing on the transition from individual tools to integrated workflows.\n\n  \n\nWorkshop 2\n\n\nEfficient Trial Design with speed\n\n\nThis workshop will explore efficient trial design with speed.\n\n  \n\nWorkshop 3\n\n\nBioinformatics across AAGI: Research, Tools and Challenges\n\n\nThis workshop will explore bioinformatics across AAGI, including research, tools and challenges.\n\n  \n\nBioinformatics Satellite Meeting\n\n\nApplied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research\n\n\nThis workshop will explore emerging tools and data-driven approaches in crop research."
   },
   {
     "objectID": "about.html",
@@ -376,6 +411,20 @@
     "title": "HDR Networking Session",
     "section": "Shaping the Future of Agritech Research",
     "text": "Shaping the Future of Agritech Research\nThis interactive networking session will focus on three core pillars:\n\nCareer Development: Navigating pathways across academia, industry, and government, securing funding, and understanding what modern employers value.\nIndustry Engagement: Exploring AI applications in agriculture and discovering how industry internships can complement doctoral research.\nMentoring & Networking: Building connections with peers, senior researchers, and industry professionals to foster collaboration and support.\n\nOur goal is to kickstart an ongoing, collaborative HDR community within AAGI that continues to share opportunities, experiences, and advice long after the symposium concludes."
+  },
+  {
+    "objectID": "posters-theme-1.html",
+    "href": "posters-theme-1.html",
+    "title": "Posters Theme 1",
+    "section": "",
+    "text": "Sandra Tanz"
+  },
+  {
+    "objectID": "posters-theme-1.html#posters",
+    "href": "posters-theme-1.html#posters",
+    "title": "Posters Theme 1",
+    "section": "",
+    "text": "Sandra Tanz"
   },
   {
     "objectID": "posters-theme-2.html",

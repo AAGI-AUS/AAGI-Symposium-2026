@@ -22,19 +22,19 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 
 | Time Block | Mon 9/11 (Day 0) | Tue 10/11 (Day 1) | Wed 11/11 (Day 2) | Thu 12/11 (Day 3) |
 |:---|:---|:---|:---|:---|
-| **08:30 - 09:00** | | **Opening by GRDC** | | |
-| **09:00 - 10:30** | **Workshop (UQ/WUR)** | **Talks: CU** | **Talks: UQ** | **Talks: AU** |
+| **08:30 - 09:00** | | **Welcome and Opening Address** | | |
+| **09:00 - 10:30** | [**Workshop (UQ/WUR)**](workshop-wur.qmd) | [**Talks: CU**](talks-panels-nodes-CU.qmd) | [**Talks: UQ**](talks-panels-nodes-UQ.qmd) | [**Talks: AU**](talks-panels-nodes-AU.qmd) |
 | **10:30 - 11:00** | ☕ Morning Tea | ☕ Morning Tea | ☕ Morning Tea | ☕ Morning Tea |
-| **11:00 - 13:00** | **Workshop (UQ/WUR)** | **Workshop 1** <br> *AI in AAGI* | **Workshop 2** <br> *Trial Design* | **Strategic Partner Leads & GRDC Q&A, including Awards 🏆** |
-| | | | **Workshop 3** <br> *Bioinformatics across AAGI* | |
+| **11:00 - 13:00** | [**Workshop (UQ/WUR)**](workshop-wur.qmd) | [**Workshop 1**](workshop-1.qmd) <br> *AI in AAGI* | [**Workshop 2**](workshop-2.qmd) <br> *Trial Design* | [**Strategic Partner Leads & GRDC Q&A, including Awards 🏆**](talks-panels-sp-leads.qmd) |
+| | | | [**Workshop 3**](workshop-3.qmd) <br> *Bioinformatics across AAGI* | |
 | **13:00 - 14:00** | 🥪 Lunch | 🥪 Lunch | 🥪 Lunch | 🥡 Take-away Lunch |
-| **14:00 - 15:30** | **Workshop (UQ/WUR)** | **Industry, Government and Growers (IGG)** | **Talks: AAGI partners** | |
-| | **Bioinformatics Satellite (CU/UWA)** | | | |
+| **14:00 - 15:30** | [**Workshop (UQ/WUR)**](workshop-wur.qmd) | [**Industry, Government and Growers (IGG)**](talks-panels-igg.qmd) | [**Talks: AAGI partners**](talks-panels-partners.qmd) | |
+| | [**Bioinformatics Satellite (CU/UWA)**](workshop-bioinfo-satellite.qmd) | | | |
 | **15:30 - 16:00** | ☕ Afternoon Tea | ☕ Afternoon Tea | ☕ Afternoon Tea | |
-| **16:00 - 16:30** | **Bioinformatics Satellite (CU/UWA)** | _Free time_ | 👭 **HDR Networking** | |
-| **16:30 - 17:30** | **Bioinformatics Satellite (CU/UWA)** | 📊 **Poster Showcase** | 👭 **HDR Networking** | |
-| **17:30 - 18:00** | **Bioinformatics Satellite (CU/UWA)** | 📊 **Poster Showcase** | _Free time_ | |
-| **18:00 - 18:30** | _Free time_ | 📊 **Poster Showcase** | _Free time_ | |
+| **16:00 - 16:30** | [**Bioinformatics Satellite (CU/UWA)**](workshop-bioinfo-satellite.qmd) | _Free time_ | 👭 [**HDR Networking**](talks-panels-hdr.qmd) | |
+| **16:30 - 17:30** | [**Bioinformatics Satellite (CU/UWA)**](workshop-bioinfo-satellite.qmd) | 📊 [**Poster Showcase**](posters.qmd) | 👭 [**HDR Networking**](talks-panels-hdr.qmd) | |
+| **17:30 - 18:00** | [**Bioinformatics Satellite (CU/UWA)**](workshop-bioinfo-satellite.qmd) | 📊 [**Poster Showcase**](posters.qmd) | _Free time_ | |
+| **18:00 - 18:30** | _Free time_ | 📊 [**Poster Showcase**](posters.qmd) | _Free time_ | |
 | **18:30 - 20:30** | 🥂 **Welcome Mixer** | | 🍽️ **Symposium Dinner** | |
 
 :::
@@ -47,14 +47,14 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 
 | Time | Session | Location |
 |:---|:---|:---|
-| **09:00 - 10:30** | **Workshop (UQ/WUR)** <br> *Splines / Random Regression* | Murray Room |
+| **09:00 - 10:30** | [**Workshop (UQ/WUR)**](workshop-wur.qmd) <br> *Splines / Random Regression* | Murray Room |
 | **10:30 - 11:00** | ☕ Morning Tea | Murray Room |
-| **11:00 - 13:00** | **Workshop (UQ/WUR)** <br> *GxE* | Murray Room |
+| **11:00 - 13:00** | [**Workshop (UQ/WUR)**](workshop-wur.qmd) <br> *GxE* | Murray Room |
 | **13:00 - 14:00** | 🥪 Lunch | Murray Room |
-| **14:00 - 15:30** | **Workshop (UQ/WUR)** <br> *ODEs* | Murray Room |
-| | **Bioinformatics Satellite (CU/UWA)** <br> *Emerging Tools and Data-Driven Approaches in Crop Research* | Room 212, Curtin Business School, 78 Murray Street |
+| **14:00 - 15:30** | [**Workshop (UQ/WUR)**](workshop-wur.qmd) <br> *ODEs* | Murray Room |
+| | [**Bioinformatics Satellite (CU/UWA)**](workshop-bioinfo-satellite.qmd) <br> *Emerging Tools and Data-Driven Approaches in Crop Research* | Room 212, Curtin Business School, 78 Murray Street |
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |
-| **16:00 - 18:00** |  **Bioinformatics Satellite (CU/UWA)** <br> *Emerging Tools and Data-Driven Approaches in Crop Research*| Room 212, Curtin Business School, 78 Murray Street |
+| **16:00 - 18:00** | [**Bioinformatics Satellite (CU/UWA)**](workshop-bioinfo-satellite.qmd) <br> *Emerging Tools and Data-Driven Approaches in Crop Research*| Room 212, Curtin Business School, 78 Murray Street |
 | **18:00 - 18:30** | *Free time* | |
 | **18:30 - 20:30** | 🥂 **Welcome Mixer** <br> *Networking Social Evening* | QT Rooftop Bar |
 
@@ -62,28 +62,28 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 
 | Time | Session | Location |
 |:---|:---|:---|
-| **08:30 - 09:00** | **Opening by GRDC** | Murray Room |
-| **09:00 - 10:30** | **Talks: CU** | Murray Room |
+| **08:30 - 09:00** | **Welcome and Opening Address** <br> *Nathan O'Callaghan and Tom Giles (GRDC)* | Murray Room |
+| **09:00 - 10:30** | [**Talks: CU**](talks-panels-nodes-CU.qmd) | Murray Room |
 | **10:30 - 11:00** | ☕ Morning Tea | Santini Bar |
-| **11:00 - 13:00** | **Workshop 1** <br> *AI in AAGI: From Tools to Workflows* | Murray Room |
+| **11:00 - 13:00** | [**Workshop 1**](workshop-1.qmd) <br> *AI in AAGI: From Tools to Workflows* | Murray Room |
 | **13:00 - 14:00** | 🥪 Lunch | Santini Bar |
-| **14:00 - 15:30** | **Industry, Government and Growers (IGG)** | Murray Room |
+| **14:00 - 15:30** | [**Industry, Government and Growers (IGG)**](talks-panels-igg.qmd) | Murray Room |
 | **15:30 - 16:00** | ☕ Afternoon Tea | Santini Bar |
 | **16:00 - 16:30** | *Free time* | |
-| **16:30 - 18:30** | 📊 **Poster Showcase** | Murray Room |
+| **16:30 - 18:30** | 📊 [**Poster Showcase**](posters.qmd) | Murray Room |
 
 ### Day 2: Wednesday 11/11
 
 | Time | Session | Location |
 |:---|:---|:---|
-| **09:00 - 10:30** | **Talks: UQ** | Murray Room |
+| **09:00 - 10:30** | [**Talks: UQ**](talks-panels-nodes-UQ.qmd) | Murray Room |
 | **10:30 - 11:00** | ☕ Morning Tea | Murray Room |
-| **11:00 - 13:00** | **Workshop 2** <br> *Efficient Trial Design with speed* | Murray Room |
-| | **Workshop 3** <br> *Bioinformatics across AAGI: Automating Reproducible Bioinformatics Workflows* | Room Gallery, Curtin 137 St Georges Terrace |
+| **11:00 - 13:00** | [**Workshop 2**](workshop-2.qmd) <br> *Efficient Trial Design with speed* | Murray Room |
+| | [**Workshop 3**](workshop-3.qmd) <br> *Bioinformatics across AAGI: Automating Reproducible Bioinformatics Workflows* | Room Gallery, Curtin 137 St Georges Terrace |
 | **13:00 - 14:00** | 🥪 Lunch | Murray Room |
-| **14:00 - 15:30** | **Talks: AAGI partners** | Murray Room |
+| **14:00 - 15:30** | [**Talks: AAGI partners**](talks-panels-partners.qmd) | Murray Room |
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |
-| **16:00 - 17:30** | 👭 **HDR Networking** | Murray Room |
+| **16:00 - 17:30** | 👭 [**HDR Networking**](talks-panels-hdr.qmd) | Murray Room |
 | **17:30 - 18:30** | *Free time* | |
 | **18:30 - 20:30** | 🍽️ **Symposium Dinner** | *The Lucky Shag Waterfront Bar, Old Perth Port, Barrack Square* |
 
@@ -91,9 +91,9 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 
 | Time | Session | Location |
 |:---|:---|:---|
-| **09:00 - 10:30** | **Talks: AU** | Murray Room |
+| **09:00 - 10:30** | [**Talks: AU**](talks-panels-nodes-AU.qmd) | Murray Room |
 | **10:30 - 11:00** | ☕ Morning Tea | Murray Room |
-| **11:00 - 13:00** | **Strategic Partner Leads & GRDC Q&A, including Awards 🏆**  <br> *Question and Awards time*  | Murray Room |
+| **11:00 - 13:00** | [**Strategic Partner Leads & GRDC Q&A, including Awards 🏆**](talks-panels-sp-leads.qmd)  <br> *Question and Awards time*  | Murray Room |
 | **13:00 - 14:00** | 🥡 Take-away Lunch & Departure | Murray Room |
 
 :::                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

@@ -67,7 +67,34 @@ The annual AAGI Symposium brings together researchers, students and industry col
     </div>
   </div>
   <div class="symposium-image-wrap">
-    <img src="images/QT_Perth.jpg" alt="QT Hotel Perth" class="symposium-image">
+    <div class="slide">
+      <img src="images/QT_Perth.jpg" alt="QT Hotel Perth" class="symposium-image">
+      <span class="slide-title">QT Hotel Perth</span>
+    </div>
+    <div class="slide">
+      <img src="images/QT_Lobby.jpg" alt="QT Lobby" class="symposium-image">
+      <span class="slide-title">QT Lobby</span>
+    </div>
+    <div class="slide">
+      <img src="images/QT_Murray.jpg" alt="QT Murray Room" class="symposium-image">
+      <span class="slide-title">QT Murray Room</span>
+    </div>
+    <div class="slide">
+      <img src="images/QT_Rooftop_1.jpg" alt="QT Rooftop Bar" class="symposium-image">
+      <span class="slide-title">QT Rooftop Bar</span>
+    </div>
+    <div class="slide">
+      <img src="images/QT_Rooftop_2.jpg" alt="QT Rooftop Bar" class="symposium-image">
+      <span class="slide-title">QT Rooftop Bar</span>
+    </div>
+    <div class="slide">
+      <img src="images/QT_Santini.jpg" alt="QT Santini Bar" class="symposium-image">
+      <span class="slide-title">QT Santini Bar</span>
+    </div>
+    <div class="slide">
+      <img src="images/lucky_shag.png" alt="Lucky Shag (Symposium Dinner)" class="symposium-image">
+      <span class="slide-title">Lucky Shag (Symposium Dinner)</span>
+    </div>
   </div>
 </div>
 ```

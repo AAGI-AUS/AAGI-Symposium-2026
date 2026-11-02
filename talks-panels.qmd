@@ -54,6 +54,6 @@ Explore the symposium talks and panel sessions below.
 </a>
 <a class="nav-card" href="talks-panels-sp-leads.qmd">
 <!-- <img src="images/workshops_1.jpg" class="card-img" alt="SP Leads"> -->
-<h3>Strategic Partner Leads & GRDC Q&A</h3>
+<h3>Strategic Partner Leads and GRDC Q&A</h3>
 <p>Put your questions to AAGI's strategic partner leads and a GRDC representative in an Q&A, followed by an awards ceremony.</p>
 </a></div>

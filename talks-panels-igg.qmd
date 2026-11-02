@@ -6,12 +6,13 @@ title: "Industry, Government and Growers (IGG)"
 **Time:** 14:00 - 15:30  
 **Venue:** QT Perth, Murray Room
 
-**Chair**: Sudhir Yadav 
-<!-- and Joe Eyre -->
+**Chair**: Julia Easton
 
 ## Summary
 
-The Industry, Government and Growers (IGG) session brings together perspectives from across the Australian grains sector to explore how research, data and analytics can address industry needs and support innovation. Featuring presentations from representatives across industry, government and grower groups, the session will highlight current priorities, practical challenges and opportunities for collaboration with AAGI. The presentations will be followed by a panel discussion and Q&amp;A, providing an opportunity to exchange ideas, share insights and discuss how AAGI can continue to deliver value for the Australian grains industry.
+Chaired by Julia Easton, the Industry, Government and Growers (IGG) session brings together perspectives from across the Australian grains sector to explore how research, data and analytics can address industry needs and support innovation. The session is being planned as a panel discussion, with representatives from industry, government and grower groups sharing current priorities, practical challenges and opportunities for collaboration with AAGI. It will provide an opportunity to exchange ideas and discuss how AAGI can continue to deliver value for the Australian grains industry.
+
+<!-- The Industry, Government and Growers (IGG) session brings together perspectives from across the Australian grains sector to explore how research, data and analytics can address industry needs and support innovation. Featuring presentations from representatives across industry, government and grower groups, the session will highlight current priorities, practical challenges and opportunities for collaboration with AAGI. The presentations will be followed by a panel discussion and Q&amp;A, providing an opportunity to exchange ideas, share insights and discuss how AAGI can continue to deliver value for the Australian grains industry. -->
  
 
 ## Speakers
@@ -61,5 +62,4 @@ Others to be confirmed.
 </div>
 </article>
 </div> -->
-
 

@@ -1,5 +1,5 @@
 ---
-title: "Strategic Partner Leads & GRDC Q&A"
+title: "Strategic Partner Leads and GRDC Q&A"
 ---
 
 **Date:** Thursday, 12 November 2026  
@@ -16,7 +16,9 @@ This is your opportunity to put questions directly to the panel. You can submit 
 
 The session will be followed by an awards ceremony, celebrating the best poster and the best 3-minute pitch from the poster session.
 
+Scan the GroupMap QR code to submit questions that will be answered during this session. The link also lets you vote for the best 3-minute pitch and the best poster.
 
+![GroupMap QR code for submitting questions and voting](images/Groupmap_QRcode.png){width=250}
 
 ## Panel members
 
@@ -60,4 +62,3 @@ The session will be followed by an awards ceremony, celebrating the best poster 
 </div>
 </article>
 </div>
-

@@ -25,7 +25,7 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 | **08:30 - 09:00** | | **Welcome and Opening Address** | | |
 | **09:00 - 10:30** | [**Workshop (UQ/WUR)**](workshop-wur.qmd) | [**Talks: CU**](talks-panels-nodes-CU.qmd) | [**Talks: UQ**](talks-panels-nodes-UQ.qmd) | [**Talks: AU**](talks-panels-nodes-AU.qmd) |
 | **10:30 - 11:00** | ☕ Morning Tea | ☕ Morning Tea | ☕ Morning Tea | ☕ Morning Tea |
-| **11:00 - 13:00** | [**Workshop (UQ/WUR)**](workshop-wur.qmd) | [**Workshop 1**](workshop-1.qmd) <br> *AI in AAGI* | [**Workshop 2**](workshop-2.qmd) <br> *Trial Design* | [**Strategic Partner Leads & GRDC Q&A, including Awards 🏆**](talks-panels-sp-leads.qmd) |
+| **11:00 - 13:00** | [**Workshop (UQ/WUR)**](workshop-wur.qmd) | [**Workshop 1**](workshop-1.qmd) <br> *AI in AAGI* | [**Workshop 2**](workshop-2.qmd) <br> *Trial Design* | [**Strategic Partner Leads and GRDC Q&A, including Awards 🏆**](talks-panels-sp-leads.qmd) |
 | | | | [**Workshop 3**](workshop-3.qmd) <br> *Bioinformatics across AAGI* | |
 | **13:00 - 14:00** | 🥪 Lunch | 🥪 Lunch | 🥪 Lunch | 🥡 Take-away Lunch |
 | **14:00 - 15:30** | [**Workshop (UQ/WUR)**](workshop-wur.qmd) | [**Industry, Government and Growers (IGG)**](talks-panels-igg.qmd) | [**Talks: AAGI partners**](talks-panels-partners.qmd) | |
@@ -93,7 +93,7 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 |:---|:---|:---|
 | **09:00 - 10:30** | [**Talks: AU**](talks-panels-nodes-AU.qmd) | Murray Room |
 | **10:30 - 11:00** | ☕ Morning Tea | Murray Room |
-| **11:00 - 13:00** | [**Strategic Partner Leads & GRDC Q&A, including Awards 🏆**](talks-panels-sp-leads.qmd)  <br> *Question and Awards time*  | Murray Room |
+| **11:00 - 13:00** | [**Strategic Partner Leads and GRDC Q&A, including Awards 🏆**](talks-panels-sp-leads.qmd)  <br> *Question and Awards time*  | Murray Room |
 | **13:00 - 14:00** | 🥡 Take-away Lunch & Departure | Murray Room |
 
 :::                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

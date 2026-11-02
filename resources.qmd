@@ -9,24 +9,24 @@ Symposium materials, practical information, and follow-up links for attendees.
 <div class="card-grid card-grid-two">
 
 <a class="nav-card" href="program.qmd">
-<img src="images/program_1.jpg" class="card-img" alt="Program">
 <h3>Program</h3>
 <p>View the full symposium schedule and session timing.</p>
+<img src="images/program_1.jpg" class="card-img" alt="Program">
 </a>
 <a class="nav-card" href="talks-panels.qmd">
-<img src="images/talks_panels_1.svg" class="card-img" alt="Panel members speaking at the front of a room to a seated audience">
 <h3>Talks &amp; Panels</h3>
 <p>Explore research talks and panel discussions featuring perspectives from across the Australian grains sector.</p>
+<img src="images/hdr_1.jpg" class="card-img" alt="Talks &amp; Panels">
 </a>
 <a class="nav-card" href="workshops.qmd">
-<img src="images/workshops_1.jpg" class="card-img" alt="Workshops">
 <h3>Workshops</h3>
 <p>Explore workshop pages and supporting materials.</p>
+<img src="images/workshops_1.jpg" class="card-img" alt="Workshops">
 </a>
 <a class="nav-card" href="posters.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Posters">
 <h3>Poster Showcase</h3>
 <p>Browse the poster showcase and theme pages.</p>
+<img src="images/posters_1.jpg" class="card-img" alt="Posters">
 </a></div>
 
 
@@ -36,7 +36,9 @@ Symposium materials, practical information, and follow-up links for attendees.
 
 - QT Perth: [133 Murray Street, Perth WA](https://maps.google.com/?q=QT+Perth+133+Murray+Street+Perth)
 
-### Murray Room layout (Level 1, QT Perth)
+### Murray Room at QT Perth
+
+![Murray Room at QT Perth](images/QT_Murray.jpg){width=100%}
 
 ![Murray Room layout at QT Perth](images/QT_MurrayRoom_Floorplan.png){width=100%}
 

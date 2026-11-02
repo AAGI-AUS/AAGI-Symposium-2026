@@ -21,13 +21,13 @@ Explore the symposium workshops below.
 </a>
 <a class="nav-card" href="workshop-3.qmd">
 <h3>Workshop 3</h3>
-<h3>Bioinformatics across AAGI: Research, Tools and Challenges</h3>
-<p>This workshop will explore bioinformatics across AAGI, including research, tools and challenges.</p>
+<h3>Bioinformatics across AAGI: Automating Reproducible Bioinformatics Workflows</h3>
+<p>This workshop will explore reproducible bioinformatics workflows and computational tools used across AAGI.</p>
 <img src="images/workshop_3_bioinfo_image@2x.jpg" class="card-img" alt="Workshop 3">
 </a>
 <a class="nav-card" href="workshop-wur.qmd">
 <h3>WUR Workshop</h3>
-<h3>LMMs, AI &amp; ODEs for G×E</h3>
+<h3>LMMs, AI and ODEs for G×E</h3>
 <p>This workshop covers mixed model splines, random regression, kernels and AI for genotype-by-environment interactions, and ODE-based crop modelling.</p>
 <img src="images/WUR_logo.png" class="card-img wur-nav-logo" alt="Wageningen University &amp; Research logo">
 </a>

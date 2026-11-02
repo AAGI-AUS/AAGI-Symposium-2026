@@ -12,6 +12,18 @@ title: "HDR Networking"
 
 The Higher Degree by Research (HDR) session brings together HDR students and early career researchers from across AAGI for a panel and interactive Q&amp;A. The session will provide an opportunity to connect with peers, experienced researchers and industry representatives, exchange experiences and gain insights into navigating research careers. Discussion will explore career development, industry engagement, mentoring and the transition from academic research to industry and other career pathways. The panel will also encourage participants to reflect on the skills, networks and opportunities that can support their professional growth, while fostering connections across the AAGI community and strengthening links between emerging researchers and the broader grains research sector.
 
+
+<!-- ## Shaping the Future of Agritech Research
+
+This interactive networking session will focus on three core pillars:
+
+* **Career Development**: Navigating pathways across academia, industry, and government, securing funding, and understanding what modern employers value.
+* **Industry Engagement**: Exploring AI applications in agriculture and discovering how industry internships can complement doctoral research.
+* **Mentoring & Networking**: Building connections with peers, senior researchers, and industry professionals to foster collaboration and support.
+
+Our goal is to kickstart an ongoing, collaborative HDR community within AAGI that continues to share opportunities, experiences, and advice long after the symposium concludes. -->
+
+
 ## Panel Members
 
 <div class="speaker-grid">
@@ -54,6 +66,16 @@ The Higher Degree by Research (HDR) session brings together HDR students and ear
 </article>
 </div>
 
+<div class="speaker-grid">
+<article class="speaker-card">
+<img src="images/Kate_Trinajstic.png" class="speaker-photo" alt="Kate Trinajstic">
+<div>
+<h3>Kate Trinajstic</h3>
+<p>Curtin University (CU), Australia</p>
+</div>
+</article>
+</div>
+
 <!-- <div class="speaker-grid">
 <article class="speaker-card">
 <img src="images/Hasnein_Tareque.png" class="speaker-photo" alt="Hasnein Tareque">
@@ -64,14 +86,3 @@ The Higher Degree by Research (HDR) session brings together HDR students and ear
 </article>
 </div> -->
 
-<!-- <div class="speaker-grid">
-<article class="speaker-card">
-<img src="images/Kate_Trinajstic.png" class="speaker-photo" alt="Kate Trinajstic">
-<div>
-<h3>Kate Trinajstic</h3>
-<p>Curtin University (CU), Australia</p>
-</div>
-</article>
-</div> -->
-
-Others to be confirmed.

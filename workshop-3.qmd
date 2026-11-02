@@ -1,5 +1,5 @@
 ---
-title: '<span class="workshop-title-text">Workshop 3<br>Bioinformatics across AAGI: Research, Tools and Challenges</span><img src="images/workshop_3_bioinfo_image@2x.jpg" class="workshop-hero-image" alt="Illustration of workshop 3 bioinformatics research, tools and challenges">'
+title: '<span class="workshop-title-text">Workshop 3<br>Bioinformatics across AAGI: Automating Reproducible Bioinformatics Workflows</span><img src="images/workshop_3_bioinfo_image@2x.jpg" class="workshop-hero-image" alt="Illustration of workshop 3 bioinformatics workflows">'
 ---
 
 **Date:** Wednesday, 11 November 2026  
@@ -30,11 +30,11 @@ This workshop will showcase how modern computational approaches are shaping geno
 <tbody>
 <tr><td colspan="2"><strong>11:40 - 12:40 &nbsp; Research case studies: Reproducible workflows in practice</strong><br><em>Bioinformatics workflow and automation across AAGI</em></td></tr>
 <tr><td><strong>11:40 - 11:50</strong></td><td><strong>Single-cell analysis and workflow package development</strong><br><em>Dr Irina Kuznetsova</em></td></tr>
-<tr><td><strong>11:50 - 12:00</strong></td><td><strong>Computational genotype imputation for genomic selection/breeding</strong><br><em>Dr Huan Zhao</em></td></tr>
-<tr><td><strong>12:00 - 12:10</strong></td><td><strong>Haplotype phasing: computational approaches and applications</strong><br><em>Dr Mario Fruzangohar</em></td></tr>
-<tr><td><strong>12:10 - 12:20</strong></td><td><strong>Computational genetic analysis with wgaim</strong><br><em>Dr Beata Sznajder</em></td></tr>
-<tr><td><strong>12:20 - 12:30</strong></td><td><strong>From eQTL to network construction</strong><br><em>Dr Dinesha Jayawardana</em></td></tr>
-<tr><td><strong>12:30 - 12:40</strong></td><td><strong>Automation, reproducibility, portability: OpenWDL and Sprocket</strong><br><em>Mr George Malone</em></td></tr>
+<tr><td><strong>11:50 - 12:00</strong></td><td><strong>Quality and adaptor trimming of short sequencing reads</strong><br><em>Dr Mario Fruzangohar</em></td></tr>
+<tr><td><strong>12:00 - 12:10</strong></td><td><strong>QTL/GWAS analytics with wgAim</strong><br><em>Dr Beata Sznajder</em></td></tr>
+<tr><td><strong>12:10 - 12:20</strong></td><td><strong>From eQTL to network construction</strong><br><em>Dr Dinesha Jayawardana</em></td></tr>
+<tr><td><strong>12:20 - 12:30</strong></td><td><strong>Genotype imputation in plant genomic studies</strong><br><em>Dr Huan Zhao</em></td></tr>
+<tr><td><strong>12:30 - 12:40</strong></td><td><strong>Automation, portability, reproducibility: OpenWDL and Sprocket</strong><br><em>Mr George Malone</em></td></tr>
 <tr><td><strong>12:40 - 13:00</strong></td><td><strong>Community discussion and closing remarks</strong><br><strong>Advancing bioinformatics across AAGI</strong><br><em>Dr Irina Kuznetsova + all contributors</em></td></tr>
 </tbody>
 </table>

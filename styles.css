@@ -294,6 +294,11 @@
   font-size: 1.5rem;
 }
 
+/* Cards are links; the heading anchor icon is unnecessary and can wrap onto a new line. */
+.nav-card .anchorjs-link {
+  display: none !important;
+}
+
 .nav-card p {
   font-size: 1rem;
   line-height: 1.5;

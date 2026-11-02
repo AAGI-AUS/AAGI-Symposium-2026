@@ -123,34 +123,34 @@ Access additional symposium materials, links and downloads shared throughout the
 <div class="card-grid">
 
 <a class="nav-card" href="program.qmd">
-<img src="images/program_1.jpg" class="card-img" alt="Program">
 <h3>Program</h3>
 <p>View the symposium schedule, including research talks, workshops, poster sessions, networking events and social activities.</p>
+<img src="images/program_1.jpg" class="card-img" alt="Program">
 </a>
 <a class="nav-card" href="talks-panels.qmd">
-<img src="images/hdr_1.jpg" class="card-img" alt="Talks & Panels">
 <h3>Talks &amp; Panels</h3>
 <p>Explore research talks and panel discussions featuring perspectives from across the Australian grains sector.</p>
+<img src="images/hdr_1.jpg" class="card-img" alt="Talks & Panels">
 </a>
 <a class="nav-card" href="workshops.qmd">
-<img src="images/workshops_1.jpg" class="card-img" alt="Workshops">
 <h3>Workshops</h3>
 <p>Access workshop descriptions, presentation slides, code, datasets and supporting resources.</p>
+<img src="images/workshops_1.jpg" class="card-img" alt="Workshops">
 </a>
 <a class="nav-card" href="posters.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Poster Showcase">
 <h3>Poster Showcase</h3>
 <p>Explore digital versions of posters presented during the symposium and connect with presenters.</p>
+<img src="images/posters_1.jpg" class="card-img" alt="Poster Showcase">
 </a>
 <a class="nav-card" href="participants.qmd">
-<img src="images/participants_1.jpg" class="card-img" alt="Participants">
 <h3>Participants</h3>
 <p>Meet the researchers, students and collaborators who make up the AAGI community.</p>
+<img src="images/participants_1.jpg" class="card-img" alt="Participants">
 </a>
 <a class="nav-card" href="resources.qmd">
-<img src="images/resources_1.jpg" class="card-img" alt="Resources">
 <h3>Resources</h3>
 <p>Access additional symposium materials, links and downloads shared throughout the event.</p>
+<img src="images/resources_1.jpg" class="card-img" alt="Resources">
 </a> </div>
 
 

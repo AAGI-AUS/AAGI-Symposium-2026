@@ -10,7 +10,7 @@ The main symposium is held at the **QT Hotel Perth** at 133 Murray Street in the
 
 **📍 Off-site Sessions **
 
-**Workshop 3: AAGI Bioinformatics** will be held in **Room Gallery** at **Curtin, 137 St Georges Terrace**. The venue is approximately 800 m, or a 10-minute walk, from the QT Hotel Perth.
+**Workshop 3: Bioinformatics across AAGI: Automating Reproducible Bioinformatics Workflows** will be held in **Room Gallery** at **Curtin, 137 St Georges Terrace**. The venue is approximately 800 m, or a 10-minute walk, from the QT Hotel Perth.
 
 The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curtin Business School, 78 Murray Street**. The venue is approximately 160 m, or a 3-minute walk, from the QT Hotel Perth.
 
@@ -25,8 +25,8 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 | **08:30 - 09:00** | | **Opening by GRDC** | | |
 | **09:00 - 10:30** | **Workshop (UQ/WUR)** | **Talks: CU** | **Talks: UQ** | **Talks: AU** |
 | **10:30 - 11:00** | ☕ Morning Tea | ☕ Morning Tea | ☕ Morning Tea | ☕ Morning Tea |
-| **11:00 - 13:00** | **Workshop (UQ/WUR)** | **Workshop 1** | **Workshop 2** | **Strategic Partner Leads & GRDC Q&A, including Awards 🏆** |
-| | | | **Workshop 3** | |
+| **11:00 - 13:00** | **Workshop (UQ/WUR)** | **Workshop 1** <br> *AI in AAGI* | **Workshop 2** <br> *Trial Design* | **Strategic Partner Leads & GRDC Q&A, including Awards 🏆** |
+| | | | **Workshop 3** <br> *Bioinformatics across AAGI* | |
 | **13:00 - 14:00** | 🥪 Lunch | 🥪 Lunch | 🥪 Lunch | 🥡 Take-away Lunch |
 | **14:00 - 15:30** | **Workshop (UQ/WUR)** | **Industry, Government and Growers (IGG)** | **Talks: AAGI partners** | |
 | | **Bioinformatics Satellite (CU/UWA)** | | | |
@@ -78,8 +78,8 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 |:---|:---|:---|
 | **09:00 - 10:30** | **Talks: UQ** | Murray Room |
 | **10:30 - 11:00** | ☕ Morning Tea | Murray Room |
-| **11:00 - 13:00** | **Workshop 2** <br> *Efficient Trial Design with *speed* | Murray Room |
-| | **Workshop 3** <br> *Bioinformatics across AAGI: Research, Tools and Challenges* | Room Gallery, Curtin 137 St Georges Terrace |
+| **11:00 - 13:00** | **Workshop 2** <br> *Efficient Trial Design with speed* | Murray Room |
+| | **Workshop 3** <br> *Bioinformatics across AAGI: Automating Reproducible Bioinformatics Workflows* | Room Gallery, Curtin 137 St Georges Terrace |
 | **13:00 - 14:00** | 🥪 Lunch | Murray Room |
 | **14:00 - 15:30** | **Talks: AAGI partners** | Murray Room |
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |

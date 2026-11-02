@@ -36,7 +36,7 @@ website:
           - text: "AAGI Partners"
             href: talks-panels-partners.qmd
           - text: "HDR Networking"
-            href: talks-panels-hdr-networking.qmd
+            href: talks-panels-hdr.qmd
           - text: "SP Leads & GRDC"
             href: talks-panels-sp-leads.qmd
       - text: "Workshops"
@@ -47,7 +47,7 @@ website:
             href: workshop-1.qmd
           - text: "Workshop 2: speed"
             href: workshop-2.qmd
-          - text: "Workshop 3: Bioinformatics"
+          - text: "Workshop 3: Bioinformatics across AAGI: Automating Reproducible Bioinformatics Workflows"
             href: workshop-3.qmd
           - text: "WUR Workshop"
             href: workshop-wur.qmd

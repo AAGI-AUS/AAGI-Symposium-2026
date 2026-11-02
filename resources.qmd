@@ -13,6 +13,11 @@ Symposium materials, practical information, and follow-up links for attendees.
 <h3>Program</h3>
 <p>View the full symposium schedule and session timing.</p>
 </a>
+<a class="nav-card" href="talks-panels.qmd">
+<img src="images/talks_panels_1.svg" class="card-img" alt="Panel members speaking at the front of a room to a seated audience">
+<h3>Talks &amp; Panels</h3>
+<p>Explore research talks and panel discussions featuring perspectives from across the Australian grains sector.</p>
+</a>
 <a class="nav-card" href="workshops.qmd">
 <img src="images/workshops_1.jpg" class="card-img" alt="Workshops">
 <h3>Workshops</h3>
@@ -20,33 +25,22 @@ Symposium materials, practical information, and follow-up links for attendees.
 </a>
 <a class="nav-card" href="posters.qmd">
 <img src="images/posters_1.jpg" class="card-img" alt="Posters">
-<h3>Posters</h3>
+<h3>Poster Showcase</h3>
 <p>Browse the poster showcase and theme pages.</p>
-</a>
-<a class="nav-card" href="contact.qmd">
-<img src="images/participants_1.jpg" class="card-img" alt="Contact">
-<h3>Contact</h3>
-<p>Find organising committee and admin contacts.</p>
 </a></div>
 
-## Talks
-
-Slides and recordings will be added after the symposium, subject to presenter approval.
-
-
-### Talks Index (to populate)
-
-| Talk | Presenter | Slide Deck | Recording |
-|:---|:---|:---|:---|
-| Talk 1 title | Presenter name | Add Box link | Add Box link |
-| Talk 2 title | Presenter name | Add Box link | Add Box link |
-| Talk 3 title | Presenter name | Add Box link | Add Box link |
 
 ## Venue and Attendee Resources
 
 ### Venue map
 
 - QT Perth: [133 Murray Street, Perth WA](https://maps.google.com/?q=QT+Perth+133+Murray+Street+Perth)
+
+### Murray Room layout (Level 1, QT Perth)
+
+![Murray Room layout at QT Perth](images/QT_MurrayRoom_Floorplan.png){width=100%}
+
+[View or download the original floorplan (PDF)](images/QT_MurrayRoom_Floorplan.pdf)
 
 ### Wi-Fi details
 
@@ -70,8 +64,8 @@ Slides and recordings will be added after the symposium, subject to presenter ap
 
 ## Templates
 
-- Poster template: **TBA - add download link**
-- Presentation template: **TBA - add download link**
+- Poster templates: [AAGI Poster Templates](https://app.box.com/folder/419916371189)
+- Presentation templates: [AAGI Presentation Templates](https://app.box.com/folder/432535878756)
 
 
 ### Code of conduct and media
@@ -79,6 +73,20 @@ Slides and recordings will be added after the symposium, subject to presenter ap
 All symposium presentations, discussions, posters, recordings, and shared materials are considered confidential to symposium participants unless explicit permission is given by the presenter, author, or organising committee.
 
 Photography, screenshots, and redistribution of content outside the symposium should only occur with prior consent.
+
+
+## Talks
+
+Slides and recordings will be added after the symposium, subject to presenter approval.
+
+### Talks Index (to populate)
+
+| Talk | Presenter | Slide Deck | Recording |
+|:---|:---|:---|:---|
+| Talk 1 title | Presenter name | Add Box link | Add Box link |
+| Talk 2 title | Presenter name | Add Box link | Add Box link |
+| Talk 3 title | Presenter name | Add Box link | Add Box link |
+
 
 ## Post-Symposium Archive
 

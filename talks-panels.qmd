@@ -47,7 +47,7 @@ Explore the symposium talks and panel sessions below.
 </div>
 </div>
 </a>
-<a class="nav-card" href="talks-panels-hdr-networking.qmd">
+<a class="nav-card" href="talks-panels-hdr.qmd">
 <!-- <img src="images/hdr.jpg" class="card-img" alt="HDR"> -->
 <h3>HDR Networking</h3>
 <p>Connect with fellow higher degree by research students during this networking and Q&amp;A session.</p>

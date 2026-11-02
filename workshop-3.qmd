@@ -10,7 +10,7 @@ title: '<span class="workshop-title-text">Workshop 3<br>Bioinformatics across AA
 
 The venue is approximately 800 m, or a 10-minute walk, from the QT Hotel Perth.
 
-<img src="images/workshop_3_bioinfo_location.png" class="workshop-hero-image" alt="location of workshop 3 bioinformatics">
+<img src="images/workshop_3_bioinfo_location.png" class="workshop-hero-image workshop-location-image" alt="location of workshop 3 bioinformatics">
 
 
 ## Summary

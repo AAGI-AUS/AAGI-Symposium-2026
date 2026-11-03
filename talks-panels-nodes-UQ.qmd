@@ -6,6 +6,8 @@ title: '<span class="uq-title-text">Strategic Partner:<br>The University of Quee
 **Time:** 09:00 - 10:30  
 **Venue:** QT Perth, Murray Room
 
+**Chair:** Scott Chapman
+
 ## Summary
 
 Hear from the University of Queensland node on AAGI tools and support, drone and satellite data for oats, wheat leaf area index (LAE) estimation, microphenotyping, and the use of large language models in agricultural grey literature.

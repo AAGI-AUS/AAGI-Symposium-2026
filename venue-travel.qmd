@@ -1,10 +1,10 @@
 ---
-title: "Resources"
+title: "Venue and Travel"
 ---
 
-Symposium materials, practical information, and follow-up links for attendees.
+Find the QT Perth venue details, Murray Room layout, Wi-Fi access, and practical transport and accessibility information for getting to the symposium.
 
-## Quick Links
+<!-- ## Quick Links
 
 <div class="card-grid card-grid-two">
 
@@ -27,12 +27,10 @@ Symposium materials, practical information, and follow-up links for attendees.
 <h3>Poster Showcase</h3>
 <p>Browse the poster showcase and theme pages.</p>
 <img src="images/posters_1.jpg" class="card-img" alt="Posters">
-</a></div>
+</a></div> -->
 
 
-## Venue and Attendee Resources
-
-### Venue map
+### Venue Map
 
 - QT Perth: [133 Murray Street, Perth WA](https://maps.google.com/?q=QT+Perth+133+Murray+Street+Perth)
 
@@ -40,22 +38,30 @@ Symposium materials, practical information, and follow-up links for attendees.
 
 ![Murray Room at QT Perth](images/QT_Murray.jpg){width=100%}
 
-![Murray Room layout at QT Perth](images/QT_MurrayRoom_Floorplan.png){width=100%}
+::: {.venue-banner .venue-layout-banner}
+### Murray Room layout
 
-[View or download the original floorplan (PDF)](images/QT_MurrayRoom_Floorplan.pdf)
+![Murray Room layout at QT Perth](images/QT_MurrayRoom_Floorplan.png)
+:::
 
-### Wi-Fi details
+<!-- [View or download the original floorplan (PDF)](images/QT_MurrayRoom_Floorplan.pdf) -->
 
-- Wi-Fi network and password will be available at the venue and shared with attendees during the symposium.
+### Wi-Fi Details
 
-### Accessibility and transport (Perth Domestic Airport to QT Perth)
+::: {.venue-banner}
+**Login: QT-Event**
+
+**Password: GreatEvent**
+:::
+
+
+### Accessibility and Transport (Perth Domestic Airport to QT Perth)
 
 - Taxi or rideshare: approximately 20 to 30 minutes, depending on traffic.
 - Public transport: typically 45 to 60 minutes (bus + train + short walk).
 - Recommended drop-off point: QT Perth main entrance on Murray Street.
 
-
-### Local logistics
+### Local Logistics
 
 - Parking: use nearby CBD public parking stations (rates and availability vary).
 - Nearby food: multiple cafes and restaurants within short walking distance on Murray Street and Hay Street.
@@ -64,13 +70,13 @@ Symposium materials, practical information, and follow-up links for attendees.
 	- Police assistance (non-urgent): 131 444
 	- Healthdirect: 1800 022 222
 
-## Templates
+<!-- ## Templates
 
 - Poster templates: [AAGI Poster Templates](https://app.box.com/folder/419916371189)
 - Presentation templates: [AAGI Presentation Templates](https://app.box.com/folder/432535878756)
 
 
-### Code of conduct and media
+### Code of Conduct and Media
 
 All symposium presentations, discussions, posters, recordings, and shared materials are considered confidential to symposium participants unless explicit permission is given by the presenter, author, or organising committee.
 
@@ -97,7 +103,7 @@ Slides and recordings will be added after the symposium, subject to presenter ap
 - Follow-up links:
 	- Mailing list: **TBA - add link**
 	- Next event: **TBA - add link**
-	- Feedback form: **TBA - add link**
+	- Feedback form: **TBA - add link** -->
 
 <!-- 
 ::: {.callout-note collapse="true" title="How to update this page (editor note)"}

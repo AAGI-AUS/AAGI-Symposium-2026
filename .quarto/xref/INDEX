@@ -100,5 +100,11 @@
   },
   "talks-panels-hdr.qmd": {
     "talks-panels-hdr.html": "1925f4e0"
+  },
+  "venue-travel.qmd": {
+    "venue-travel.html": "8081dcad"
+  },
+  "social-events.qmd": {
+    "social-events.html": "4af44d85"
   }
 }

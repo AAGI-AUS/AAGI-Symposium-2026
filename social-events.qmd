@@ -1,0 +1,32 @@
+---
+title: "Social Events"
+---
+
+Join fellow symposium attendees for two evenings of conversation and connection in Perth. The Welcome Mixer on Monday is a relaxed start to the week, followed by the Symposium Dinner at the waterfront on Wednesday.
+
+## Welcome Mixer
+
+::: {.venue-banner}
+![QT Rooftop Bar](images/QT_Rooftop_1.jpg){fig-alt="QT Rooftop Bar"}
+
+**Monday, 9 November | 6:30–8:30 pm**  
+**QT Rooftop Bar, QT Perth**
+
+Enjoy a networking social evening with symposium attendees at the QT Rooftop Bar.
+:::
+
+## Symposium Dinner
+
+::: {.venue-banner}
+![Lucky Shag Waterfront Bar](images/lucky_shag.png){fig-alt="Lucky Shag Waterfront Bar"}
+
+**Wednesday, 11 November | 6:30–8:30 pm**  
+**The Lucky Shag Waterfront Bar, Old Perth Port, Barrack Square**
+
+Continue the symposium conversations over dinner at this waterfront venue.
+
+Menus:
+
+- [Lucky Shag menu (PDF)](images/Lucky_Shag_Menu.pdf)
+- [Lucky Shag group share menu 2026 (PDF)](images/Lucky_Shag_Group_ShareMenu_2026.pdf)
+:::

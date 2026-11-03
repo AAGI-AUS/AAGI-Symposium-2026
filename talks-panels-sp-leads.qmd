@@ -6,19 +6,23 @@ title: "Strategic Partner Leads and GRDC Q&A"
 **Time:** 11:00 - 13:00  
 **Venue:** QT Perth, Murray Room
 
-**Chair**: Nathan O'Callaghan
+**Chair:** Nathan O'Callaghan
 
 ## Summary
 
 Join us for a closing panel discussion with AAGI's strategic partner leads and a representative from the Grains Research and Development Corporation (GRDC). Chaired by Nathan O'Callaghan, the panel will reflect on what AAGI has achieved, the opportunities and challenges ahead, and how the partnership can continue to deliver value for the Australian grains industry.
 
-This is your opportunity to put questions directly to the panel. You can submit your questions throughout the Symposium using the GroupMap link via the QR code. Please note that the link will close at 16:00 on Wednesday 11 November.
+This is your opportunity to put questions directly to the panel. You can submit your questions throughout the Symposium using the GroupMap link via the QR code. **Please note that the link will close at 16:00 on Wednesday 11 November**.
 
 The session will be followed by an awards ceremony, celebrating the best poster and the best 3-minute pitch from the poster session.
 
 Scan the GroupMap QR code to submit questions that will be answered during this session. The link also lets you vote for the best 3-minute pitch and the best poster.
 
+::: {.card .text-center .p-4 .my-4 style="background-color: #f8f9fa; border-radius: 8px;"}
+
 ![GroupMap QR code for submitting questions and voting](images/Groupmap_QRcode.png){width=250}
+
+:::
 
 ## Panel members
 

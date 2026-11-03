@@ -6,6 +6,8 @@ title: '<span class="workshop-title-text">Workshop 2<br>Efficient Trial Design w
 **Time:** 11:00 - 13:00  
 **Venue:** QT Perth, Murray Room
 
+**Chairs:** Sam Rogers and Wasin Pipattungsakul
+
 ## Summary
 
 *speed* is an R package from AAGI-AU that generates spatially optimised, model-free experimental designs. In this hands-on workshop, we’ll explain what model-free means in practice, give a conceptual overview of how speed works, then walk through:

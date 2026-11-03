@@ -57,22 +57,18 @@ website:
         menu:
           - text: "All Posters"
             href: posters.qmd
-          - text: "Posters Theme 1"
+          - text: "Theme 1 - Quantitative Methods, Analytics and Decision Science"
             href: posters-theme-1.qmd
-          - text: "Posters Theme 2"
+          - text: "Theme 2 - Genomics, Genetics and Bioinformatics"
             href: posters-theme-2.qmd
-          - text: "Posters Theme 3"
+          - text: "Theme 3 - Sensing, Imaging and Phenotyping"
             href: posters-theme-3.qmd
-          - text: "Posters Theme 4"
+          - text: "Theme 4 - Software Development and Research Enablement"
             href: posters-theme-4.qmd
-          - text: "Posters Theme 5"
-            href: posters-theme-5.qmd
-          - text: "Posters Theme 6"
-            href: posters-theme-6.qmd
+      - text: "Venue & Travel"
+        href: venue-travel.qmd
       - text: "Participants"
         href: participants.qmd
-      - text: "Resources"
-        href: resources.qmd
       - text: "Contact"
         href: contact.qmd
       # - text: "More"

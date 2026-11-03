@@ -6,6 +6,8 @@ title: '<span class="workshop-title-text">WUR Workshop<br>LMMs, AI and ODEs for 
 **Time:** 09:00 - 15:30  
 **Venue:** QT Perth, Murray Room
 
+**Chair:** Fred van Eeuwijk
+
 ## Summary
 
 This workshop presents modern statistical and computational approaches for analysing and predicting genotype-by-environment (G×E) interactions in plant breeding. It covers mixed model splines and random regression for spatial, temporal and environmental data; kernel-based mixed models and AI approaches for G×E; and the integration of ordinary differential equations (ODEs) with physics-informed neural networks for crop modelling.
@@ -26,7 +28,7 @@ For the analysis and prediction of G×E, random regression models provide a flex
 - **Junita Solin:** Spline-based functional models and functional principal component analysis for longitudinal photosynthesis measurements in *Arabidopsis* and their relationship with biomass accumulation.
 - **Jip Ramakers:** Reduced-rank random regression models for G×E analysis and prediction using multi-environment wheat trial data.
 
-**10:30 - 11:00 | ☕ Morning Tea**
+
 
 ### 11:00 - 13:00 | Kernels and AI for modelling genotype-by-environment interactions
 
@@ -41,7 +43,7 @@ Artificial intelligence and deep-learning approaches offer complementary opportu
 - **Killian Melsen:** A kernel-based linear mixed model framework for modelling G×E and G×E×M interactions, and recent GPU/CPU implementations of REML estimation for large-scale datasets.
 - **Aike Potze:** MixINN, a framework combining mixed models and neural networks to predict crop performance from genetic and environmental information, with practical demonstrations using PyTorch-based interactive notebooks.
 
-**13:00 - 14:00 | 🥪 Lunch**
+
 
 ### 14:00 - 15:30 | ODE-based crop modelling
 
@@ -53,4 +55,4 @@ Crop traits like yield and resilience are complex breeding targets. The predicti
 - **George van Voorn:** ODE-based crop models and their integration with PINNs.
 - **Corné Verburg:** Identification of ODE functions from observational data using the SINDY algorithm.
 
-**15:30 - 16:00 | ☕ Afternoon Tea**
+

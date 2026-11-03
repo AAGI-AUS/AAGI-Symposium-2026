@@ -26,7 +26,7 @@ css: styles.css
 
 Welcome to the official website of the **2026 Australian Analytics for the Australian Grains Industry (AAGI) Symposium**.
 
-The annual AAGI Symposium brings together researchers, students and industry collaborators from across Australia to share research, develop new collaborations, and explore the latest advances in data analytics for the grains industry. The symposium provides an opportunity to showcase innovative research, exchange ideas, learn new tools and methods, and strengthen the AAGI community. This year's program also includes the inaugural AAGI Awards, recognising outstanding contributions from AAGI members.
+The annual AAGI Symposium brings together researchers, students and industry collaborators from across Australia to share research, develop new collaborations, and explore the latest advances in data analytics for the grains industry. The symposium provides an opportunity to showcase innovative research, exchange ideas, learn new tools and methods, and strengthen the AAGI community. This year's program also includes the inaugural AAGI Poster Awards, recognising outstanding contributions from AAGI members.
 
 ---
 
@@ -103,26 +103,6 @@ The annual AAGI Symposium brings together researchers, students and industry col
 
 
 
-
-
-<!-- banner section -->
-::: {.card .text-center .p-4 .my-4 style="background-color: #f8f9fa; border-radius: 8px;"}
-
-Are you presenting a poster at the symposium? Submit your poster details via the Google Form and upload your PDF poster to the relevant Box folder. 
-
-
-**Deadline:** 20 October 2026.
-<br>
-
-<!-- [Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-primary .btn-lg role="button" target="_blank"} -->
-<!-- [Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-dark .btn-lg role="button" target="_blank"} -->
-[Submit Your Poster Details ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
-
-[Upload Your Poster ↗](https://adelaideuniversity.box.com/s/695xdh3wtmjykrd9vrs87xnzzxe5vw1l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
-
-:::
-
-
 ## Explore the Symposium
 
 This website is your central hub before, during and after the symposium.
@@ -174,10 +154,10 @@ Access additional symposium materials, links and downloads shared throughout the
 <p>Meet the researchers, students and collaborators who make up the AAGI community.</p>
 <img src="images/participants_1.jpg" class="card-img" alt="Participants">
 </a>
-<a class="nav-card" href="resources.qmd">
-<h3>Resources</h3>
-<p>Access additional symposium materials, links and downloads shared throughout the event.</p>
-<img src="images/resources_1.jpg" class="card-img" alt="Resources">
+<a class="nav-card" href="venue-travel.qmd">
+<h3>Venue &amp; Travel</h3>
+<p>Find venue details, the Murray Room layout, Wi-Fi access, transport and local logistics.</p>
+<img src="images/QT_Murray.jpg" class="card-img" alt="QT Perth Murray Room">
 </a> </div>
 
 
@@ -197,6 +177,22 @@ We look forward to welcoming you to Perth in November 2026.
 
 
 
+<!-- banner section -->
+::: {.card .text-center .p-4 .my-4 style="background-color: #f8f9fa; border-radius: 8px;"}
+
+Are you presenting a poster at the symposium? Submit your poster details via the Google Form and upload your PDF poster to the relevant Box folder. 
+
+
+**Deadline:** 25 October 2026.
+<br>
+
+<!-- [Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-primary .btn-lg role="button" target="_blank"} -->
+<!-- [Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-dark .btn-lg role="button" target="_blank"} -->
+[Submit Your Poster Details ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+
+[Upload Your Poster ↗](https://adelaideuniversity.box.com/s/695xdh3wtmjykrd9vrs87xnzzxe5vw1l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+
+:::
 
 
 

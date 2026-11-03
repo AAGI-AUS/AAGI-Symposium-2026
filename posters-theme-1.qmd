@@ -1,5 +1,5 @@
 ---
-title: "Posters Theme 1"
+title: "Theme 1 - Quantitative Methods, Analytics and Decision Science"
 ---
 
 ## Posters

@@ -7,12 +7,14 @@ title: '<span class="workshop-title-text">Bioinformatics Satellite Meeting<br>Ap
 **Time:** 14:00 - 18:00  
 **Venue:** Room 212, Curtin Business School, 78 Murray Street
 
+**Chair:** Dave Edwards
+
 
 **📍 Please note this is an off-site session **
 
 The venue is approximately 160 m, or a 3-minute walk, from the QT Hotel Perth.
 
-<img src="images/workshop_bioinfo_satellite_location.png" class="workshop-hero-image" alt="location of bioinformatics satellite meeting">
+<img src="images/workshop_bioinfo_satellite_location.png" class="workshop-hero-image workshop-location-image" alt="location of bioinformatics satellite meeting">
 
 
 ## Summary 

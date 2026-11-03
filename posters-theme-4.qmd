@@ -1,5 +1,5 @@
 ---
-title: "Posters Theme 4"
+title: "Theme 4 - Software Development and Research Enablement"
 ---
 
 ## Posters

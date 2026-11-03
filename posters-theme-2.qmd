@@ -1,5 +1,5 @@
 ---
-title: "Posters Theme 2"
+title: "Theme 2 - Genomics, Genetics and Bioinformatics"
 ---
 
 ## Posters

@@ -2,26 +2,71 @@
 title: "Posters"
 ---
 
+## Explore Posters by Theme
 
+<div class="card-grid card-grid-two">
+
+<a class="nav-card" href="posters-theme-1.qmd">
+<h3>Theme 1 - Quantitative Methods, Analytics and Decision Science</h3>
+<p>Poster listings for theme 1.</p>
+<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 1">
+</a>
+<a class="nav-card" href="posters-theme-2.qmd">
+<h3>Theme 2 - Genomics, Genetics and Bioinformatics</h3>
+<p>Poster listings for theme 2.</p>
+<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 2">
+</a>
+<a class="nav-card" href="posters-theme-3.qmd">
+<h3>Theme 3 - Sensing, Imaging and Phenotyping</h3>
+<p>Poster listings for theme 3.</p>
+<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 3">
+</a>
+<a class="nav-card" href="posters-theme-4.qmd">
+<h3>Theme 4 - Software Development and Research Enablement</h3>
+<p>Poster listings for theme 4.</p>
+<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 4">
+</a> </div>
+
+
+### Short Poster Presentations
+PhD students will be invited to give a brief **3-5 minute “elevator pitch”** alongside their poster. This is an opportunity to introduce yourself, provide a concise overview of your project, highlight its significance, and encourage further discussion during the poster session.
+Subject to available time, researchers who opt in may also be invited to give a short poster presentation.
+
+
+### Poster Awards
+There will be one prize in each of two categories:
+
+- **Best Poster**
+- **Best Poster Pitch**
+
+Both are People’s Choice prizes, and everyone is invited to vote. Scan the QR code below to visit the GroupMap site and cast your votes.
 
 <!-- banner section -->
 ::: {.card .text-center .p-4 .my-4 style="background-color: #f8f9fa; border-radius: 8px;"}
+
+![GroupMap QR code for voting for the best poster and best short poster presentation](images/Groupmap_QRcode.png){width=250}
+
+:::
+
+
+<!-- banner section -->
+<!-- ::: {.card .text-center .p-4 .my-4 style="background-color: #f8f9fa; border-radius: 8px;"}
 
 ### Poster Submission Portal
 Are you presenting a poster at the symposium? Submit your poster details via the Google Form and upload your PDF poster to the relevant Box folder. 
 
 
-**Deadline: 20 October 2026**
+**Deadline: 25 October 2026**
 <br>
 
 <!-- [Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-primary .btn-lg role="button" target="_blank"} -->
 <!-- [Submit Your Poster ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-dark .btn-lg role="button" target="_blank"} -->
-[Submit Your Poster Details ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
-[Upload Your Poster ↗](https://adelaideuniversity.box.com/s/695xdh3wtmjykrd9vrs87xnzzxe5vw1l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+<!-- [Submit Your Poster Details ↗](https://forms.gle/Mvy8dTBK3WoeChHa6){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
-:::
+[Upload Your Poster ↗](https://adelaideuniversity.box.com/s/695xdh3wtmjykrd9vrs87xnzzxe5vw1l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"} -->
 
+::: -->
 
 
 ## Poster Guidelines
@@ -35,7 +80,7 @@ The AAGI poster templates can be downloaded from this Box folder:
 [AAGI Poster Templates ↗](https://app.box.com/folder/419916371189){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
 
-### Poster content
+### Poster Content
 Posters should clearly communicate:
 
 - The research, project, tool, or area of work being presented.
@@ -45,19 +90,19 @@ Posters should clearly communicate:
 - Contact details to enable follow-up discussions and collaboration.
 
 
-### Poster format
+### Poster Format
 - **Size:** A0 (841 × 1189 mm)
 - **Orientation:** Portrait
 
 Posters will be displayed on double-sided poster boards, with two A0 portrait posters displayed on each side.
 
 
-### QR code
+### QR Code
 Please include a **QR code placeholder** on your poster. This will be used to link to the digital version of your poster on the symposium website.
 A minimum size of **8 × 8 cm** is recommended to ensure the QR code can be scanned easily.
 
 
-### File requirements
+### File Requirements
 - **Format:** PDF 
 
 - **File name:** Please use the following format: [Poster_SurnameFirstName.pdf]{style="color: navy;"}
@@ -71,13 +116,13 @@ A minimum size of **8 × 8 cm** is recommended to ensure the QR code can be scan
 <!-- - Example: [2026AAGISymposium_poster_Smith_J.pdf]{style="color: navy;"} --> 
 
 
-### Poster submission 
+### Poster Submission 
 
-**Submission deadline: 20 October 2026**
+**Submission deadline: 25 October 2026**
 
 This deadline allows sufficient time for posters to be printed in Perth and ensures they are ready for display at the symposium.
 
-### Submission process
+### Submission Process
 
 Poster submission involves **two steps:**
 
@@ -94,6 +139,7 @@ Use the Box link to upload your PDF poster. You do not need a Box account to upl
 
 [Upload Your Poster ↗](https://adelaideuniversity.box.com/s/695xdh3wtmjykrd9vrs87xnzzxe5vw1l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
+
 <!-- 
 Use the Box link corresponding to your selected poster theme to upload your PDF poster. You do not need a Box account to upload a file.
 
@@ -108,57 +154,4 @@ Please make sure you upload your poster to the folder corresponding to the theme
 
 [Poster Theme 4 - Upload ↗](https://adelaideuniversity.box.com/s/yc612gta9lt0t5evtnaluunuhd1dr22h){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
-[Poster Theme 5 - Upload ↗](https://adelaideuniversity.box.com/s/edcw1dea7outwklh9s1ofmigtod7xi6l){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
-
-[Poster Theme 6 - Upload ↗](https://adelaideuniversity.box.com/s/imnvh58ug8wqa5v82dbjyp9ftkdn8tkz){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 </div> -->
-
-
-
-### Short poster presentations
-PhD students will be invited to give a brief **3-5 minute “elevator pitch”** alongside their poster. This is an opportunity to introduce yourself, provide a concise overview of your project, highlight its significance, and encourage further discussion during the poster session.
-Subject to available time, researchers who opt in may also be invited to give a short poster presentation.
-
-
-### Poster awards
-Poster awards will be presented at the conclusion of the symposium. Further details regarding award categories, judging criteria, and assessment processes will be provided closer to the event.
-
-
-
-
-## Explore Posters by Theme
-
-<div class="card-grid">
-
-<a class="nav-card" href="posters-theme-1.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 1">
-<h3>Posters Theme 1</h3>
-<p>Poster listings and resources for theme 1.</p>
-</a>
-<a class="nav-card" href="posters-theme-2.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 2">
-<h3>Posters Theme 2</h3>
-<p>Poster listings and resources for theme 2.</p>
-</a>
-<a class="nav-card" href="posters-theme-3.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 3">
-<h3>Posters Theme 3</h3>
-<p>Poster listings and resources for theme 3.</p>
-</a>
-<a class="nav-card" href="posters-theme-4.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 4">
-<h3>Posters Theme 4</h3>
-<p>Poster listings and resources for theme 4.</p>
-</a>
-<a class="nav-card" href="posters-theme-5.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 5">
-<h3>Posters Theme 5</h3>
-<p>Poster listings and resources for theme 5.</p>
-</a>
-<a class="nav-card" href="posters-theme-6.qmd">
-<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 6">
-<h3>Posters Theme 6</h3>
-<p>Poster listings and resources for theme 6.</p>
-</a> </div>
-
-

@@ -65,6 +65,8 @@ website:
             href: posters-theme-3.qmd
           - text: "Theme 4 - Software Development and Research Enablement"
             href: posters-theme-4.qmd
+      - text: "Social Events"
+        href: social-events.qmd
       - text: "Venue & Travel"
         href: venue-travel.qmd
       - text: "Participants"

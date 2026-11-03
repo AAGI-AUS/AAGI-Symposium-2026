@@ -332,6 +332,13 @@
   margin-bottom: 0;
 }
 
+/* Crop wide photos to match the ~4:3 proportions of the other card images. */
+.nav-card > .card-img-cover {
+  width: 100%;
+  aspect-ratio: 442 / 340;
+  object-fit: cover;
+}
+
 .nav-card > .wur-nav-logo {
   margin-bottom: auto;
 }

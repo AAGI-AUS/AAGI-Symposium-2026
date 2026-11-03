@@ -35,7 +35,7 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 | **16:30 - 17:30** | [**Bioinformatics Satellite (CU/UWA)**](workshop-bioinfo-satellite.qmd) | 📊 [**Poster Showcase**](posters.qmd) | 👭 [**HDR Networking**](talks-panels-hdr.qmd) | |
 | **17:30 - 18:00** | [**Bioinformatics Satellite (CU/UWA)**](workshop-bioinfo-satellite.qmd) | 📊 [**Poster Showcase**](posters.qmd) | _Free time_ | |
 | **18:00 - 18:30** | _Free time_ | 📊 [**Poster Showcase**](posters.qmd) | _Free time_ | |
-| **18:30 - 20:30** | 🥂 **Welcome Mixer** | | 🍽️ **Symposium Dinner** | |
+| **18:30 - 20:30** | 🥂 [**Welcome Mixer**](social-events.qmd) | | 🍽️ [**Symposium Dinner**](social-events.qmd) | |
 
 :::
 
@@ -56,7 +56,7 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |
 | **16:00 - 18:00** | [**Bioinformatics Satellite (CU/UWA)**](workshop-bioinfo-satellite.qmd) <br> *Emerging Tools and Data-Driven Approaches in Crop Research*| Room 212, Curtin Business School, 78 Murray Street |
 | **18:00 - 18:30** | *Free time* | |
-| **18:30 - 20:30** | 🥂 **Welcome Mixer** <br> *Networking Social Evening* | QT Rooftop Bar |
+| **18:30 - 20:30** | 🥂 [**Welcome Mixer**](social-events.qmd) <br> *Networking Social Evening* | QT Rooftop Bar |
 
 ### Day 1: Tuesday 10/11
 
@@ -85,7 +85,7 @@ The **Bioinformatics Satellite Meeting** will be held in **Room 212** at **Curti
 | **15:30 - 16:00** | ☕ Afternoon Tea | Murray Room |
 | **16:00 - 17:30** | 👭 [**HDR Networking**](talks-panels-hdr.qmd) | Murray Room |
 | **17:30 - 18:30** | *Free time* | |
-| **18:30 - 20:30** | 🍽️ **Symposium Dinner** | *The Lucky Shag Waterfront Bar, Old Perth Port, Barrack Square* |
+| **18:30 - 20:30** | 🍽️ [**Symposium Dinner**](social-events.qmd) | *The Lucky Shag Waterfront Bar, Old Perth Port, Barrack Square* |
 
 ### Day 3: Thursday 12/11
 

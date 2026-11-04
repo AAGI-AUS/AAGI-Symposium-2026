@@ -1,5 +1,5 @@
 ---
-title: "Theme 2 - Genomics, Genetics and Bioinformatics"
+title: '<span class="workshop-title-text">Theme 2 - Genomics, Genetics and Bioinformatics</span><img src="images/Poster_theme2.png" class="workshop-hero-image" alt="Poster Theme 2">'
 ---
 
 ## Posters

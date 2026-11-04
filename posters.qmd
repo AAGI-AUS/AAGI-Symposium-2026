@@ -9,22 +9,22 @@ title: "Posters"
 <a class="nav-card" href="posters-theme-1.qmd">
 <h3>Theme 1 - Quantitative Methods, Analytics and Decision Science</h3>
 <p>Poster listings for theme 1.</p>
-<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 1">
+<img src="images/Poster_theme1.png" class="card-img" alt="Poster Theme 1">
 </a>
 <a class="nav-card" href="posters-theme-2.qmd">
 <h3>Theme 2 - Genomics, Genetics and Bioinformatics</h3>
 <p>Poster listings for theme 2.</p>
-<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 2">
+<img src="images/Poster_theme2.png" class="card-img" alt="Poster Theme 2">
 </a>
 <a class="nav-card" href="posters-theme-3.qmd">
 <h3>Theme 3 - Sensing, Imaging and Phenotyping</h3>
 <p>Poster listings for theme 3.</p>
-<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 3">
+<img src="images/Poster_theme3.png" class="card-img" alt="Poster Theme 3">
 </a>
 <a class="nav-card" href="posters-theme-4.qmd">
 <h3>Theme 4 - Software Development and Research Enablement</h3>
 <p>Poster listings for theme 4.</p>
-<img src="images/posters_1.jpg" class="card-img" alt="Poster Theme 4">
+<img src="images/Poster_theme4.png" class="card-img" alt="Poster Theme 4">
 </a> </div>
 
 

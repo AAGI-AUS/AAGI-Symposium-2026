@@ -46,7 +46,7 @@ Advances in bioinformatics, genomics and machine learning are transforming how w
 | Dave Edwards (UWA) | Thanks and wrap up |
 
 
-
+<!-- 
 ## Resources
 
-- Slides: Coming soon
+- Slides: Coming soon -->

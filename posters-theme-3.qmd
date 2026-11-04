@@ -1,5 +1,5 @@
 ---
-title: "Theme 3 - Sensing, Imaging and Phenotyping"
+title: '<span class="workshop-title-text">Theme 3 - Sensing, Imaging and Phenotyping</span><img src="images/Poster_theme3.png" class="workshop-hero-image" alt="Poster Theme 3">'
 ---
 
 ## Posters

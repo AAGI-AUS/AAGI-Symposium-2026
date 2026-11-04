@@ -1,5 +1,5 @@
 ---
-title: '<span class="uq-title-text">Strategic Partner:<br>The University of Queensland (UQ)</span><img src="images/UQ_logo-Purple-rgb.png" class="uq-title-logo" alt="The University of Queensland logo">'
+title: '<span class="uq-title-text">Strategic Partner:<br>The University of Queensland</span><img src="images/UQ_logo-Purple-rgb.png" class="uq-title-logo" alt="The University of Queensland logo">'
 ---
 
 **Date:** Wednesday 11 November 2026  

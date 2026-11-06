@@ -53,7 +53,7 @@ The AAGI Partners session highlights the contributions, expertise and perspectiv
 
 <div class="speaker-grid">
 <article class="speaker-card">
-<img src="images/Valeria_Paccapelo.png" class="speaker-photo" alt="Valeria Paccapelo">
+<img src="images/ValeriaPaccapelo_QDPI.jpg" class="speaker-photo" alt="Valeria Paccapelo">
 <div>
 <h3>Valeria Paccapelo</h3>
 <p>Queensland Department of Primary Industries (QDPI), Australia</p>

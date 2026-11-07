@@ -4,28 +4,28 @@
     "href": "posters-theme-4.html",
     "title": "Theme 4 - Software Development and Research Enablement",
     "section": "",
-    "text": "&lt;p&gt;No posters have been submitted for this theme yet.&lt;/p&gt;"
+    "text": "Number\nName\nOrganisation\nPoster Title\n\n\n\n\n\nAndrew Bowerman\nANU\nTidy, analysis-ready output from ASReml-R models\n\n\n\nGusti Rais\nANU\nAAGIverse Project\n\n\n\nAaron Poruthoor\nAU\nAAGI Knowledge Chat\n\n\n\nMax Moldovan\nAU\nCrop Analytics Orchestra\n\n\n\nNandhini Subramanian\nAU\nAAGI-AU-RD-GIA Grains Industry Analytics Roadmap Generator\n\n\n\nRussell Edson\nAU\n{nert} and pynert: streamlined access to TERN’s national ecosystem maps with R and Python\n\n\n\nJayani Lakshika\nCU\ngrowR: Geographically weighted Regression for On-farm experiments With R"
   },
   {
     "objectID": "posters-theme-4.html#posters",
     "href": "posters-theme-4.html#posters",
     "title": "Theme 4 - Software Development and Research Enablement",
     "section": "",
-    "text": "&lt;p&gt;No posters have been submitted for this theme yet.&lt;/p&gt;"
+    "text": "Number\nName\nOrganisation\nPoster Title\n\n\n\n\n\nAndrew Bowerman\nANU\nTidy, analysis-ready output from ASReml-R models\n\n\n\nGusti Rais\nANU\nAAGIverse Project\n\n\n\nAaron Poruthoor\nAU\nAAGI Knowledge Chat\n\n\n\nMax Moldovan\nAU\nCrop Analytics Orchestra\n\n\n\nNandhini Subramanian\nAU\nAAGI-AU-RD-GIA Grains Industry Analytics Roadmap Generator\n\n\n\nRussell Edson\nAU\n{nert} and pynert: streamlined access to TERN’s national ecosystem maps with R and Python\n\n\n\nJayani Lakshika\nCU\ngrowR: Geographically weighted Regression for On-farm experiments With R"
   },
   {
     "objectID": "posters-theme-3.html",
     "href": "posters-theme-3.html",
     "title": "Theme 3 - Sensing, Imaging and Phenotyping",
     "section": "",
-    "text": "&lt;p&gt;No posters have been submitted for this theme yet.&lt;/p&gt;"
+    "text": "Number\nName\nOrganisation\nPoster Title\n\n\n\n\n\nPatrick Li\nANU\nFusion of attribution maps for automated canola blackleg severity scoring\n\n\n\nGeorge Malone\nCU\nEfficient unsupervised segmentation of X-ray fluorescence images in wheat pathology\n\n\n\nKefei Chen\nCU\nChickpea phenology and architecture: responses to temperature\n\n\n\nLeni Campbell-Clause\nCU\nSpatially-informed Chickpea Phytophthora Root Rot Management\n\n\n\nPeiye Li\nCU\nA Review on Hyperspectral Remote Sensing of Cereal Fungal Diseases: From Leaf Spectrum to Spaceborne Detection\n\n\n\nDavoud Ashourloo\nUQ\nRemote Sensing Based Crop Monitoring\n\n\n\nDung Nguyen\nUQ\nAAGI-UQ-RD-SIA Image-Based Deep Learning for Crop Type Discrimination\n\n\n\nKaiyu Guo\nUQ\nMungbean Root Phenotyping\n\n\n\nRuizhu Jiang\nUQ\nOperational Satellite Analytics for National Crop Phenology Mapping and Winter Crop Classification\n\n\n\nRukshan Karannagoda\nUQ\nTowards Efficient Crop Phenotyping using LVLMs\n\n\n\nShijie Wang\nUQ\nGeneric Wheat Disease Segmentation\n\n\n\nYan Zhao\nUQ\nBeyond Hyperspectral: Linking multi-scale hyperspectral signals to wheat stress, yield formation and grain quality"
   },
   {
     "objectID": "posters-theme-3.html#posters",
     "href": "posters-theme-3.html#posters",
     "title": "Theme 3 - Sensing, Imaging and Phenotyping",
     "section": "",
-    "text": "&lt;p&gt;No posters have been submitted for this theme yet.&lt;/p&gt;"
+    "text": "Number\nName\nOrganisation\nPoster Title\n\n\n\n\n\nPatrick Li\nANU\nFusion of attribution maps for automated canola blackleg severity scoring\n\n\n\nGeorge Malone\nCU\nEfficient unsupervised segmentation of X-ray fluorescence images in wheat pathology\n\n\n\nKefei Chen\nCU\nChickpea phenology and architecture: responses to temperature\n\n\n\nLeni Campbell-Clause\nCU\nSpatially-informed Chickpea Phytophthora Root Rot Management\n\n\n\nPeiye Li\nCU\nA Review on Hyperspectral Remote Sensing of Cereal Fungal Diseases: From Leaf Spectrum to Spaceborne Detection\n\n\n\nDavoud Ashourloo\nUQ\nRemote Sensing Based Crop Monitoring\n\n\n\nDung Nguyen\nUQ\nAAGI-UQ-RD-SIA Image-Based Deep Learning for Crop Type Discrimination\n\n\n\nKaiyu Guo\nUQ\nMungbean Root Phenotyping\n\n\n\nRuizhu Jiang\nUQ\nOperational Satellite Analytics for National Crop Phenology Mapping and Winter Crop Classification\n\n\n\nRukshan Karannagoda\nUQ\nTowards Efficient Crop Phenotyping using LVLMs\n\n\n\nShijie Wang\nUQ\nGeneric Wheat Disease Segmentation\n\n\n\nYan Zhao\nUQ\nBeyond Hyperspectral: Linking multi-scale hyperspectral signals to wheat stress, yield formation and grain quality"
   },
   {
     "objectID": "talks-panels-nodes-UQ.html",
@@ -42,11 +42,11 @@
     "text": "Summary\nHear from the University of Queensland node on AAGI tools and support, drone and satellite data for oats, wheat leaf area index (LAE) estimation, microphenotyping, and the use of large language models in agricultural grey literature."
   },
   {
-    "objectID": "talks-panels-nodes-UQ.html#talks",
-    "href": "talks-panels-nodes-UQ.html#talks",
+    "objectID": "talks-panels-nodes-UQ.html#agenda",
+    "href": "talks-panels-nodes-UQ.html#agenda",
     "title": "Strategic Partner:The University of Queensland",
-    "section": "Talks",
-    "text": "Talks\n\n9:00 AM - 9:15 AM | Scott Chapman\nAAGI-UQ: Welcome and Introduction\n9:15 AM - 9:30 AM | Sebastian Lopez Marzano\nAAGI Apps: The Secure Home for AAGI Tools\n9:30 AM - 9:45 AM | Javier Fernandez\nAn AAGI Support Case in Oats: Completing Drone Canopy Curves with Satellite Data\n9:45 AM - 10:00 AM | Qiaomin Chen\nKnowledge-Guided Cluster-Aware LAI Estimation and Its Application in Wheat Breeding\n10:00 AM - 10:15 AM | Shijie Wang\nAutomated Microphenotyping Analysis\n10:15 AM - 10:30 AM | Kaveesha Kohilamulla Arachchige\nThe Illusion of Complexity: Teaching LLMs to Understand Agricultural Grey Literature"
+    "section": "Agenda",
+    "text": "Agenda\n\n\n\n\nTIME\n\n\nSESSION\n\n\n\n\n\n\n09:00 - 09:15\n\n\nAAGI-UQ: Welcome and IntroductionScott Chapman\n\n\n\n\n09:15 - 09:30\n\n\nAAGI Apps: The Secure Home for AAGI ToolsSebastian Lopez Marzano\n\n\n\n\n09:30 - 09:45\n\n\nAn AAGI Support Case in Oats: Completing Drone Canopy Curves with Satellite DataJavier Fernandez\n\n\n\n\n09:45 - 10:00\n\n\nKnowledge-Guided Cluster-Aware LAI Estimation and Its Application in Wheat BreedingQiaomin Chen\n\n\n\n\n10:00 - 10:15\n\n\nAutomated Microphenotyping AnalysisShijie Wang\n\n\n\n\n10:15 - 10:30\n\n\nThe Illusion of Complexity: Teaching LLMs to Understand Agricultural Grey LiteratureKaveesha Kohilamulla Arachchige"
   },
   {
     "objectID": "talks-panels-nodes-AU.html",
@@ -63,11 +63,11 @@
     "text": "Summary\nHear about research, activities and emerging opportunities from the Adelaide University AAGI node."
   },
   {
-    "objectID": "talks-panels-nodes-AU.html#talks",
-    "href": "talks-panels-nodes-AU.html#talks",
+    "objectID": "talks-panels-nodes-AU.html#agenda",
+    "href": "talks-panels-nodes-AU.html#agenda",
     "title": "Strategic Partner:Adelaide University",
-    "section": "Talks",
-    "text": "Talks\nTalk titles and speaker details to be confirmed."
+    "section": "Agenda",
+    "text": "Agenda\n\n\n\n\nTIME\n\n\nSESSION\n\n\n\n\n\n\n09:00 - 09:15\n\n\nAAGI-AU Welcome & Overview 2026Julian Taylor\n\n\n\n\n09:15 - 09:30\n\n\nAnalysis of the National Variety TrialsNick Lambert\n\n\n\n\n09:30 - 09:45\n\n\nAAGI-AU analytics for breeding and pre-breeding investmentsHuanhuan Zhao\n\n\n\n\n09:45 - 10:00\n\n\nNational Industry Training Program: Building statistical and analytical capacity across the Australian grains industrySharon Nielsen\n\n\n\n\n10:00 - 10:15\n\n\nGrounded AI assistants for the grains industry: from knowledge to analytics and AI roadmapsStefan Podgorski\n\n\n\n\n10:15 - 10:30\n\n\nIntegrating mathematical models and field data for improved predictions of pest outbreaksSusan Nabifwo & Thilina Withanage"
   },
   {
     "objectID": "talks-panels-sp-leads.html",
@@ -95,7 +95,7 @@
     "href": "talks-panels.html",
     "title": "Talks & Panels",
     "section": "",
-    "text": "Explore the symposium talks and panel sessions below.\n\n\n\nCurtin University\n\n\nHear research talks from the Curtin University AAGI node.\n\n  \n\nThe University of Queensland\n\n\nHear research talks from the University of Queensland AAGI node.\n\n  \n\nAdelaide University\n\n\nHear research talks from the Adelaide University AAGI node.\n\n   \n\nIndustry, Government and Growers (IGG)\n\n\nExplore perspectives from industry, government and growers, followed by a panel Q&A.\n\n\n\n  \n\n\n \n\nAAGI Partners\n\n\nLearn about the work and perspectives of AAGI’s partner organisations.\n\n\n\n \n\n\n \n\n\n  \n\nHDR Networking\n\n\nConnect with fellow higher degree by research students during this networking and Q&A session.\n\n  \n\nStrategic Partner Leads and GRDC Q&A\n\n\nPut your questions to AAGI’s strategic partner leads and a GRDC representative in an Q&A, followed by an awards ceremony."
+    "text": "Explore the symposium talks and panel sessions below.\n\n\n\nCurtin University\n\n\nHear research talks from the Curtin University AAGI node.\n\n  \n\nThe University of Queensland\n\n\nHear research talks from the University of Queensland AAGI node.\n\n  \n\nAdelaide University\n\n\nHear research talks from the Adelaide University AAGI node.\n\n   \n\nIndustry, Government and Growers (IGG) Panel Session\n\n\nExplore perspectives from industry, government and growers.\n\n\n\n  \n\n\n \n\nAAGI Partners\n\n\nLearn about the work and perspectives of AAGI’s partner organisations.\n\n\n\n \n\n\n \n\n\n  \n\nHDR Networking\n\n\nConnect with fellow higher degree by research students during this networking and Q&A session.\n\n  \n\nStrategic Partner Leads and GRDC Q&A\n\n\nPut your questions to AAGI’s strategic partner leads and a GRDC representative in an Q&A, followed by an awards ceremony."
   },
   {
     "objectID": "posters.html",
@@ -123,14 +123,14 @@
     "href": "program.html#schedule-at-a-glance",
     "title": "Program",
     "section": "Schedule at a Glance",
-    "text": "Schedule at a Glance\n\n\n\n\nTime Block\nMon 9/11 (Day 0)\nTue 10/11 (Day 1)\nWed 11/11 (Day 2)\nThu 12/11 (Day 3)\n\n\n\n\n08:30 - 09:00\n\nWelcome and Opening Address\n\n\n\n\n09:00 - 10:30\nWorkshop (UQ/WUR)\nTalks: CU\nTalks: UQ\nTalks: AU\n\n\n10:30 - 11:00\n☕ Morning Tea\n☕ Morning Tea\n☕ Morning Tea\n☕ Morning Tea\n\n\n11:00 - 13:00\nWorkshop (UQ/WUR)\nWorkshop 1  AI in AAGI\nWorkshop 2  Trial Design\nStrategic Partner Leads and GRDC Q&A, including Awards 🏆\n\n\n\n\n\nWorkshop 3  Bioinformatics across AAGI\n\n\n\n13:00 - 14:00\n🥪 Lunch\n🥪 Lunch\n🥪 Lunch\n🥡 Take-away Lunch\n\n\n14:00 - 15:30\nWorkshop (UQ/WUR)\nIndustry, Government and Growers (IGG)\nTalks: AAGI partners\n\n\n\n\nBioinformatics Satellite (CU/UWA)\n\n\n\n\n\n15:30 - 16:00\n☕ Afternoon Tea\n☕ Afternoon Tea\n☕ Afternoon Tea\n\n\n\n16:00 - 16:30\nBioinformatics Satellite (CU/UWA)\nFree time\n👭 HDR Networking\n\n\n\n16:30 - 17:30\nBioinformatics Satellite (CU/UWA)\n📊 Poster Showcase\n👭 HDR Networking\n\n\n\n17:30 - 18:00\nBioinformatics Satellite (CU/UWA)\n📊 Poster Showcase\nFree time\n\n\n\n18:00 - 18:30\nFree time\n📊 Poster Showcase\nFree time\n\n\n\n18:30 - 20:30\n🥂 Welcome Mixer\n\n🍽️ Symposium Dinner"
+    "text": "Schedule at a Glance\n\n\n\n\nTime Block\nMon 9/11 (Day 0)\nTue 10/11 (Day 1)\nWed 11/11 (Day 2)\nThu 12/11 (Day 3)\n\n\n\n\n08:30 - 09:00\n\nWelcome and Opening Address\n\n\n\n\n09:00 - 10:30\nWorkshop (UQ/WUR)\nTalks: CU\nTalks: UQ\nTalks: AU\n\n\n10:30 - 11:00\n☕ Morning Tea\n☕ Morning Tea\n☕ Morning Tea\n☕ Morning Tea\n\n\n11:00 - 13:00\nWorkshop (UQ/WUR)\nWorkshop 1  AI in AAGI\nWorkshop 2  Trial Design\nStrategic Partner Leads and GRDC Q&A, including Awards 🏆\n\n\n\n\n\nWorkshop 3  Bioinformatics across AAGI\n\n\n\n13:00 - 14:00\n🥪 Lunch\n🥪 Lunch\n🥪 Lunch\n🥡 Take-away Lunch\n\n\n14:00 - 15:30\nWorkshop (UQ/WUR)\nIndustry, Government and Growers (IGG)\nTalks: AAGI partners\n\n\n\n\nBioinformatics Satellite (CU/UWA)\n\n\n\n\n\n15:30 - 16:00\n☕ Afternoon Tea\n☕ Afternoon Tea\n☕ Afternoon Tea\n\n\n\n16:00 - 16:30\nBioinformatics Satellite (CU/UWA)\nFree time\n👭 HDR & ECR\n\n\n\n16:30 - 17:30\nBioinformatics Satellite (CU/UWA)\n📊 Poster Showcase\n👭 HDR & ECR\n\n\n\n17:30 - 18:00\nBioinformatics Satellite (CU/UWA)\n📊 Poster Showcase\nFree time\n\n\n\n18:00 - 18:30\nFree time\n📊 Poster Showcase\nFree time\n\n\n\n18:30 - 20:30\n🥂 Welcome Mixer\n\n🍽️ Symposium Dinner"
   },
   {
     "objectID": "program.html#daily-schedule",
     "href": "program.html#daily-schedule",
     "title": "Program",
     "section": "Daily Schedule",
-    "text": "Daily Schedule\n\nDay 0: Monday 9/11Day 1: Tuesday 10/11Day 2: Wednesday 11/11Day 3: Thursday 12/11\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nWorkshop (UQ/WUR)  Splines / Random Regression\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop (UQ/WUR)  GxE\nMurray Room\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nWorkshop (UQ/WUR)  ODEs\nMurray Room\n\n\n\nBioinformatics Satellite (CU/UWA)  Emerging Tools and Data-Driven Approaches in Crop Research\nRoom 212, Curtin Business School, 78 Murray Street\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 18:00\nBioinformatics Satellite (CU/UWA)  Emerging Tools and Data-Driven Approaches in Crop Research\nRoom 212, Curtin Business School, 78 Murray Street\n\n\n18:00 - 18:30\nFree time\n\n\n\n18:30 - 20:30\n🥂 Welcome Mixer  Networking Social Evening\nQT Rooftop Bar\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n08:30 - 09:00\nWelcome and Opening Address  Nathan O’Callaghan and Tom Giles (GRDC)\nMurray Room\n\n\n09:00 - 10:30\nTalks: CU\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nSantini Bar\n\n\n11:00 - 13:00\nWorkshop 1  AI in AAGI: From Tools to Workflows\nMurray Room\n\n\n13:00 - 14:00\n🥪 Lunch\nSantini Bar\n\n\n14:00 - 15:30\nIndustry, Government and Growers (IGG)\nMurray Room\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nSantini Bar\n\n\n16:00 - 16:30\nFree time\n\n\n\n16:30 - 18:30\n📊 Poster Showcase\nMurray Room\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nTalks: UQ\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop 2  Efficient Trial Design with speed\nMurray Room\n\n\n\nWorkshop 3  Bioinformatics across AAGI: Automating Reproducible Bioinformatics Workflows\nRoom Gallery, Curtin 137 St Georges Terrace\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nTalks: AAGI partners\nMurray Room\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 17:30\n👭 HDR Networking\nMurray Room\n\n\n17:30 - 18:30\nFree time\n\n\n\n18:30 - 20:30\n🍽️ Symposium Dinner\nThe Lucky Shag Waterfront Bar, Old Perth Port, Barrack Square\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nTalks: AU\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nStrategic Partner Leads and GRDC Q&A, including Awards 🏆  Question and Awards time\nMurray Room\n\n\n13:00 - 14:00\n🥡 Take-away Lunch & Departure\nMurray Room"
+    "text": "Daily Schedule\n\nDay 0: Monday 9/11Day 1: Tuesday 10/11Day 2: Wednesday 11/11Day 3: Thursday 12/11\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nWorkshop (UQ/WUR)  Splines / Random Regression\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop (UQ/WUR)  GxE\nMurray Room\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nWorkshop (UQ/WUR)  ODEs\nMurray Room\n\n\n\nBioinformatics Satellite (CU/UWA)  Emerging Tools and Data-Driven Approaches in Crop Research\nRoom 212, Curtin Business School, 78 Murray Street\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 18:00\nBioinformatics Satellite (CU/UWA)  Emerging Tools and Data-Driven Approaches in Crop Research\nRoom 212, Curtin Business School, 78 Murray Street\n\n\n18:00 - 18:30\nFree time\n\n\n\n18:30 - 20:30\n🥂 Welcome Mixer  Networking Social Evening\nQT Rooftop Bar\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n08:30 - 09:00\nWelcome and Opening Address  Nathan O’Callaghan and Tom Giles (GRDC)\nMurray Room\n\n\n09:00 - 10:30\nTalks: CU\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nSantini Bar\n\n\n11:00 - 13:00\nWorkshop 1  AI in AAGI: From Tools to Workflows\nMurray Room\n\n\n13:00 - 14:00\n🥪 Lunch\nSantini Bar\n\n\n14:00 - 15:30\nIndustry, Government and Growers (IGG)\nMurray Room\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nSantini Bar\n\n\n16:00 - 16:30\nFree time\n\n\n\n16:30 - 18:30\n📊 Poster Showcase\nMurray Room\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nTalks: UQ\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nWorkshop 2  Efficient Trial Design with speed\nMurray Room\n\n\n\nWorkshop 3  Bioinformatics across AAGI: Automating Reproducible Bioinformatics Workflows\nRoom Gallery, Curtin 137 St Georges Terrace\n\n\n13:00 - 14:00\n🥪 Lunch\nMurray Room\n\n\n14:00 - 15:30\nTalks: AAGI partners\nMurray Room\n\n\n15:30 - 16:00\n☕ Afternoon Tea\nMurray Room\n\n\n16:00 - 17:30\n👭 HDR & ECR\nMurray Room\n\n\n17:30 - 18:30\nFree time\n\n\n\n18:30 - 20:30\n🍽️ Symposium Dinner\nThe Lucky Shag Waterfront Bar, Old Perth Port, Barrack Square\n\n\n\n\n\n\n\n\nTime\nSession\nLocation\n\n\n\n\n09:00 - 10:30\nTalks: AU\nMurray Room\n\n\n10:30 - 11:00\n☕ Morning Tea\nMurray Room\n\n\n11:00 - 13:00\nStrategic Partner Leads and GRDC Q&A, including Awards 🏆  Question and Awards time\nMurray Room\n\n\n13:00 - 14:00\n🥡 Take-away Lunch & Departure\nMurray Room"
   },
   {
     "objectID": "index.html",
@@ -263,14 +263,14 @@
     "href": "talks-panels-nodes-CU.html#summary",
     "title": "Strategic Partner:Curtin University",
     "section": "Summary",
-    "text": "Summary\nHear about research, activities and emerging opportunities from the Curtin University AAGI node."
+    "text": "Summary\nHear how the Curtin AAGI node supports industry responses to spatial variability, advances multivariate spatial modelling and bioinformatics, and applies analytics to gene-trait research and soilborne disease. The program also covers analytical thinking in research practice and new initiatives at AAGI Curtin."
   },
   {
-    "objectID": "talks-panels-nodes-CU.html#talks",
-    "href": "talks-panels-nodes-CU.html#talks",
+    "objectID": "talks-panels-nodes-CU.html#agenda",
+    "href": "talks-panels-nodes-CU.html#agenda",
     "title": "Strategic Partner:Curtin University",
-    "section": "Talks",
-    "text": "Talks\nTalk titles and speaker details to be confirmed."
+    "section": "Agenda",
+    "text": "Agenda\n\n\n\n\nTIME\n\n\nSESSION\n\n\n\n\n\n\n09:00 - 09:20\n\n\nAAGI at CurtinMark Gibberd\n\n\n\n\n09:20 - 09:30\n\n\nISD3M: Enabling Industry to Respond to Spatial Variability in an Ever-Changing EnvironmentBraden Thorne\n\n\n\n\n09:30 - 09:40\n\n\nResponse-variation subspaces for multivariate varying-coefficient fieldsKai Bagley\n\n\n\n\n09:40 - 09:50\n\n\nDiscovery, Innovation, Impact: Bioinformatics Across ScalesKristina Gagalova and Pavel Misiun\n\n\n\n\n09:50 - 10:00\n\n\nGene-Trait AnalyticsKefei Chen\n\n\n\n\n10:00 - 10:10\n\n\nService and Support: Coordinated Analytics Across a National Soilborne Disease Research InvestmentLeni Campbell-Clause\n\n\n\n\n10:10 - 10:20\n\n\nUpskilling and Awareness: Making Analytical Thinking Integral to Research PracticeBarbara Kachigunda\n\n\n\n\n10:20 - 10:30\n\n\nNew Initiatives at AAGI CurtinAdam Sparks"
   },
   {
     "objectID": "workshop-2.html",
@@ -296,23 +296,23 @@
   {
     "objectID": "talks-panels-hdr.html",
     "href": "talks-panels-hdr.html",
-    "title": "HDR Networking",
+    "title": "Higher Degree by Research (HDR) Students and Early Career Researchers (ECR) Panel Session",
     "section": "",
     "text": "Date: Wednesday 11 November 2026\nTime: 16:00 - 17:30\nVenue: QT Perth, Murray Room\nChair: Mark Gibberd"
   },
   {
     "objectID": "talks-panels-hdr.html#summary",
     "href": "talks-panels-hdr.html#summary",
-    "title": "HDR Networking",
+    "title": "Higher Degree by Research (HDR) Students and Early Career Researchers (ECR) Panel Session",
     "section": "Summary",
-    "text": "Summary\nThe Higher Degree by Research (HDR) session brings together HDR students and early career researchers from across AAGI for a panel and interactive Q&A. The session will provide an opportunity to connect with peers, experienced researchers and industry representatives, exchange experiences and gain insights into navigating research careers. Discussion will explore career development, industry engagement, mentoring and the transition from academic research to industry and other career pathways. The panel will also encourage participants to reflect on the skills, networks and opportunities that can support their professional growth, while fostering connections across the AAGI community and strengthening links between emerging researchers and the broader grains research sector."
+    "text": "Summary\nThe Higher Degree by Research (HDR) student and Early Career Researchers (ECR) session brings together HDR students and early career researchers from across AAGI for a panel and interactive Q&A. The session will provide an opportunity to connect with peers, experienced researchers and industry representatives, exchange experiences and gain insights into navigating research careers. Discussion will explore career development, industry engagement, mentoring and the transition from academic research to industry and other career pathways. The panel will also encourage participants to reflect on the skills, networks and opportunities that can support their professional growth, while fostering connections across the AAGI community and strengthening links between emerging researchers and the broader grains research sector."
   },
   {
     "objectID": "talks-panels-hdr.html#panel-members",
     "href": "talks-panels-hdr.html#panel-members",
-    "title": "HDR Networking",
+    "title": "Higher Degree by Research (HDR) Students and Early Career Researchers (ECR) Panel Session",
     "section": "Panel Members",
-    "text": "Panel Members\n\n\n\n\n\nScott Chapman\n\n\nThe University of Queensland (UQ), Australia\n\n\n\n\n\n\n\n\n\nFred van Eeuwijk\n\n\nWageningen University & Research (WUR), Netherlands\n\n\n\n\n\n\n\n\n\nPeter Bird\n\n\nGrains Research and Development Corporation (GRDC-West), Australia\n\n\n\n\n\n\n\n\n\nJulia Easton\n\n\nCurtin University (CU), Australia\n\n\n\n\n\n\n\n\n\nKate Trinajstic\n\n\nCurtin University (CU), Australia"
+    "text": "Panel Members\n\n\n\n\n\nScott Chapman\n\n\nThe University of Queensland (UQ), Australia\n\n\n\n\n\n\n\n\n\nFred van Eeuwijk\n\n\nWageningen University & Research (WUR), Netherlands\n\n\n\n\n\n\n\n\n\nPeter Bird\n\n\nGrains Research and Development Corporation (GRDC-West), Australia\n\n\n\n\n\n\n\n\n\nKate Trinajstic\n\n\nCurtin University (CU), Australia\n\n\n\n\n\n\n\n\n\nFatima Naim\n\n\nCurtin University (CU), Australia"
   },
   {
     "objectID": "talks-panels-partners.html",
@@ -366,23 +366,23 @@
   {
     "objectID": "talks-panels-igg.html",
     "href": "talks-panels-igg.html",
-    "title": "Industry, Government and Growers (IGG)",
+    "title": "Industry, Government and Growers (IGG) Panel Session",
     "section": "",
-    "text": "Date: Tuesday 10 November 2026\nTime: 14:00 - 15:30\nVenue: QT Perth, Murray Room\nChair: Julia Easton"
+    "text": "Date: Tuesday 10 November 2026\nTime: 14:00 - 15:30\nVenue: QT Perth, Murray Room\nChair: Mark Gibberd"
   },
   {
     "objectID": "talks-panels-igg.html#summary",
     "href": "talks-panels-igg.html#summary",
-    "title": "Industry, Government and Growers (IGG)",
+    "title": "Industry, Government and Growers (IGG) Panel Session",
     "section": "Summary",
-    "text": "Summary\nChaired by Julia Easton, the Industry, Government and Growers (IGG) session brings together perspectives from across the Australian grains sector to explore how research, data and analytics can address industry needs and support innovation. The session is being planned as a panel discussion, with representatives from industry, government and grower groups sharing current priorities, practical challenges and opportunities for collaboration with AAGI. It will provide an opportunity to exchange ideas and discuss how AAGI can continue to deliver value for the Australian grains industry."
+    "text": "Summary\nChaired by Mark Gibberd, the Industry, Government and Growers (IGG) session brings together perspectives from across the Australian grains sector to explore how research, data and analytics can address industry needs and support innovation. The session is being planned as a panel discussion, with representatives from industry, government and grower groups sharing current priorities, practical challenges and opportunities for collaboration with AAGI. It will provide an opportunity to exchange ideas and discuss how AAGI can continue to deliver value for the Australian grains industry."
   },
   {
     "objectID": "talks-panels-igg.html#speakers",
     "href": "talks-panels-igg.html#speakers",
-    "title": "Industry, Government and Growers (IGG)",
+    "title": "Industry, Government and Growers (IGG) Panel Session",
     "section": "Speakers",
-    "text": "Speakers\n\n\n\n\n\nPeter Bird\n\n\nGrains Research and Development Corporation (GRDC-West), Australia\n\n\n\n\n\n\n\n\n\n\nDion Bennett\n\n\nAustralian Grain Technologies (AGT), Australia\n\n\n\n\n\n\n\n\n\n\nDaniel Kidd\n\n\nGrower Group Alliance (GGA), Australia\n\n\n\n\n\nOthers to be confirmed."
+    "text": "Speakers\n\n\n\n\n\nPeter Bird\n\n\nGrains Research and Development Corporation (GRDC-West)\n\n\n\n\n\n\n\n\n\n\nDion Bennett\n\n\nAustralian Grain Technologies (AGT)\n\n\n\n\n\n\n\n\n\n\nDaniel Kidd\n\n\nGrower Group Alliance (GGA)\n\n\n\n\n\n\n\n\n\n\nMoreno Mattaboni\n\n\nNGIS Australia\n\n\n\n\n\n\n\n\n\n\nJoe Eyre\n\n\nThe University of Queensland (UQ)"
   },
   {
     "objectID": "workshop-bioinfo-satellite.html",
@@ -403,7 +403,7 @@
     "href": "workshop-bioinfo-satellite.html#agenda",
     "title": "Bioinformatics Satellite MeetingApplied Bioinformatics: Emerging Tools and Data-Driven Approaches in Crop Research",
     "section": "Agenda",
-    "text": "Agenda\n\n\n\n\nTIME\n\n\nSESSION\n\n\n\n\n\n\n14:00 - 14:05\n\n\nWelcome and IntroductionDave Edwards (UWA)\n\n\n\n\n14:05 - 14:20\n\n\nComparing gene presence/absence variation between Orthofinder and pangenome graphsMitchell Bestry (UWA/AAGI)\n\n\n\n\n14:20 - 14:35\n\n\nCapturing the missing gene content of elite wheat by analysis of wheat landracesTeng Li (UWA)\n\n\n\n\n14:35 - 14:50\n\n\nInteractive visualization of synteny and structural variationWasin Pipattungsakul\n\n\n\n\n14:50 - 15:05\n\n\nLeveraging pangenomic features for trait prediction in soybeanShriprabha Upadhyaya (UWA)\n\n\n\n\n15:05 - 15:20\n\n\nApplying Bioinformatics to Crop Improvement: Mining Natural Variation at the TRY Locus for Insect-Resistant CanolaThomas Bergmann (UWA)\n\n\n\n\n15:20 - 15:35\n\n\nIntegrating SNPs, functional InDel features, and machine learning to identify genetic variants associated with common bacterial blight resistance in common beanShameela Mohamedikbal (UWA)\n\n\n\n\n15:35 - 15:50\n\n\nCharacterising structural variation in the Brassica host and blackleg pathogen genomesFelipe Albornoz (UWA)\n\n\n\n\n\n\n15:50 - 16:20   Break\n\n\n\n\n16:20 - 16:35\n\n\nFrom isoforms to Starships: multi-omic insights into barley and Pyrenophora teres f. teres interactionsYutathkarn (Daniel) Coles\n\n\n\n\n16:35 - 16:50\n\n\nBenchmarking structural predictors and pLM binary classifiers for predicting cross-kingdom protein-protein interactions in crop disease pathosystemsPavel Misiun and Fatima Naim\n\n\n\n\n16:50 - 17:05\n\n\nAutomated literature mining and LLM-based database curation for crop scienceJack Bruton (UWA)\n\n\n\n\n17:05 - 17:20\n\n\nHow can haplotypes and machine learning improve genomic selection in Brassica napusTessa MacNish (UWA)\n\n\n\n\n17:20 - 17:35\n\n\nMultimodal machine learning and explainable AI uncovers genomic regions associated with wheat yield predictionRohini Trivedi (UWA)\n\n\n\n\n17:35 - 17:45\n\n\nA comparative analysis on training population optimization for genomic prediction in wheatZe Wu (UWA)\n\n\n\n\n17:45 - 17:55\n\n\nBioinformatics and machine learning approaches to investigate the genetic basis of drought stress response in legumesNimesha Kankanamge (UWA)\n\n\n\n\n17:55 - 18:00\n\n\nThanks and wrap upDave Edwards (UWA)"
+    "text": "Agenda\n\n\n\n\nTIME\n\n\nSESSION\n\n\n\n\n\n\n14:00 - 14:05\n\n\nWelcome and IntroductionDave Edwards (UWA)\n\n\n\n\n14:05 - 14:20\n\n\nComparing gene presence/absence variation between Orthofinder and pangenome graphsMitchell Bestry (UWA)\n\n\n\n\n14:20 - 14:35\n\n\nCapturing the missing gene content of elite wheat by analysis of wheat landracesTeng Li (UWA)\n\n\n\n\n14:35 - 14:50\n\n\nInteractive visualization of synteny and structural variationWasin Pipattungsakul (AU)\n\n\n\n\n14:50 - 15:05\n\n\nLeveraging pangenomic features for trait prediction in soybeanShriprabha Upadhyaya (UWA)\n\n\n\n\n15:05 - 15:20\n\n\nApplying Bioinformatics to Crop Improvement: Mining Natural Variation at the TRY Locus for Insect-Resistant CanolaThomas Bergmann (UWA)\n\n\n\n\n15:20 - 15:35\n\n\nIntegrating SNPs, functional InDel features, and machine learning to identify genetic variants associated with common bacterial blight resistance in common beanShameela Mohamedikbal (UWA)\n\n\n\n\n15:35 - 15:50\n\n\nCharacterising structural variation in the Brassica host and blackleg pathogen genomesFelipe Albornoz (UWA)\n\n\n\n\n\n\n15:50 - 16:20   Break\n\n\n\n\n16:20 - 16:35\n\n\nFrom isoforms to Starships: multi-omic insights into barley and Pyrenophora teres f. teres interactionsYutathkarn (Daniel) Coles and Fatima Naim (CU)\n\n\n\n\n16:35 - 16:50\n\n\nBenchmarking structural predictors and pLM binary classifiers for predicting cross-kingdom protein-protein interactions in crop disease pathosystemsPavel Misiun and Kristina Gagalova (CU)\n\n\n\n\n16:50 - 17:05\n\n\nAutomated literature mining and LLM-based database curation for crop scienceJack Bruton (UWA)\n\n\n\n\n17:05 - 17:20\n\n\nHow can haplotypes and machine learning improve genomic selection in Brassica napusTessa MacNish (UWA)\n\n\n\n\n17:20 - 17:35\n\n\nMultimodal machine learning and explainable AI uncovers genomic regions associated with wheat yield predictionRohini Trivedi (UWA)\n\n\n\n\n17:35 - 17:45\n\n\nA comparative analysis on training population optimization for genomic prediction in wheatZe Wu (UWA)\n\n\n\n\n17:45 - 17:55\n\n\nBioinformatics and machine learning approaches to investigate the genetic basis of drought stress response in legumesNimesha Kankanamge (UWA)\n\n\n\n\n17:55 - 18:00\n\n\nThanks and wrap upDave Edwards (UWA)"
   },
   {
     "objectID": "social-events.html",
@@ -431,28 +431,28 @@
     "href": "posters-theme-1.html",
     "title": "Theme 1 - Quantitative Methods, Analytics and Decision Science",
     "section": "",
-    "text": "Sandra Tanz"
+    "text": "Number\nName\nOrganisation\nPoster Title\n\n\n\n\n\nEmi Tanaka\nANU\nFlexible heritability estimation from linear mixed models\n\n\n\nAidan Moller\nAU\nStepping Towards Causal Learning in Agriculture\n\n\n\nSusan Nabifwo\nAU\nData-informed mathematical models for predicting locust hopper band movement and optimising control.\n\n\n\nThilina Rukshila Withanage\nAU\nAhead of the Outbreak: Turning Field Data into Better House Mouse Outbreak Predictions\n\n\n\nBraden Thorne\nCU\nFunctional Data Analysis for Assessing the Economic Impact of Soilborne Diseases\n\n\n\nJulia Easton\nCU\nFarm Zone Management Using TI-NDVI and Fuzzy Clustering\n\n\n\nKai Bagley\nCU\nResponse-variation subspaces for multivariate varying-coefficient fields\n\n\n\nMatthew Nguyen\nCU\npreparing OFE data for LMM analysis\n\n\n\nSandra Tanz\nCU\nTrait stability across the paddock: Closely related wheat varieties in on-farm trials\n\n\n\nSiyi Li\nUQ\nExploring unrealized Australian wheat yield potential\n\n\n\nVanessa Lopez Corona\nUQ\nReinforcement Learning for Sustainable Crop Management under Uncertainty"
   },
   {
     "objectID": "posters-theme-1.html#posters",
     "href": "posters-theme-1.html#posters",
     "title": "Theme 1 - Quantitative Methods, Analytics and Decision Science",
     "section": "",
-    "text": "Sandra Tanz"
+    "text": "Number\nName\nOrganisation\nPoster Title\n\n\n\n\n\nEmi Tanaka\nANU\nFlexible heritability estimation from linear mixed models\n\n\n\nAidan Moller\nAU\nStepping Towards Causal Learning in Agriculture\n\n\n\nSusan Nabifwo\nAU\nData-informed mathematical models for predicting locust hopper band movement and optimising control.\n\n\n\nThilina Rukshila Withanage\nAU\nAhead of the Outbreak: Turning Field Data into Better House Mouse Outbreak Predictions\n\n\n\nBraden Thorne\nCU\nFunctional Data Analysis for Assessing the Economic Impact of Soilborne Diseases\n\n\n\nJulia Easton\nCU\nFarm Zone Management Using TI-NDVI and Fuzzy Clustering\n\n\n\nKai Bagley\nCU\nResponse-variation subspaces for multivariate varying-coefficient fields\n\n\n\nMatthew Nguyen\nCU\npreparing OFE data for LMM analysis\n\n\n\nSandra Tanz\nCU\nTrait stability across the paddock: Closely related wheat varieties in on-farm trials\n\n\n\nSiyi Li\nUQ\nExploring unrealized Australian wheat yield potential\n\n\n\nVanessa Lopez Corona\nUQ\nReinforcement Learning for Sustainable Crop Management under Uncertainty"
   },
   {
     "objectID": "posters-theme-2.html",
     "href": "posters-theme-2.html",
     "title": "Theme 2 - Genomics, Genetics and Bioinformatics",
     "section": "",
-    "text": "&lt;p&gt;No posters have been submitted for this theme yet.&lt;/p&gt;"
+    "text": "Number\nName\nOrganisation\nPoster Title\n\n\n\n\n\nBeata Sznajder\nAU\nImproving the efficiency of QTL/GWAS analytics\n\n\n\nMario Fruzangohar\nAU\nCoreDetector: scalable, chromosome-agnostic core-genome alignment for structural-variation discovery in polyploid wheat\n\n\n\nRichard Pinter\nAU\nAAGI-AU-RD-HAP: Is Deep Learning Nearing Optimal Haplotype MEC?\n\n\n\nZhuo (Jo) Huang\nAU\nCausal World Model for Genomic Prediction\n\n\n\nIrina Kuznetsova\nCU\nscShardSplitRef: gene-aware sharding of large chromosomes\n\n\n\nKristina Gagalova\nCU\nPanAnnoGraph: from gene presence/absence to functional gene states in pangenome graphs\n\n\n\nPavel Misiun\nCU\nBenchmarking structural predictors and pLM binary classifiers for predicting cross-kingdom protein-protein interactions in crop disease pathosystems\n\n\n\nUlduz Vafadarshamasbi\nCU\nLooking beyond the QTL peak\n\n\n\nYutathkarn (Daniel) Coles\nCU\nUnpacking genomic mechanisms underpinning rapid adaptation of barley net blotch disease\n\n\n\nDinesha Jayawardana\nUQ\nBridging the SNP-to-Gene Gap using eQTL Mapping and Network Analysis\n\n\n\nMitchell Bestry\nUWA\nUWA Applied Bioinformatics Group"
   },
   {
     "objectID": "posters-theme-2.html#posters",
     "href": "posters-theme-2.html#posters",
     "title": "Theme 2 - Genomics, Genetics and Bioinformatics",
     "section": "",
-    "text": "&lt;p&gt;No posters have been submitted for this theme yet.&lt;/p&gt;"
+    "text": "Number\nName\nOrganisation\nPoster Title\n\n\n\n\n\nBeata Sznajder\nAU\nImproving the efficiency of QTL/GWAS analytics\n\n\n\nMario Fruzangohar\nAU\nCoreDetector: scalable, chromosome-agnostic core-genome alignment for structural-variation discovery in polyploid wheat\n\n\n\nRichard Pinter\nAU\nAAGI-AU-RD-HAP: Is Deep Learning Nearing Optimal Haplotype MEC?\n\n\n\nZhuo (Jo) Huang\nAU\nCausal World Model for Genomic Prediction\n\n\n\nIrina Kuznetsova\nCU\nscShardSplitRef: gene-aware sharding of large chromosomes\n\n\n\nKristina Gagalova\nCU\nPanAnnoGraph: from gene presence/absence to functional gene states in pangenome graphs\n\n\n\nPavel Misiun\nCU\nBenchmarking structural predictors and pLM binary classifiers for predicting cross-kingdom protein-protein interactions in crop disease pathosystems\n\n\n\nUlduz Vafadarshamasbi\nCU\nLooking beyond the QTL peak\n\n\n\nYutathkarn (Daniel) Coles\nCU\nUnpacking genomic mechanisms underpinning rapid adaptation of barley net blotch disease\n\n\n\nDinesha Jayawardana\nUQ\nBridging the SNP-to-Gene Gap using eQTL Mapping and Network Analysis\n\n\n\nMitchell Bestry\nUWA\nUWA Applied Bioinformatics Group"
   },
   {
     "objectID": "venue-travel.html",

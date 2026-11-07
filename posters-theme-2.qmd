@@ -4,8 +4,16 @@ title: '<span class="workshop-title-text">Theme 2 - Genomics, Genetics and Bioin
 
 ## Posters
 
-<div class="poster-gallery">
-  <div class="poster-card">
-    <p>No posters have been submitted for this theme yet.</p>
-  </div>
-</div>
+| Number | Name | Organisation | Poster Title |
+|:--|:----|:--|:----------|
+|  | **Beata Sznajder** | AU | Improving the efficiency of QTL/GWAS analytics |
+|  | **Mario Fruzangohar** | AU | CoreDetector: scalable, chromosome-agnostic core-genome alignment for structural-variation discovery in polyploid wheat |
+|  | **Richard Pinter** | AU | AAGI-AU-RD-HAP: Is Deep Learning Nearing Optimal Haplotype MEC? |
+|  | **Zhuo (Jo) Huang** | AU | Causal World Model for Genomic Prediction |
+|  | **Irina Kuznetsova** | CU | scShardSplitRef: gene-aware sharding of large chromosomes |
+|  | **Kristina Gagalova** | CU | PanAnnoGraph: from gene presence/absence to functional gene states in pangenome graphs |
+|  | **Pavel Misiun** | CU | Benchmarking structural predictors and pLM binary classifiers for predicting cross-kingdom protein-protein interactions in crop disease pathosystems |
+|  | **Ulduz Vafadarshamasbi** | CU | Looking beyond the QTL peak |
+|  | **Yutathkarn (Daniel) Coles** | CU | Unpacking genomic mechanisms underpinning rapid adaptation of barley net blotch disease |
+|  | **Dinesha Jayawardana** | UQ | Bridging the SNP-to-Gene Gap using eQTL Mapping and Network Analysis |
+|  | **Mitchell Bestry** | UWA | UWA Applied Bioinformatics Group |

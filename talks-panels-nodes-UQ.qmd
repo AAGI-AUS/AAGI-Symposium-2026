@@ -12,17 +12,18 @@ title: '<span class="uq-title-text">Strategic Partner:<br>The University of Quee
 
 Hear from the University of Queensland node on AAGI tools and support, drone and satellite data for oats, wheat leaf area index (LAE) estimation, microphenotyping, and the use of large language models in agricultural grey literature.
 
-## Talks
+## Agenda
 
-- **9:00 AM - 9:15 AM | Scott Chapman**  
-  *AAGI-UQ: Welcome and Introduction*
-- **9:15 AM - 9:30 AM | Sebastian Lopez Marzano**  
-  *AAGI Apps: The Secure Home for AAGI Tools*
-- **9:30 AM - 9:45 AM | Javier Fernandez**  
-  *An AAGI Support Case in Oats: Completing Drone Canopy Curves with Satellite Data*
-- **9:45 AM - 10:00 AM | Qiaomin Chen**  
-  *Knowledge-Guided Cluster-Aware LAI Estimation and Its Application in Wheat Breeding*
-- **10:00 AM - 10:15 AM | Shijie Wang**  
-  *Automated Microphenotyping Analysis*
-- **10:15 AM - 10:30 AM | Kaveesha Kohilamulla Arachchige**  
-  *The Illusion of Complexity: Teaching LLMs to Understand Agricultural Grey Literature*
+<table class="table">
+<thead>
+<tr><th scope="col">TIME</th><th scope="col">SESSION</th></tr>
+</thead>
+<tbody>
+<tr><td style="white-space: nowrap"><strong>09:00 - 09:15</strong></td><td><strong>AAGI-UQ: Welcome and Introduction</strong><br><em>Scott Chapman</em></td></tr>
+<tr><td style="white-space: nowrap"><strong>09:15 - 09:30</strong></td><td><strong>AAGI Apps: The Secure Home for AAGI Tools</strong><br><em>Sebastian Lopez Marzano</em></td></tr>
+<tr><td style="white-space: nowrap"><strong>09:30 - 09:45</strong></td><td><strong>An AAGI Support Case in Oats: Completing Drone Canopy Curves with Satellite Data</strong><br><em>Javier Fernandez</em></td></tr>
+<tr><td style="white-space: nowrap"><strong>09:45 - 10:00</strong></td><td><strong>Knowledge-Guided Cluster-Aware LAI Estimation and Its Application in Wheat Breeding</strong><br><em>Qiaomin Chen</em></td></tr>
+<tr><td style="white-space: nowrap"><strong>10:00 - 10:15</strong></td><td><strong>Automated Microphenotyping Analysis</strong><br><em>Shijie Wang</em></td></tr>
+<tr><td style="white-space: nowrap"><strong>10:15 - 10:30</strong></td><td><strong>The Illusion of Complexity: Teaching LLMs to Understand Agricultural Grey Literature</strong><br><em>Kaveesha Kohilamulla Arachchige</em></td></tr>
+</tbody>
+</table>

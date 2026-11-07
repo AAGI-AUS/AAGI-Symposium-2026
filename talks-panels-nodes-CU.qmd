@@ -10,8 +10,22 @@ title: '<span class="cu-title-text">Strategic Partner:<br>Curtin University</spa
 
 ## Summary
 
-Hear about research, activities and emerging opportunities from the Curtin University AAGI node.
+Hear how the Curtin AAGI node supports industry responses to spatial variability, advances multivariate spatial modelling and bioinformatics, and applies analytics to gene-trait research and soilborne disease. The program also covers analytical thinking in research practice and new initiatives at AAGI Curtin.
 
-## Talks
+## Agenda
 
-Talk titles and speaker details to be confirmed.
+<table class="table">
+<thead>
+<tr><th scope="col">TIME</th><th scope="col">SESSION</th></tr>
+</thead>
+<tbody>
+<tr><td style="white-space: nowrap"><strong>09:00 - 09:20</strong></td><td><strong>AAGI at Curtin</strong><br><em>Mark Gibberd</em><br></td></tr>
+<tr><td style="white-space: nowrap"><strong>09:20 - 09:30</strong></td><td><strong>ISD3M: Enabling Industry to Respond to Spatial Variability in an Ever-Changing Environment</strong><br><em>Braden Thorne</em></td></tr>
+<tr><td style="white-space: nowrap"><strong>09:30 - 09:40</strong></td><td><strong>Response-variation subspaces for multivariate varying-coefficient fields</strong><br><em>Kai Bagley</em></td></tr>
+<tr><td style="white-space: nowrap"><strong>09:40 - 09:50</strong></td><td><strong>Discovery, Innovation, Impact: Bioinformatics Across Scales</strong><br><em>Kristina Gagalova and Pavel Misiun</em></td></tr>
+<tr><td style="white-space: nowrap"><strong>09:50 - 10:00</strong></td><td><strong>Gene-Trait Analytics</strong><br><em>Kefei Chen</em></td></tr>
+<tr><td style="white-space: nowrap"><strong>10:00 - 10:10</strong></td><td><strong>Service and Support: Coordinated Analytics Across a National Soilborne Disease Research Investment</strong><br><em>Leni Campbell-Clause</em></td></tr>
+<tr><td style="white-space: nowrap"><strong>10:10 - 10:20</strong></td><td><strong>Upskilling and Awareness: Making Analytical Thinking Integral to Research Practice</strong><br><em>Barbara Kachigunda</em></td></tr>
+<tr><td style="white-space: nowrap"><strong>10:20 - 10:30</strong></td><td><strong>New Initiatives at AAGI Curtin</strong><br><em>Adam Sparks</em></td></tr>
+</tbody>
+</table>

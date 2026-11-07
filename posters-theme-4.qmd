@@ -4,8 +4,12 @@ title: '<span class="workshop-title-text">Theme 4 - Software Development and Res
 
 ## Posters
 
-<div class="poster-gallery">
-  <div class="poster-card">
-    <p>No posters have been submitted for this theme yet.</p>
-  </div>
-</div>
+| Number | Name | Organisation | Poster Title |
+|:--|:----|:--|:----------|
+|  | **Andrew Bowerman** | ANU | Tidy, analysis-ready output from ASReml-R models |
+|  | **Gusti Rais** | ANU | AAGIverse Project |
+|  | **Aaron Poruthoor** | AU | AAGI Knowledge Chat |
+|  | **Max Moldovan** | AU | Crop Analytics Orchestra |
+|  | **Nandhini Subramanian** | AU | AAGI-AU-RD-GIA Grains Industry Analytics Roadmap Generator |
+|  | **Russell Edson** | AU | {nert} and pynert: streamlined access to TERN's national ecosystem maps with R and Python |
+|  | **Jayani Lakshika** | CU | growR: Geographically weighted Regression for On-farm experiments With R |

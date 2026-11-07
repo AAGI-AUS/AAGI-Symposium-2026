@@ -4,9 +4,25 @@ title: '<span class="workshop-title-text">Theme 1 - Quantitative Methods, Analyt
 
 ## Posters
 
-<div class="poster-gallery">
+| Number | Name | Organisation | Poster Title |
+|:--|:----|:--|:----------|
+|  | **Emi Tanaka** | ANU | Flexible heritability estimation from linear mixed models |
+|  | **Aidan Moller** | AU | Stepping Towards Causal Learning in Agriculture |
+|  | **Susan Nabifwo** | AU | Data-informed mathematical models for predicting locust hopper band movement and optimising control. |
+|  | **Thilina Rukshila Withanage** | AU | Ahead of the Outbreak: Turning Field Data into Better House Mouse Outbreak Predictions |
+|  | **Braden Thorne** | CU | Functional Data Analysis for Assessing the Economic Impact of Soilborne Diseases |
+|  | **Julia Easton** | CU | Farm Zone Management Using TI-NDVI and Fuzzy Clustering |
+|  | **Kai Bagley** | CU | Response-variation subspaces for multivariate varying-coefficient fields |
+|  | **Matthew Nguyen** | CU | preparing OFE data for LMM analysis |
+|  | **Sandra Tanz** | CU | Trait stability across the paddock: Closely related wheat varieties in on-farm trials |
+|  | **Siyi Li** | UQ | Exploring unrealized Australian wheat yield potential |
+|  | **Vanessa Lopez Corona** | UQ | Reinforcement Learning for Sustainable Crop Management under Uncertainty |
+
+
+
+<!-- <div class="poster-gallery">
 <div class="poster-card">
   <img src="submitted-posters/poster-theme-1/generated-images/PosterTheme1_TanzSandra.png" alt="Poster by Sandra Tanz" />
   <p>Sandra Tanz</p>
 </div>
-</div>
+</div> -->

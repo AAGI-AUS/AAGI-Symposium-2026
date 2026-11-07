@@ -137,7 +137,7 @@ Access additional symposium materials, links and downloads shared throughout the
 <a class="nav-card" href="talks-panels.qmd">
 <h3>Talks &amp; Panels</h3>
 <p>Explore research talks and panel discussions featuring perspectives from across the Australian grains sector.</p>
-<img src="images/hdr_1.jpg" class="card-img" alt="Talks & Panels">
+<img src="images/talks.jpg" class="card-img card-img-cover" alt="Talks & Panels">
 </a>
 <a class="nav-card" href="workshops.qmd">
 <h3>Workshops</h3>

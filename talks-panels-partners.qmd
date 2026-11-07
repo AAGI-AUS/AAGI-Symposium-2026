@@ -19,7 +19,7 @@ The AAGI Partners session highlights the contributions, expertise and perspectiv
 
 <div class="speaker-grid">
 <article class="speaker-card">
-<img src="images/Fred_van_Eeuwijk.png" class="speaker-photo" alt="Fred van Eeuwijk">
+<img src="images/Fred_van_Eeuwijk_3.jpg" class="speaker-photo" alt="Fred van Eeuwijk">
 <div>
 <h3>Fred van Eeuwijk</h3>
 <p>Wageningen University & Research (WUR), Netherlands</p>

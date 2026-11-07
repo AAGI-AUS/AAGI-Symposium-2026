@@ -454,9 +454,17 @@
   margin: -1.5rem -2rem -1.5rem auto;
 }
 
+.speaker-logo-grdc {
+  margin-right: -1.5rem;
+}
+
 .speaker-logo-tight {
   max-width: none;
   max-height: 70px;
+}
+
+.speaker-logo-uq {
+  max-height: 56px;
 }
 
 .speaker-photo {

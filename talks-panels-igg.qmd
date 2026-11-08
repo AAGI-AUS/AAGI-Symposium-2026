@@ -53,9 +53,9 @@ Chaired by Mark Gibberd, the Industry, Government and Growers (IGG) session brin
 
 <div class="speaker-grid">
 <article class="speaker-card">
-<img src="images/Moreno_Mattaboni.png" class="speaker-photo" alt="Daniel Kidd">
+<img src="images/Jason_Franklin.png" class="speaker-photo" alt="Jason Franklin">
 <div>
-<h3>Moreno Mattaboni</h3>
+<h3> Jason Franklin</h3>
 <p> NGIS Australia</p>
 </div>
 <img src="images/ngis_logo.png" class="speaker-logo speaker-logo-tight" alt="GGA logo">

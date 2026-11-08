@@ -6,14 +6,14 @@ title: '<span class="workshop-title-text">Theme 2 - Genomics, Genetics and Bioin
 
 | Number | Name | Organisation | Poster Title |
 |:--|:----|:--|:----------|
-|  | **Beata Sznajder** | AU | Improving the efficiency of QTL/GWAS analytics |
-|  | **Mario Fruzangohar** | AU | CoreDetector: scalable, chromosome-agnostic core-genome alignment for structural-variation discovery in polyploid wheat |
-|  | **Richard Pinter** | AU | AAGI-AU-RD-HAP: Is Deep Learning Nearing Optimal Haplotype MEC? |
-|  | **Zhuo (Jo) Huang** | AU | Causal World Model for Genomic Prediction |
-|  | **Irina Kuznetsova** | CU | scShardSplitRef: gene-aware sharding of large chromosomes |
-|  | **Kristina Gagalova** | CU | PanAnnoGraph: from gene presence/absence to functional gene states in pangenome graphs |
-|  | **Pavel Misiun** | CU | Benchmarking structural predictors and pLM binary classifiers for predicting cross-kingdom protein-protein interactions in crop disease pathosystems |
-|  | **Ulduz Vafadarshamasbi** | CU | Looking beyond the QTL peak |
-|  | **Yutathkarn (Daniel) Coles** | CU | Unpacking genomic mechanisms underpinning rapid adaptation of barley net blotch disease |
-|  | **Dinesha Jayawardana** | UQ | Bridging the SNP-to-Gene Gap using eQTL Mapping and Network Analysis |
-|  | **Mitchell Bestry** | UWA | UWA Applied Bioinformatics Group |
+| 12 | [**Mitchell Bestry**](submitted-posters/pdfs/Poster_BestryMitchell.pdf){target="_blank"} | UWA | UWA Applied Bioinformatics Group |
+| 13 | **Yutathkarn (Daniel) Coles** | CU | Unpacking genomic mechanisms underpinning rapid adaptation of barley net blotch disease |
+| 14 | [**Mario Fruzangohar**](submitted-posters/pdfs/Poster_FruzangoharMario.pdf){target="_blank"} | AU | CoreDetector: scalable, chromosome-agnostic core-genome alignment for structural-variation discovery in polyploid wheat |
+| 15 | [**Kristina Gagalova**](submitted-posters/pdfs/Poster_GagalovaKristina.pdf){target="_blank"} | CU | PanAnnoGraph: from gene presence/absence to functional gene states in pangenome graphs |
+| 16 | [**Zhuo (Jo) Huang**](submitted-posters/pdfs/Poster_ZhuoHuang.pdf){target="_blank"} | AU | Causal World Model for Genomic Prediction |
+| 17 | [**Dinesha Jayawardana**](submitted-posters/pdfs/Poster_JayawardanaDinesha.pdf){target="_blank"} | UQ | Bridging the SNP-to-Gene Gap using eQTL Mapping and Network Analysis |
+| 18 | [**Irina Kuznetsova**](submitted-posters/pdfs/Poster_KuznetsovaIrina.pdf){target="_blank"} | CU | scShardSplitRef: gene-aware sharding of large chromosomes |
+| 19 | [**Pavel Misiun**](submitted-posters/pdfs/Poster_MisiunPavel.pdf){target="_blank"} | CU | Benchmarking structural predictors and pLM binary classifiers for predicting cross-kingdom protein-protein interactions in crop disease pathosystems |
+| 20 | [**Richard Pinter**](submitted-posters/pdfs/Poster_PinterRichard.pdf){target="_blank"} | AU | AAGI-AU-RD-HAP: Is Deep Learning Nearing Optimal Haplotype MEC? |
+| 21 | [**Beata Sznajder**](submitted-posters/pdfs/Poster_SznajderBeata.pdf){target="_blank"} | AU | Improving the efficiency of QTL/GWAS analytics |
+| 22 | [**Ulduz Vafadarshamasbi**](submitted-posters/pdfs/Poster_VafadarshamasbiUlduz.pdf){target="_blank"} | CU | Looking beyond the QTL peak |

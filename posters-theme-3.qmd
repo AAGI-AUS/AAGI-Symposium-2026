@@ -6,15 +6,15 @@ title: '<span class="workshop-title-text">Theme 3 - Sensing, Imaging and Phenoty
 
 | Number | Name | Organisation | Poster Title |
 |:--|:----|:--|:----------|
-|  | **Patrick Li** | ANU | Fusion of attribution maps for automated canola blackleg severity scoring |
-|  | **George Malone** | CU | Efficient unsupervised segmentation of X-ray fluorescence images in wheat pathology |
-|  | **Kefei Chen** | CU | Chickpea phenology and architecture: responses to temperature |
-|  | **Leni Campbell-Clause** | CU | Spatially-informed Chickpea Phytophthora Root Rot Management |
-|  | **Peiye Li** | CU | A Review on Hyperspectral Remote Sensing of Cereal Fungal Diseases: From Leaf Spectrum to Spaceborne Detection |
-|  | **Davoud Ashourloo** | UQ | Remote Sensing Based Crop Monitoring |
-|  | **Dung Nguyen** | UQ | AAGI-UQ-RD-SIA Image-Based Deep Learning for Crop Type Discrimination |
-|  | **Kaiyu Guo** | UQ | Mungbean Root Phenotyping |
-|  | **Ruizhu Jiang** | UQ | Operational Satellite Analytics for National Crop Phenology Mapping and Winter Crop Classification |
-|  | **Rukshan Karannagoda** | UQ | Towards Efficient Crop Phenotyping using LVLMs |
-|  | **Shijie Wang** | UQ | Generic Wheat Disease Segmentation |
-|  | **Yan Zhao** | UQ | Beyond Hyperspectral: Linking multi-scale hyperspectral signals to wheat stress, yield formation and grain quality |
+| 23 | [**Davoud Ashourloo**](submitted-posters/pdfs/Poster_AshourlooDavoud.pdf){target="_blank"} | UQ | Remote Sensing Based Crop Monitoring |
+| 24 | **Leni Campbell-Clause** | CU | Spatially-informed Chickpea Phytophthora Root Rot Management |
+| 25 | [**Kefei Chen**](submitted-posters/pdfs/Poster_ChenKefei.pdf){target="_blank"} | CU | Chickpea phenology and architecture: responses to temperature |
+| 26 | [**Kaiyu Guo**](submitted-posters/pdfs/Poster_GuoKaiyu.pdf){target="_blank"} | UQ | Mungbean Root Phenotyping |
+| 27 | [**Ruizhu Jiang**](submitted-posters/pdfs/Poster_JiangRuizhu.pdf){target="_blank"} | UQ | Operational Satellite Analytics for National Crop Phenology Mapping and Winter Crop Classification |
+| 28 | [**Rukshan Karannagoda**](submitted-posters/pdfs/Poster_KarannagodaRukshan.pdf){target="_blank"} | UQ | Towards Efficient Crop Phenotyping using LVLMs |
+| 29 | [**Patrick Li**](submitted-posters/pdfs/Poster_LiPatrick.pdf){target="_blank"} | ANU | Fusion of attribution maps for automated canola blackleg severity scoring |
+| 30 | [**Peiye Li**](submitted-posters/pdfs/Poster_LiPeiye.pdf){target="_blank"} | CU | A Review on Hyperspectral Remote Sensing of Cereal Fungal Diseases: From Leaf Spectrum to Spaceborne Detection |
+| 31 | [**George Malone**](submitted-posters/pdfs/Poster_MaloneGeorge.pdf){target="_blank"} | CU | Efficient unsupervised segmentation of X-ray fluorescence images in wheat pathology |
+| 32 | [**Dung Nguyen**](submitted-posters/pdfs/Poster_NguyenDung.pdf){target="_blank"} | UQ | AAGI-UQ-RD-SIA Image-Based Deep Learning for Crop Type Discrimination |
+| 33 | [**Shijie Wang**](submitted-posters/pdfs/Poster_WangShijie.pdf){target="_blank"} | UQ | Generic Wheat Disease Segmentation |
+| 34 | [**Yan Zhao**](submitted-posters/pdfs/Poster_ZhaoYan.pdf){target="_blank"} | UQ | Beyond Hyperspectral: Linking multi-scale hyperspectral signals to wheat stress, yield formation and grain quality |

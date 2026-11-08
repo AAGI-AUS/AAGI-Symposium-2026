@@ -6,10 +6,10 @@ title: '<span class="workshop-title-text">Theme 4 - Software Development and Res
 
 | Number | Name | Organisation | Poster Title |
 |:--|:----|:--|:----------|
-|  | **Andrew Bowerman** | ANU | Tidy, analysis-ready output from ASReml-R models |
-|  | **Gusti Rais** | ANU | AAGIverse Project |
-|  | **Aaron Poruthoor** | AU | AAGI Knowledge Chat |
-|  | **Max Moldovan** | AU | Crop Analytics Orchestra |
-|  | **Nandhini Subramanian** | AU | AAGI-AU-RD-GIA Grains Industry Analytics Roadmap Generator |
-|  | **Russell Edson** | AU | {nert} and pynert: streamlined access to TERN's national ecosystem maps with R and Python |
-|  | **Jayani Lakshika** | CU | growR: Geographically weighted Regression for On-farm experiments With R |
+| 35 | [**Andrew Bowerman**](submitted-posters/pdfs/Poster_AndrewBowerman.pdf){target="_blank"} | ANU | Tidy, analysis-ready output from ASReml-R models |
+| 36 | [**Russell Edson**](submitted-posters/pdfs/Poster_EdsonRussell.pdf){target="_blank"} | AU | {nert} and pynert: streamlined access to TERN's national ecosystem maps with R and Python |
+| 37 | **Jayani Lakshika** | CU | growR: Geographically weighted Regression for On-farm experiments With R |
+| 38 | [**Max Moldovan**](submitted-posters/pdfs/Poster_MoldovanMax.pdf){target="_blank"} | AU | Crop Analytics Orchestra |
+| 39 | [**Aaron Poruthoor**](submitted-posters/pdfs/Poster_PoruthoorAaron.pdf){target="_blank"} | AU | AAGI Knowledge Chat |
+| 40 | [**Gusti Rais**](submitted-posters/pdfs/Poster_RaisGusti.pdf){target="_blank"} | ANU | AAGIverse Project |
+| 41 | [**Nandhini Subramanian**](submitted-posters/pdfs/Poster_SubramanianNandhini.pdf){target="_blank"} | AU | AAGI-AU-RD-GIA Grains Industry Analytics Roadmap Generator |

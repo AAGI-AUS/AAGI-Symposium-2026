@@ -94,18 +94,6 @@ Role at Symposium: Student, Poster
 [zhanglong.cao@curtin.edu.au](mailto:zhanglong.cao@curtin.edu.au)<br>
 Role at Symposium: Attendee
 
-**Charlotte Italiano**<br>
-[charlotte.italiano@curtin.edu.au](mailto:charlotte.italiano@curtin.edu.au)<br>
-Role at Symposium: Attendee
-
-**Fiona Henley**<br>
-[fiona.henley@curtin.edu.au](mailto:fiona.henley@curtin.edu.au)<br>
-Role at Symposium: Attendee
-
-**Nicole Downs**<br>
-[nicole.downs@curtin.edu.au](mailto:nicole.downs@curtin.edu.au)<br>
-Role at Symposium: Attendee
-
 ## Adelaide University
 
 **Aaron Poruthoor**<br>
@@ -386,27 +374,27 @@ Role at Symposium: Speaker
 
 **Martin Boer**<br>
 [martin.boer@wur.nl](mailto:martin.boer@wur.nl)<br>
-Role at Symposium: Attendee (online)
+Role at Symposium: Speaker (online)
 
 **Jip Ramakers**<br>
 [jip.ramakers@wur.nl](mailto:jip.ramakers@wur.nl)<br>
-Role at Symposium: Attendee
+Role at Symposium: Speaker
 
 **Junita Solin**<br>
 [junita.solin@wur.nl](mailto:junita.solin@wur.nl)<br>
-Role at Symposium: Attendee
+Role at Symposium: Speaker
 
 **Killian Melsen**<br>
 [killian.melsen@wur.nl](mailto:killian.melsen@wur.nl)<br>
-Role at Symposium: Attendee
+Role at Symposium: Speaker
 
 **Aike Potze**<br>
 [aike.potze@wur.nl](mailto:aike.potze@wur.nl)<br>
-Role at Symposium: Attendee
+Role at Symposium: Speaker
 
 **Corne Verburg**<br>
 [c.verburg@tudelft.nl](mailto:c.verburg@tudelft.nl)<br>
-Role at Symposium: Attendee
+Role at Symposium: Speaker
 
 **Arnoud Glasbeek**<br>
 [a.glasbeek@tudelft.nl](mailto:a.glasbeek@tudelft.nl)<br>

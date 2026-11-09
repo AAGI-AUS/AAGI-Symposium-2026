@@ -7,7 +7,7 @@ title: '<span class="workshop-title-text">Theme 3 - Sensing, Imaging and Phenoty
 | Number | Name | Organisation | Poster Title |
 |:--|:----|:--|:----------|
 | 23 | [**Davoud Ashourloo**](submitted-posters/pdfs/Poster_AshourlooDavoud.pdf){target="_blank"} | UQ | Remote Sensing Based Crop Monitoring |
-| 24 | **Leni Campbell-Clause** | CU | Spatially-informed Chickpea Phytophthora Root Rot Management |
+| 24 | [**Leni Campbell-Clause**](submitted-posters/pdfs/Poster_Campbell-ClauseLeni.pdf){target="_blank"} | CU | Spatially-informed Chickpea Phytophthora Root Rot Management |
 | 25 | [**Kefei Chen**](submitted-posters/pdfs/Poster_ChenKefei.pdf){target="_blank"} | CU | Chickpea phenology and architecture: responses to temperature |
 | 26 | [**Kaiyu Guo**](submitted-posters/pdfs/Poster_GuoKaiyu.pdf){target="_blank"} | UQ | Mungbean Root Phenotyping |
 | 27 | [**Ruizhu Jiang**](submitted-posters/pdfs/Poster_JiangRuizhu.pdf){target="_blank"} | UQ | Operational Satellite Analytics for National Crop Phenology Mapping and Winter Crop Classification |

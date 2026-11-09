@@ -7,7 +7,7 @@ title: '<span class="workshop-title-text">Theme 2 - Genomics, Genetics and Bioin
 | Number | Name | Organisation | Poster Title |
 |:--|:----|:--|:----------|
 | 12 | [**Mitchell Bestry**](submitted-posters/pdfs/Poster_BestryMitchell.pdf){target="_blank"} | UWA | UWA Applied Bioinformatics Group |
-| 13 | **Yutathkarn (Daniel) Coles** | CU | Unpacking genomic mechanisms underpinning rapid adaptation of barley net blotch disease |
+| 13 | [**Yutathkarn (Daniel) Coles**](submitted-posters/pdfs/Poster_ColesYutathkarn.pdf){target="_blank"} | CU | Unpacking genomic mechanisms underpinning rapid adaptation of barley net blotch disease |
 | 14 | [**Mario Fruzangohar**](submitted-posters/pdfs/Poster_FruzangoharMario.pdf){target="_blank"} | AU | CoreDetector: scalable, chromosome-agnostic core-genome alignment for structural-variation discovery in polyploid wheat |
 | 15 | [**Kristina Gagalova**](submitted-posters/pdfs/Poster_GagalovaKristina.pdf){target="_blank"} | CU | PanAnnoGraph: from gene presence/absence to functional gene states in pangenome graphs |
 | 16 | [**Zhuo (Jo) Huang**](submitted-posters/pdfs/Poster_ZhuoHuang.pdf){target="_blank"} | AU | Causal World Model for Genomic Prediction |

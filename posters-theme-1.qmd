@@ -6,8 +6,8 @@ title: '<span class="workshop-title-text">Theme 1 - Quantitative Methods, Analyt
 
 | Number | Name | Organisation | Poster Title |
 |:--|:----|:--|:----------|
-| 1 | **Kai Bagley** | CU | Response-variation subspaces for multivariate varying-coefficient fields |
-| 2 | **Julia Easton** | CU | Farm Zone Management Using TI-NDVI and Fuzzy Clustering |
+| 1 | [**Kai Bagley**](submitted-posters/pdfs/Poster_BagleyKai.pdf){target="_blank"} | CU | Response-variation subspaces for multivariate varying-coefficient fields |
+| 2 | [**Julia Easton**](submitted-posters/pdfs/Poster_ShahriariZahra.pdf){target="_blank"} | CU | Farm Zone Management Using TI-NDVI and Fuzzy Clustering |
 | 3 | [**Siyi Li**](submitted-posters/pdfs/Poster_LiSiyi.pdf){target="_blank"} | UQ | Exploring unrealized Australian wheat yield potential |
 | 4 | [**Vanessa Lopez Corona**](submitted-posters/pdfs/Poster_LopezVanessa.pdf){target="_blank"} | UQ | Reinforcement Learning for Sustainable Crop Management under Uncertainty |
 | 5 | [**Aidan Moller**](submitted-posters/pdfs/Poster_MollerAidan.pdf){target="_blank"} | AU | Stepping Towards Causal Learning in Agriculture |

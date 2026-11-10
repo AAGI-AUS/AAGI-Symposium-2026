@@ -29,5 +29,5 @@ pak::pak("biometryhub/speed")
 
 ## Resources
 
-- Workshop Website: https://aagi-aus.github.io/speed-workshop
-- Slides: https://aagi-aus.github.io/speed-workshop/slides.html
+- Workshop Website: <https://aagi-aus.github.io/speed-workshop>
+- Slides: <https://aagi-aus.github.io/speed-workshop/slides.html>

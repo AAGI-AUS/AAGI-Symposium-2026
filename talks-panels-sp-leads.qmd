@@ -23,7 +23,7 @@ The session will be followed by an awards ceremony, celebrating the best poster 
 Scan the GroupMap QR code to submit questions that will be answered during this session. The link also lets you vote for the best 3-minute pitch and the best poster.
 
 
-[Vote on GroupMap ↗](https://curtin-join.groupmap.com/A91-566-F5B){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+[Submit Questions on GroupMap ↗](https://curtin-join.groupmap.com/A91-566-F5B){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
 
 
 ::: {.card .text-center .p-4 .my-4 style="background-color: #f8f9fa; border-radius: 8px;"}

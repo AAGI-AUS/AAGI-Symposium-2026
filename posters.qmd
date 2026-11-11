@@ -2,6 +2,24 @@
 title: "Posters"
 ---
 
+### Poster Awards
+There will be one prize in each of two categories:
+
+- **Best Poster**
+- **Best Poster Pitch**
+
+Both are People’s Choice prizes, and everyone is invited to vote. Scan the QR code below to visit the GroupMap site and cast your votes.
+
+[Vote on GroupMap ↗](https://curtin-join.groupmap.com/A91-566-F5B){.btn .btn-lg role="button" target="_blank" style="background-color: #00808b; color: white; border-color: #00808b"}
+
+<!-- banner section -->
+::: {.card .text-center .p-4 .my-4 style="background-color: #f8f9fa; border-radius: 8px;"}
+
+![GroupMap QR code for voting for the best poster and best short poster presentation](images/Groupmap_QRcode.png){width=250}
+
+:::
+
+
 ## Explore Posters by Theme
 
 <div class="card-grid card-grid-two">
@@ -32,21 +50,6 @@ title: "Posters"
 PhD students will be invited to give a brief **3-5 minute “elevator pitch”** alongside their poster. This is an opportunity to introduce yourself, provide a concise overview of your project, highlight its significance, and encourage further discussion during the poster session.
 Subject to available time, researchers who opt in may also be invited to give a short poster presentation.
 
-
-### Poster Awards
-There will be one prize in each of two categories:
-
-- **Best Poster**
-- **Best Poster Pitch**
-
-Both are People’s Choice prizes, and everyone is invited to vote. Scan the QR code below to visit the GroupMap site and cast your votes.
-
-<!-- banner section -->
-::: {.card .text-center .p-4 .my-4 style="background-color: #f8f9fa; border-radius: 8px;"}
-
-![GroupMap QR code for voting for the best poster and best short poster presentation](images/Groupmap_QRcode.png){width=250}
-
-:::
 
 
 <!-- banner section -->
